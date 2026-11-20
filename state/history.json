@@ -556,6 +556,30 @@
     "age_h": 7.1
    },
    "score": 2.586
+  },
+  {
+   "id": "RepleteCoySagePJSugar--G1Z6mwWiTS_sPs3",
+   "media_id": "18644059978013103",
+   "posted_at": "2026-11-20T15:54:42Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "low",
+    "hook_style": "stakes",
+    "hook_case": "title"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "topic:npc": 1,
+    "hour": "06"
+   },
+   "hook": "Watch YourRAGE's headlock go wrong",
+   "duration": 25.39
   }
  ]
 }

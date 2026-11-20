@@ -341,5 +341,27 @@
   },
   "clip_url": "https://www.twitch.tv/asianjeff/clip/EphemeralShyBurritoKreygasm-bA3XcoryMTRHcOBB",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/EphemeralShyBurritoKreygasm-bA3XcoryMTRHcOBB.mp4"
+ },
+ {
+  "id": "PlayfulUglyDadTwitchRPG-Hpnxby6KITW2iIzh",
+  "media_id": "17949311667364149",
+  "posted_at": "2026-11-20T23:46:22Z",
+  "streamer": "lacy",
+  "hook": "LACY freezes when he gets caught",
+  "caption": "LACY tries sneaking through Mandy's house and gets caught \ud83d\ude02\n\nWatch LACY live: twitch.tv/lacy\n\n#gta6 #gtavi #gta6clips #vicecity #twitchclips #LACY",
+  "campaign": {
+   "id": "reach-lacy-gta",
+   "name": "$12,500 LACY GTA VI Marathon Pool (Reach)",
+   "mention": "LACY",
+   "hashtag": "#LACY",
+   "rules": "Lacy must be the main focus; caption/overlay must say LACY; caption must have #LACY; no logos; never negative about Lacy; English audience; submit link within 30 min of posting",
+   "submit_at": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a?group=1",
+   "min_total_views": 750000,
+   "ends": "when the marathon ends",
+   "cta": "Watch LACY live: twitch.tv/lacy",
+   "pay": "pool $12.5K split by views, needs 750K total views"
+  },
+  "clip_url": "https://www.twitch.tv/lacy/clip/PlayfulUglyDadTwitchRPG-Hpnxby6KITW2iIzh",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/PlayfulUglyDadTwitchRPG-Hpnxby6KITW2iIzh.mp4"
  }
 ]

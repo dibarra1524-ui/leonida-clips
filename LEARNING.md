@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 16. Scored (20h+ old): 5. Exploration: 25%.
+Posts: 16. Scored (20h+ old): 6. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -8,108 +8,112 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 | option | evidence | lift |
 |---|---|---|
-| low | 1.0 | +0.04 |
-| high | 1.0 | -0.19 |
-| mid | 1.0 | -0.22 |
+| low | 1.0 | +0.18 |
+| mid | 0.9 | -0.18 |
+| high | 2.0 | -0.26 |
 
 ## gene:cap_pos
 
 | option | evidence | lift |
 |---|---|---|
-| mid | 2.9 | -0.04 |
-| low | 1.9 | -0.21 |
+| mid | 3.9 | +0.04 |
+| low | 1.9 | -0.18 |
 
 ## gene:cap_size
 
 | option | evidence | lift |
 |---|---|---|
-| 84 | 1.9 | +0.03 |
-| 72 | 2.9 | -0.25 |
+| 84 | 1.9 | +0.14 |
+| 72 | 2.9 | -0.10 |
+| 96 | 1.0 | -0.18 |
 
 ## gene:hook_case
 
 | option | evidence | lift |
 |---|---|---|
-| title | 2.9 | -0.04 |
-| upper | 1.9 | -0.21 |
+| title | 2.9 | +0.17 |
+| upper | 2.9 | -0.27 |
 
 ## gene:hook_style
 
 | option | evidence | lift |
 |---|---|---|
-| stakes | 1.0 | +0.04 |
-| question | 1.9 | -0.09 |
-| streamer | 1.9 | -0.21 |
+| stakes | 1.0 | +0.18 |
+| question | 1.9 | +0.05 |
+| streamer | 1.9 | -0.18 |
+| reaction | 1.0 | -0.18 |
 
 ## gene:max_len
 
 | option | evidence | lift |
 |---|---|---|
-| 20 | 0.9 | +0.08 |
-| 60 | 0.9 | -0.04 |
-| 45 | 2.0 | -0.14 |
-| 30 | 1.0 | -0.19 |
+| 20 | 0.9 | +0.21 |
+| 45 | 1.9 | +0.00 |
+| 30 | 1.0 | -0.14 |
+| 60 | 1.9 | -0.18 |
 
 ## gene:trim
 
 | option | evidence | lift |
 |---|---|---|
-| none | 1.9 | +0.03 |
-| smart | 2.9 | -0.25 |
+| none | 1.9 | +0.14 |
+| smart | 3.9 | -0.19 |
 
 ## hour
 
 | option | evidence | lift |
 |---|---|---|
-| 18 | 1.0 | +0.04 |
-| 15 | 3.8 | -0.21 |
+| 18 | 1.0 | +0.18 |
+| 15 | 3.8 | -0.09 |
+| 06 | 1.0 | -0.18 |
 
 ## layout
 
 | option | evidence | lift |
 |---|---|---|
-| full | 0.9 | +0.08 |
-| cam | 3.9 | -0.23 |
+| full | 0.9 | +0.21 |
+| cam | 4.8 | -0.18 |
 
 ## len
 
 | option | evidence | lift |
 |---|---|---|
+| 20-35 | 3.9 | +0.04 |
 | 50+ | 0.9 | -0.04 |
-| 20-35 | 2.9 | -0.04 |
-| <20 | 1.0 | -0.22 |
+| <20 | 0.9 | -0.18 |
 
 ## streamer
 
 | option | evidence | lift |
 |---|---|---|
-| lirik | 0.9 | +0.08 |
-| xqc | 2.9 | -0.15 |
-| ohnepixel | 1.0 | -0.19 |
+| lirik | 0.9 | +0.21 |
+| xqc | 2.8 | -0.03 |
+| ohnepixel | 1.0 | -0.14 |
+| caseoh_ | 1.0 | -0.18 |
 
 ## topic
 
 | option | evidence | lift |
 |---|---|---|
-| car | 1.9 | -0.18 |
-| npc | 1.0 | -0.19 |
-| police | 2.9 | -0.25 |
+| police | 2.9 | -0.10 |
+| npc | 1.0 | -0.14 |
+| car | 1.9 | -0.15 |
 
 ## Trending right now (from the last fetch)
 
-Topics: funny 1.00, car 0.52, npc 0.41, map 0.27, money 0.15, weapon 0.10, rage 0.05
+Topics: car 1.00, funny 0.84, npc 0.70, police 0.26, money 0.10, glitch 0.07
 
-Streamers: xqc 1.00, caseoh_ 0.84, ohnepixel 0.55, theburntpeanut 0.53, ishowspeed 0.32, kaicenat 0.24, sixdadon87 0.23, hasanabi 0.23
+Streamers: ohnepixel 1.00, ishowspeed 0.77, kaicenat 0.56, xqc 0.42, joe_bartolozzi 0.30, theteegoat 0.29, dansgaming 0.24, sweet_anita 0.19
 
 Hook ideas from trending Shorts titles:
 
-- Grand Theft Auto VI: Out Now
-- GTA 6 (Grand Theft Auto VI) - Official Trailer
-- Grand Theft Auto VI - Features Trailer | PS5 Games
+- The 6 BEST GTA 6 Niches for YouTube Shorts
+- Literally WHAT is GOING ON in GTA 6?? | xQc GTA VI
 - GTA 6 - Before You Buy
+- GTA memes to watch before GTA 6
 - GTA 6 PS5 Pro Gameplay - 15 Minutes of The First Mission
-- 12 THINGS You NEED To Do On DAY 1 in GTA 6
-- GTA 6 Review - Game of the Generation
-- GTA 6 - The First Early Reviews...
-- New GTA 6 Gameplay Looks Just Like Real Life
-- STEALING A FIGHTER JET FROM GTA 6 MILITARY BASE 😱
+- THE GTA 6 TV IS CRAZY
+- The 7 BEST GTA 6 Niches for YouTube Shorts
+- Top 5 VIRAL Shorts Content Ideas for GTA 6 (NO PS5)
+- Grand Theft Auto VI - Features Trailer | PS5 Games
+- How to Make $1,000/Month with GTA 6 YouTube Shorts? (Step-by-Step) | Faceless USA Shorts C

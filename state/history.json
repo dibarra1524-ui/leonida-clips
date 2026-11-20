@@ -30,7 +30,7 @@
     "saves": 0,
     "avg_watch": 19.728,
     "skip_rate": 0.278,
-    "age_h": 34.6
+    "age_h": 41.8
    },
    "score": 3.28
   },
@@ -63,7 +63,7 @@
     "saves": 0,
     "avg_watch": 11.254,
     "skip_rate": 0.269,
-    "age_h": 34.1
+    "age_h": 41.3
    },
    "score": 3.621
   },
@@ -98,7 +98,7 @@
     "saves": 0,
     "avg_watch": 9.125,
     "skip_rate": 0.272,
-    "age_h": 33.8
+    "age_h": 41.0
    },
    "score": 2.536
   },
@@ -135,7 +135,7 @@
     "saves": 0,
     "avg_watch": 10.854,
     "skip_rate": 0.222,
-    "age_h": 31.9
+    "age_h": 39.1
    },
    "score": 2.686
   },
@@ -170,7 +170,7 @@
     "saves": 0,
     "avg_watch": 15.805,
     "skip_rate": 0.191,
-    "age_h": 30.0
+    "age_h": 37.2
    },
    "score": 3.446
   },
@@ -196,17 +196,17 @@
    "hook": "He called it perfectly",
    "duration": 21.84,
    "metrics": {
-    "views": 190,
-    "reach": 146,
+    "views": 191,
+    "reach": 147,
     "likes": 3,
     "comments": 0,
     "shares": 0,
     "saves": 0,
-    "avg_watch": 13.711,
-    "skip_rate": 0.17,
-    "age_h": 17.4
+    "avg_watch": 13.815,
+    "skip_rate": 0.169,
+    "age_h": 24.6
    },
-   "score": 2.718
+   "score": 2.725
   },
   {
    "id": "RelievedRichRhinocerosPeteZaroll-qOXHVQ3XVK3asCkK",
@@ -238,7 +238,7 @@
     "saves": 0,
     "avg_watch": 6.968,
     "skip_rate": 0.495,
-    "age_h": 9.2
+    "age_h": 16.4
    },
    "score": 2.081
   },
@@ -272,7 +272,7 @@
     "saves": 0,
     "avg_watch": 16.963,
     "skip_rate": 0.217,
-    "age_h": 6.0
+    "age_h": 13.2
    },
    "score": 2.686
   },
@@ -301,14 +301,14 @@
    "duration": 20.0,
    "metrics": {
     "views": 198,
-    "reach": 137,
+    "reach": 138,
     "likes": 2,
     "comments": 0,
     "shares": 0,
     "saves": 0,
     "avg_watch": 12.931,
     "skip_rate": 0.235,
-    "age_h": 5.3
+    "age_h": 12.5
    },
    "score": 2.718
   },
@@ -335,17 +335,17 @@
    "hook": "Bobby VanRiper could not believe this",
    "duration": 20.0,
    "metrics": {
-    "views": 122,
-    "reach": 108,
+    "views": 123,
+    "reach": 109,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saves": 0,
-    "avg_watch": 6.217,
-    "skip_rate": 0.398,
-    "age_h": 5.3
+    "avg_watch": 6.185,
+    "skip_rate": 0.404,
+    "age_h": 12.5
    },
-   "score": 2.17
+   "score": 2.169
   },
   {
    "id": "PeppyFunGaurPunchTrees-edM6JKBegYQ6zSk-",
@@ -377,7 +377,7 @@
     "saves": 0,
     "avg_watch": 41.976,
     "skip_rate": 0.398,
-    "age_h": 5.2
+    "age_h": 12.4
    },
    "score": 2.991
   },
@@ -412,7 +412,7 @@
     "saves": 0,
     "avg_watch": 9.39,
     "skip_rate": 0.35,
-    "age_h": 5.2
+    "age_h": 12.4
    },
    "score": 2.407
   },
@@ -447,7 +447,7 @@
     "saves": 0,
     "avg_watch": 12.442,
     "skip_rate": 0.331,
-    "age_h": 2.9
+    "age_h": 10.1
    },
    "score": 2.587
   },
@@ -474,17 +474,17 @@
    "hook": "Bobby VanRiper panics at the shark",
    "duration": 16.0,
    "metrics": {
-    "views": 185,
-    "reach": 127,
+    "views": 186,
+    "reach": 128,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saves": 0,
-    "avg_watch": 12.68,
-    "skip_rate": 0.136,
-    "age_h": 2.9
+    "avg_watch": 12.608,
+    "skip_rate": 0.135,
+    "age_h": 10.1
    },
-   "score": 2.856
+   "score": 2.855
   },
   {
    "id": "ThoughtfulAttractiveHeronNononoCat-M3mdHEWMKvGswt5_",
@@ -507,7 +507,19 @@
     "hour": "00"
    },
    "hook": "Bobby VanRiper fell for GTA 6",
-   "duration": 16.87
+   "duration": 16.87,
+   "metrics": {
+    "views": 132,
+    "reach": 115,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "avg_watch": 8.591,
+    "skip_rate": 0.27,
+    "age_h": 7.1
+   },
+   "score": 2.425
   },
   {
    "id": "AttractiveImportantChimpanzeeKappaWealth-Pn4GIVLzi_QowzCL",
@@ -531,7 +543,19 @@
     "hour": "00"
    },
    "hook": "He can't believe there's no stars",
-   "duration": 23.0
+   "duration": 23.0,
+   "metrics": {
+    "views": 159,
+    "reach": 126,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "avg_watch": 12.574,
+    "skip_rate": 0.159,
+    "age_h": 7.1
+   },
+   "score": 2.586
   }
  ]
 }

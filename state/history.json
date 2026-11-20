@@ -625,6 +625,32 @@
    },
    "hook": "Kai Cenat sends dirt bike flying",
    "duration": 12.01
+  },
+  {
+   "id": "EphemeralShyBurritoKreygasm-bA3XcoryMTRHcOBB",
+   "media_id": "17974706997188788",
+   "posted_at": "2026-11-20T20:58:11Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "low",
+    "hook_style": "streamer",
+    "hook_case": "title"
+   },
+   "traits": {
+    "streamer": "asianjeff",
+    "len": "35-50",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "topic:funny": 1,
+    "topic:npc": 1,
+    "topic:weapon": 1,
+    "hour": "12"
+   },
+   "hook": "AsianJeff meets the fearless NPC",
+   "duration": 38.58
   }
  ]
 }

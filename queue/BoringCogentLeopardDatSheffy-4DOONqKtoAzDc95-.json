@@ -1,0 +1,43 @@
+{
+ "id": "BoringCogentLeopardDatSheffy-4DOONqKtoAzDc95-",
+ "streamer": "Silky",
+ "login": "silky",
+ "title": "Silky GTA 6 #vk26",
+ "views": 35,
+ "created_at": "2026-11-20T06:23:40Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/silky/clip/BoringCogentLeopardDatSheffy-4DOONqKtoAzDc95-",
+ "platform": "twitch",
+ "credit": "twitch.tv/silky",
+ "layout": "cam",
+ "transcript": "was that a fucking butt plug right thanks all right oh finger it should work fine now these are my dads but I think you forgot about them you can have them for fixing my thing well I appreciate that many",
+ "score": 1.2,
+ "campaign": {
+  "id": "37f68297-664c-4820-a020-9bbb4a703bf9",
+  "name": "$7,500 Silky Pool Campaign (Reach)",
+  "mention": "Silky",
+  "hashtag": "#silky",
+  "rules": "Silky must be the main focus playing GTA 6; caption must include #silky; never negative about Silky; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9",
+  "pay": "pool $7.5K split by views, needs 250K total views, 500 views per clip",
+  "cta": "Watch Silky live: twitch.tv/silky",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "smart",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "question",
+  "hook_case": "upper"
+ },
+ "kept": 23.0,
+ "action": 0.599,
+ "action_parts": {
+  "audio": 0.82,
+  "motion": 0.76,
+  "talk": 0.24,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-20T20:41:06Z"
+}

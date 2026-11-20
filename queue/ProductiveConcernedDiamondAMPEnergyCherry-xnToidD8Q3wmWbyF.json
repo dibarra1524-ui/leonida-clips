@@ -1,0 +1,44 @@
+{
+ "id": "ProductiveConcernedDiamondAMPEnergyCherry-xnToidD8Q3wmWbyF",
+ "streamer": "Lacy",
+ "login": "lacy",
+ "title": "a",
+ "views": 580,
+ "created_at": "2026-11-19T20:13:28Z",
+ "duration": 23.4,
+ "clip_url": "https://www.twitch.tv/lacy/clip/ProductiveConcernedDiamondAMPEnergyCherry-xnToidD8Q3wmWbyF",
+ "platform": "twitch",
+ "credit": "twitch.tv/lacy",
+ "layout": "cam",
+ "transcript": "Yeah, you could always work on our speed. Yeah, well, I definitely think you could work on your speed. Try to call me slow. I don't know, babe. I might have to run some drills with you at home. Keep you on point. Always down the drill. I bet.",
+ "score": 11.5,
+ "campaign": {
+  "id": "reach-lacy-gta",
+  "name": "$12,500 LACY GTA VI Marathon Pool (Reach)",
+  "mention": "LACY",
+  "hashtag": "#LACY",
+  "rules": "Lacy must be the main focus; caption/overlay must say LACY; caption must have #LACY; no logos; never negative about Lacy; English audience; submit link within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a?group=1",
+  "min_total_views": 750000,
+  "ends": "when the marathon ends",
+  "cta": "Watch LACY live: twitch.tv/lacy",
+  "pay": "pool $12.5K split by views, needs 750K total views"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "smart",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "streamer",
+  "hook_case": "title"
+ },
+ "kept": 20.0,
+ "action": 0.445,
+ "action_parts": {
+  "audio": 0.23,
+  "motion": 0.79,
+  "talk": 0.45,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-20T20:41:06Z"
+}

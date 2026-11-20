@@ -1,0 +1,43 @@
+{
+ "id": "VibrantInexpensivePhoneDeIlluminati-pgvd3Agl9eggZ3pb",
+ "streamer": "AsianJeff",
+ "login": "asianjeff",
+ "title": "out partying btw",
+ "views": 127,
+ "created_at": "2026-11-20T07:55:05Z",
+ "duration": 18.4,
+ "clip_url": "https://www.twitch.tv/asianjeff/clip/VibrantInexpensivePhoneDeIlluminati-pgvd3Agl9eggZ3pb",
+ "platform": "twitch",
+ "credit": "twitch.tv/asianjeff",
+ "layout": "cam",
+ "transcript": "mmm s -s -s -s -s -s -s -s -s -s -s -s -s -s",
+ "score": 4.5,
+ "campaign": {
+  "id": "bbd3a963-9a23-457c-bc15-6697971d9902",
+  "name": "$2,500 AsianJeff Clipping Campaign (Reach) $1/1K",
+  "mention": "AsianJeff",
+  "hashtag": "#AsianJeff",
+  "rules": "Only AsianJeff's GTA 6 playthrough from Nov 19 on; AsianJeff must be the main focus; caption must include #AsianJeff; never negative, no hate farming or rage-bait; no logos; English audience (50%+ US/CA/UK/AU/NZ); payout only after 10K views per clip; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/bbd3a963-9a23-457c-bc15-6697971d9902",
+  "pay": "cpm $1.00/1K (TikTok/IG/YT/X), min $10, max $300/clip, 10K-view minimum per clip",
+  "cta": "Follow AsianJeff live: twitch.tv/asianjeff",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "none",
+  "cap_size": 96,
+  "cap_pos": "low",
+  "hook_style": "stakes",
+  "hook_case": "title"
+ },
+ "kept": 18.52,
+ "action": 0.688,
+ "action_parts": {
+  "audio": 1.0,
+  "motion": 1.0,
+  "talk": 0.11,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-20T20:41:06Z"
+}

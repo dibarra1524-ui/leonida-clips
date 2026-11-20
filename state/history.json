@@ -22,15 +22,15 @@
    "hook": "XQC STEALS HIS FIRST CAR",
    "duration": 54.3,
    "metrics": {
-    "views": 1308,
-    "reach": 1057,
+    "views": 1309,
+    "reach": 1058,
     "likes": 10,
     "comments": 0,
     "shares": 3,
     "saves": 0,
-    "avg_watch": 19.728,
+    "avg_watch": 19.719,
     "skip_rate": 0.278,
-    "age_h": 46.6
+    "age_h": 49.6
    },
    "score": 3.28
   },
@@ -63,7 +63,7 @@
     "saves": 0,
     "avg_watch": 11.254,
     "skip_rate": 0.269,
-    "age_h": 46.1
+    "age_h": 49.1
    },
    "score": 3.621
   },
@@ -98,7 +98,7 @@
     "saves": 0,
     "avg_watch": 9.125,
     "skip_rate": 0.272,
-    "age_h": 45.8
+    "age_h": 48.8
    },
    "score": 2.536
   },
@@ -135,7 +135,7 @@
     "saves": 0,
     "avg_watch": 10.854,
     "skip_rate": 0.222,
-    "age_h": 43.8
+    "age_h": 46.9
    },
    "score": 2.686
   },
@@ -170,7 +170,7 @@
     "saves": 0,
     "avg_watch": 15.805,
     "skip_rate": 0.191,
-    "age_h": 42.0
+    "age_h": 45.0
    },
    "score": 3.446
   },
@@ -204,7 +204,7 @@
     "saves": 0,
     "avg_watch": 13.815,
     "skip_rate": 0.169,
-    "age_h": 29.4
+    "age_h": 32.4
    },
    "score": 2.725
   },
@@ -238,7 +238,7 @@
     "saves": 0,
     "avg_watch": 6.968,
     "skip_rate": 0.495,
-    "age_h": 21.2
+    "age_h": 24.2
    },
    "score": 2.081
   },
@@ -264,17 +264,17 @@
    "hook": "Wait for the bridge throw",
    "duration": 30.02,
    "metrics": {
-    "views": 210,
-    "reach": 156,
+    "views": 211,
+    "reach": 157,
     "likes": 5,
     "comments": 0,
     "shares": 0,
     "saves": 0,
-    "avg_watch": 16.963,
-    "skip_rate": 0.217,
-    "age_h": 18.0
+    "avg_watch": 16.862,
+    "skip_rate": 0.222,
+    "age_h": 21.0
    },
-   "score": 2.686
+   "score": 2.683
   },
   {
    "id": "GentleBrainyTortoiseKappa-SqJmUKvZs2E33xOH",
@@ -308,7 +308,7 @@
     "saves": 0,
     "avg_watch": 12.931,
     "skip_rate": 0.235,
-    "age_h": 17.3
+    "age_h": 20.3
    },
    "score": 2.718
   },
@@ -343,7 +343,7 @@
     "saves": 0,
     "avg_watch": 6.185,
     "skip_rate": 0.404,
-    "age_h": 17.3
+    "age_h": 20.3
    },
    "score": 2.169
   },
@@ -377,7 +377,7 @@
     "saves": 0,
     "avg_watch": 41.976,
     "skip_rate": 0.398,
-    "age_h": 17.2
+    "age_h": 20.2
    },
    "score": 2.991
   },
@@ -404,17 +404,17 @@
    "hook": "Bobby VanRiper can't believe how real",
    "duration": 20.0,
    "metrics": {
-    "views": 151,
-    "reach": 123,
+    "views": 153,
+    "reach": 124,
     "likes": 3,
     "comments": 0,
     "shares": 0,
     "saves": 0,
-    "avg_watch": 9.39,
-    "skip_rate": 0.35,
-    "age_h": 17.2
+    "avg_watch": 9.511,
+    "skip_rate": 0.347,
+    "age_h": 20.2
    },
-   "score": 2.407
+   "score": 2.419
   },
   {
    "id": "BoldPopularLegMrDestructoid-zkq_hgoilPQdO3R2",
@@ -445,11 +445,11 @@
     "comments": 0,
     "shares": 0,
     "saves": 0,
-    "avg_watch": 12.442,
+    "avg_watch": 12.36,
     "skip_rate": 0.331,
-    "age_h": 14.9
+    "age_h": 17.9
    },
-   "score": 2.587
+   "score": 2.584
   },
   {
    "id": "DirtyHeartlessSharkEleGiggle-HaEOarVxhHEr9cqV",
@@ -474,17 +474,17 @@
    "hook": "Bobby VanRiper panics at the shark",
    "duration": 16.0,
    "metrics": {
-    "views": 186,
-    "reach": 128,
+    "views": 187,
+    "reach": 129,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saves": 0,
-    "avg_watch": 12.608,
-    "skip_rate": 0.135,
-    "age_h": 14.9
+    "avg_watch": 12.509,
+    "skip_rate": 0.134,
+    "age_h": 17.9
    },
-   "score": 2.855
+   "score": 2.853
   },
   {
    "id": "ThoughtfulAttractiveHeronNononoCat-M3mdHEWMKvGswt5_",
@@ -509,17 +509,17 @@
    "hook": "Bobby VanRiper fell for GTA 6",
    "duration": 16.87,
    "metrics": {
-    "views": 132,
-    "reach": 115,
+    "views": 133,
+    "reach": 116,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saves": 0,
-    "avg_watch": 8.591,
-    "skip_rate": 0.27,
-    "age_h": 11.9
+    "avg_watch": 8.462,
+    "skip_rate": 0.276,
+    "age_h": 14.9
    },
-   "score": 2.425
+   "score": 2.419
   },
   {
    "id": "AttractiveImportantChimpanzeeKappaWealth-Pn4GIVLzi_QowzCL",
@@ -551,11 +551,11 @@
     "comments": 0,
     "shares": 0,
     "saves": 0,
-    "avg_watch": 12.574,
+    "avg_watch": 12.634,
     "skip_rate": 0.159,
-    "age_h": 11.9
+    "age_h": 14.9
    },
-   "score": 2.586
+   "score": 2.588
   },
   {
    "id": "RepleteCoySagePJSugar--G1Z6mwWiTS_sPs3",
@@ -579,7 +579,19 @@
     "hour": "06"
    },
    "hook": "Watch YourRAGE's headlock go wrong",
-   "duration": 25.39
+   "duration": 25.39,
+   "metrics": {
+    "views": 151,
+    "reach": 124,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "avg_watch": 11.146,
+    "skip_rate": 0.306,
+    "age_h": 7.8
+   },
+   "score": 2.405
   },
   {
    "id": "SparklyIncredulousCoyoteDendiFace-q00qxoxa76P8v3Q7",
@@ -602,7 +614,19 @@
     "hour": "09"
    },
    "hook": "Silky's face after this shot",
-   "duration": 20.0
+   "duration": 20.0,
+   "metrics": {
+    "views": 192,
+    "reach": 147,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "avg_watch": 12.894,
+    "skip_rate": 0.224,
+    "age_h": 7.4
+   },
+   "score": 2.709
   },
   {
    "id": "ElatedCulturedAsparagusTheTarFu-FGZmqGSY0OJ_vb_4",
@@ -624,7 +648,19 @@
     "hour": "12"
    },
    "hook": "Kai Cenat sends dirt bike flying",
-   "duration": 12.01
+   "duration": 12.01,
+   "metrics": {
+    "views": 164,
+    "reach": 109,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "avg_watch": 8.589,
+    "skip_rate": 0.216,
+    "age_h": 2.7
+   },
+   "score": 2.705
   },
   {
    "id": "EphemeralShyBurritoKreygasm-bA3XcoryMTRHcOBB",
@@ -650,7 +686,19 @@
     "hour": "12"
    },
    "hook": "AsianJeff meets the fearless NPC",
-   "duration": 38.58
+   "duration": 38.58,
+   "metrics": {
+    "views": 136,
+    "reach": 119,
+    "likes": 1,
+    "comments": 1,
+    "shares": 0,
+    "saves": 0,
+    "avg_watch": 13.403,
+    "skip_rate": 0.297,
+    "age_h": 2.7
+   },
+   "score": 2.294
   }
  ]
 }

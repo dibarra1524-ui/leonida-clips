@@ -1,0 +1,492 @@
+{
+ "date": "2026-11-20",
+ "episode": 3,
+ "length_s": 931,
+ "target_s": 900,
+ "clips": [
+  {
+   "id": "RamshackleLaconicLapwingSpicyBoy-vXH5sbEmR5KAzDO7",
+   "url": "https://www.twitch.tv/jynxzi/clip/RamshackleLaconicLapwingSpicyBoy-vXH5sbEmR5KAzDO7",
+   "title": "jump scare",
+   "streamer": "Jynxzi",
+   "login": "jynxzi",
+   "views": 6284,
+   "vph": 147.5,
+   "duration": 30,
+   "created_at": "2026-11-19T17:59:45Z",
+   "label": "Jump scare",
+   "start": 0.0
+  },
+  {
+   "id": "SpineyFairEggplantDancingBanana-bH0uBbWgNv4K9RfE",
+   "url": "https://www.twitch.tv/xqc/clip/SpineyFairEggplantDancingBanana-bH0uBbWgNv4K9RfE",
+   "title": "xQc just wanted to put his coffee down",
+   "streamer": "xQc",
+   "login": "xqc",
+   "views": 2489,
+   "vph": 145.5,
+   "duration": 16.3,
+   "created_at": "2026-11-20T06:08:12Z",
+   "label": "xQc just wanted to put his coffee down",
+   "start": 30.1
+  },
+  {
+   "id": "MoldyRespectfulOstrichPartyTime-xKoKzoNh9OvfuiNS",
+   "url": "https://www.twitch.tv/ohnepixel/clip/MoldyRespectfulOstrichPartyTime-xKoKzoNh9OvfuiNS",
+   "title": "ohnePixel says GTA 6 gets him more bricked up than porn",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 630,
+   "vph": 123.1,
+   "duration": 22.1,
+   "created_at": "2026-11-20T12:53:51Z",
+   "label": "OhnePixel says GTA 6 gets him more bricked up th",
+   "start": 46.5
+  },
+  {
+   "id": "LuckyBenevolentDotterelOMGScoots-lFgr2IvDbbFYqy0L",
+   "url": "https://www.twitch.tv/caseoh_/clip/LuckyBenevolentDotterelOMGScoots-lFgr2IvDbbFYqy0L",
+   "title": "Lets not crash this time...",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 3068,
+   "vph": 98.7,
+   "duration": 51.8,
+   "created_at": "2026-11-19T23:16:03Z",
+   "label": "Lets not crash this time",
+   "start": 68.7
+  },
+  {
+   "id": "CovertVainNoodleOMGScoots-RIIREObUlkrw-aZz",
+   "url": "https://www.twitch.tv/theburntpeanut/clip/CovertVainNoodleOMGScoots-RIIREObUlkrw-aZz",
+   "title": "going for the dog",
+   "streamer": "TheBurntPeanut",
+   "login": "theburntpeanut",
+   "views": 2994,
+   "vph": 93.7,
+   "duration": 30,
+   "created_at": "2026-11-19T22:51:08Z",
+   "label": "Going for the dog",
+   "start": 120.5
+  },
+  {
+   "id": "PiliableHonorableBananaBlargNaut-a52-k2Oni16S1Ue6",
+   "url": "https://www.twitch.tv/kaicenat/clip/PiliableHonorableBananaBlargNaut-a52-k2Oni16S1Ue6",
+   "title": "winner",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 1702,
+   "vph": 75.1,
+   "duration": 12.6,
+   "created_at": "2026-11-20T03:19:48Z",
+   "label": "Winner",
+   "start": 150.6
+  },
+  {
+   "id": "LongHeartlessWhaleMau5-B9NBfqUvbpHRrgP4",
+   "url": "https://www.twitch.tv/ishowspeed/clip/LongHeartlessWhaleMau5-B9NBfqUvbpHRrgP4",
+   "title": "THIS STREAM GOT WILD!!",
+   "streamer": "IShowSpeed",
+   "login": "ishowspeed",
+   "views": 3196,
+   "vph": 70.0,
+   "duration": 11.9,
+   "created_at": "2026-11-19T16:39:04Z",
+   "label": "THIS STREAM GOT WILD",
+   "start": 163.3
+  },
+  {
+   "id": "AlertHilariousFalconTF2John-10Ts4ml5K_wMro14",
+   "url": "https://www.twitch.tv/ohnepixel/clip/AlertHilariousFalconTF2John-10Ts4ml5K_wMro14",
+   "title": "Physics fan",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 199,
+   "vph": 53.7,
+   "duration": 18.2,
+   "created_at": "2026-11-20T13:48:54Z",
+   "label": "Physics fan",
+   "start": 175.3
+  },
+  {
+   "id": "LovelyImportantAlfalfaLitty-TvWeJzP9zG95rT47",
+   "url": "https://www.twitch.tv/kaicenat/clip/LovelyImportantAlfalfaLitty-TvWeJzP9zG95rT47",
+   "title": "kkkkkkkkkkkkk",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 1565,
+   "vph": 51.5,
+   "duration": 30,
+   "created_at": "2026-11-19T23:35:36Z",
+   "label": "Kkkkkkkkkkkkk",
+   "start": 193.6
+  },
+  {
+   "id": "AwkwardSpicyShrewAMPEnergyCherry-flanAuuvSUr6PHJO",
+   "url": "https://www.twitch.tv/ohnepixel/clip/AwkwardSpicyShrewAMPEnergyCherry-flanAuuvSUr6PHJO",
+   "title": "LMAO\ud83d\ude2d",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 2212,
+   "vph": 50.8,
+   "duration": 16.1,
+   "created_at": "2026-11-19T17:33:58Z",
+   "label": "GTA 6",
+   "start": 223.7
+  },
+  {
+   "id": "GentleDoubtfulHawkCoolCat-sMpS9-0zBnjb9xM-",
+   "url": "https://www.twitch.tv/xqc/clip/GentleDoubtfulHawkCoolCat-sMpS9-0zBnjb9xM-",
+   "title": "xQc on GTA VI: \u201cYou always find something to do, and if you don\u2019t, you\u2019re a loser\u201d",
+   "streamer": "xQc",
+   "login": "xqc",
+   "views": 400,
+   "vph": 47.2,
+   "duration": 28.3,
+   "created_at": "2026-11-20T10:51:26Z",
+   "label": "xQc on GTA VI: You always find something to do, ",
+   "start": 239.9
+  },
+  {
+   "id": "AttractiveImportantChimpanzeeKappaWealth-Pn4GIVLzi_QowzCL",
+   "url": "https://www.twitch.tv/ohnepixel/clip/AttractiveImportantChimpanzeeKappaWealth-Pn4GIVLzi_QowzCL",
+   "title": "No stars for full frontal crash into sherrif xD",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 1964,
+   "vph": 41.2,
+   "duration": 43.9,
+   "created_at": "2026-11-19T15:45:36Z",
+   "label": "No stars for full frontal crash into sherrif",
+   "start": 268.3
+  },
+  {
+   "id": "AwkwardTenuousAlfalfaPunchTrees-OQDzvDF6chDgfZ7U",
+   "url": "https://www.twitch.tv/hasanabi/clip/AwkwardTenuousAlfalfaPunchTrees-OQDzvDF6chDgfZ7U",
+   "title": "Check every room they said....",
+   "streamer": "HasanAbi",
+   "login": "hasanabi",
+   "views": 1042,
+   "vph": 38.2,
+   "duration": 30,
+   "created_at": "2026-11-20T01:04:14Z",
+   "label": "Check every room they said",
+   "start": 312.3
+  },
+  {
+   "id": "AmorphousSnappyAardvarkWoofer-2SvUTl7cMpY5um59",
+   "url": "https://www.twitch.tv/stableronaldo/clip/AmorphousSnappyAardvarkWoofer-2SvUTl7cMpY5um59",
+   "title": "wtfff",
+   "streamer": "stableronaldo",
+   "login": "stableronaldo",
+   "views": 1068,
+   "vph": 23.5,
+   "duration": 12.2,
+   "created_at": "2026-11-19T16:42:19Z",
+   "label": "Wtfff",
+   "start": 342.4
+  },
+  {
+   "id": "DrabHelpfulHamburgerEagleEye-d5DuX91uYoz7wbxH",
+   "url": "https://www.twitch.tv/caseoh_/clip/DrabHelpfulHamburgerEagleEye-d5DuX91uYoz7wbxH",
+   "title": "HOLT TOLEDO",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 585,
+   "vph": 22.2,
+   "duration": 30,
+   "created_at": "2026-11-20T01:32:45Z",
+   "label": "HOLT TOLEDO",
+   "start": 354.7
+  },
+  {
+   "id": "DignifiedAmazingRatTheRinger-upfFJV5_t6pIsjr1",
+   "url": "https://www.twitch.tv/lacy/clip/DignifiedAmazingRatTheRinger-upfFJV5_t6pIsjr1",
+   "title": "uuu",
+   "streamer": "Lacy",
+   "login": "lacy",
+   "views": 879,
+   "vph": 21.2,
+   "duration": 30,
+   "created_at": "2026-11-19T18:28:16Z",
+   "label": "Uuu",
+   "start": 384.8
+  },
+  {
+   "id": "WimpyPleasantManateeTTours-SObjtZ-BZazyhmrG",
+   "url": "https://www.twitch.tv/theburntpeanut/clip/WimpyPleasantManateeTTours-SObjtZ-BZazyhmrG",
+   "title": "checked map for dealership",
+   "streamer": "TheBurntPeanut",
+   "login": "theburntpeanut",
+   "views": 370,
+   "vph": 20.5,
+   "duration": 23.6,
+   "created_at": "2026-11-20T05:39:51Z",
+   "label": "Checked map for dealership",
+   "start": 414.9
+  },
+  {
+   "id": "WiseSolidJuiceRuleFive-4CitvrkS30C-5KNR",
+   "url": "https://www.twitch.tv/theburntpeanut/clip/WiseSolidJuiceRuleFive-4CitvrkS30C-5KNR",
+   "title": "pnut meets a psycho",
+   "streamer": "TheBurntPeanut",
+   "login": "theburntpeanut",
+   "views": 722,
+   "vph": 19.8,
+   "duration": 50.3,
+   "created_at": "2026-11-19T20:48:17Z",
+   "label": "Pnut meets a psycho",
+   "start": 438.6
+  },
+  {
+   "id": "KnottyHorribleMeatloafWoofer-qHCrPk1hx8_Kk1gQ",
+   "url": "https://www.twitch.tv/lacy/clip/KnottyHorribleMeatloafWoofer-qHCrPk1hx8_Kk1gQ",
+   "title": "hahahahahahahahahahahahaha",
+   "streamer": "Lacy",
+   "login": "lacy",
+   "views": 663,
+   "vph": 19.2,
+   "duration": 22.9,
+   "created_at": "2026-11-19T21:38:42Z",
+   "label": "Hahahahahahahahahahahahaha",
+   "start": 489.0
+  },
+  {
+   "id": "BlightedTentativeBobaKappaPride-YJRiCyebNTQ5nYF9",
+   "url": "https://www.twitch.tv/caseoh_/clip/BlightedTentativeBobaKappaPride-YJRiCyebNTQ5nYF9",
+   "title": "lol",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 488,
+   "vph": 18.5,
+   "duration": 32.8,
+   "created_at": "2026-11-20T01:30:17Z",
+   "label": "GTA 6",
+   "start": 512.0
+  },
+  {
+   "id": "GlamorousPeppyGiraffeThunBeast-4nzoOandU9fvfsdR",
+   "url": "https://www.twitch.tv/silky/clip/GlamorousPeppyGiraffeThunBeast-4nzoOandU9fvfsdR",
+   "title": "he unlocked a secret clip",
+   "streamer": "Silky",
+   "login": "silky",
+   "views": 350,
+   "vph": 16.9,
+   "duration": 30,
+   "created_at": "2026-11-20T04:19:08Z",
+   "label": "He unlocked a secret clip",
+   "start": 544.9
+  },
+  {
+   "id": "PrettyDependablePenguinOSkomodo-w3UxYRd8dLmjjN83",
+   "url": "https://www.twitch.tv/silky/clip/PrettyDependablePenguinOSkomodo-w3UxYRd8dLmjjN83",
+   "title": "\u201cI HAVE A WIFE\u201d",
+   "streamer": "Silky",
+   "login": "silky",
+   "views": 284,
+   "vph": 16.9,
+   "duration": 60,
+   "created_at": "2026-11-20T06:18:42Z",
+   "label": "I HAVE A WIFE",
+   "start": 575.0
+  },
+  {
+   "id": "TransparentArtsyAxeGrammarKing-dnuXIn1aiA3uUpqy",
+   "url": "https://www.twitch.tv/stableronaldo/clip/TransparentArtsyAxeGrammarKing-dnuXIn1aiA3uUpqy",
+   "title": "Maya \ud83d\ude2d",
+   "streamer": "stableronaldo",
+   "login": "stableronaldo",
+   "views": 448,
+   "vph": 15.7,
+   "duration": 12.8,
+   "created_at": "2026-11-20T00:30:48Z",
+   "label": "Maya",
+   "start": 635.1
+  },
+  {
+   "id": "BraveHelpfulSwordKappa-qsILVGSorUkWKUS7",
+   "url": "https://www.twitch.tv/theburntpeanut/clip/BraveHelpfulSwordKappa-qsILVGSorUkWKUS7",
+   "title": "not 100%",
+   "streamer": "TheBurntPeanut",
+   "login": "theburntpeanut",
+   "views": 225,
+   "vph": 15.6,
+   "duration": 60,
+   "created_at": "2026-11-20T07:33:14Z",
+   "label": "Not 100%",
+   "start": 648.0
+  },
+  {
+   "id": "PopularMistyScallionJebaited-tpNCti7e1HDZ7p-0",
+   "url": "https://www.twitch.tv/xqc/clip/PopularMistyScallionJebaited-tpNCti7e1HDZ7p-0",
+   "title": "WTF has GTA become",
+   "streamer": "xQc",
+   "login": "xqc",
+   "views": 493,
+   "vph": 15.0,
+   "duration": 60,
+   "created_at": "2026-11-19T22:25:25Z",
+   "label": "WTF has GTA become",
+   "start": 708.1
+  },
+  {
+   "id": "ElatedCulturedAsparagusTheTarFu-FGZmqGSY0OJ_vb_4",
+   "url": "https://www.twitch.tv/kaicenat/clip/ElatedCulturedAsparagusTheTarFu-FGZmqGSY0OJ_vb_4",
+   "title": ".",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 763,
+   "vph": 14.5,
+   "duration": 12,
+   "created_at": "2026-11-19T13:33:35Z",
+   "label": "GTA 6",
+   "start": 768.2
+  },
+  {
+   "id": "FlirtySmoothMushroomSaltBae-k870sMHTOWZmDrFH",
+   "url": "https://www.twitch.tv/caseoh_/clip/FlirtySmoothMushroomSaltBae-k870sMHTOWZmDrFH",
+   "title": "Lord HAVE MERCY",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 350,
+   "vph": 13.3,
+   "duration": 30,
+   "created_at": "2026-11-20T01:31:05Z",
+   "label": "Lord HAVE MERCY",
+   "start": 780.3
+  },
+  {
+   "id": "OutstandingVastPassionfruitPMSTwin-So8mKNgwCWCVMN4l",
+   "url": "https://www.twitch.tv/kaicenat/clip/OutstandingVastPassionfruitPMSTwin-So8mKNgwCWCVMN4l",
+   "title": "AYOOO WOAH GAME OF THE YEAR LOL",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 526,
+   "vph": 13.0,
+   "duration": 60,
+   "created_at": "2026-11-19T19:01:31Z",
+   "label": "AYOOO WOAH GAME OF THE YEAR",
+   "start": 810.4
+  },
+  {
+   "id": "DeadDaintyButterflyWholeWheat-PxztRj4hUZ2ss8kp",
+   "url": "https://www.twitch.tv/xqc/clip/DeadDaintyButterflyWholeWheat-PxztRj4hUZ2ss8kp",
+   "title": "wtf",
+   "streamer": "xQc",
+   "login": "xqc",
+   "views": 419,
+   "vph": 12.7,
+   "duration": 30,
+   "created_at": "2026-11-19T22:24:58Z",
+   "label": "Wtf",
+   "start": 870.5
+  },
+  {
+   "id": "VainCourteousKaleBabyRage-06rqGkLgi3OzfREJ",
+   "url": "https://www.twitch.tv/caseoh_/clip/VainCourteousKaleBabyRage-06rqGkLgi3OzfREJ",
+   "title": "Heroic case",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 5162,
+   "vph": 146.3,
+   "duration": 30,
+   "created_at": "2026-11-19T21:18:48Z",
+   "label": "Heroic case",
+   "start": 900.5
+  }
+ ],
+ "thumbnails": [
+  {
+   "file": "episode/2026-11-20/thumb_A.jpg",
+   "base": "episode/2026-11-20/base_A.jpg",
+   "spot": [
+    0.769,
+    0.674
+   ],
+   "mark": "arrow",
+   "text": "BEST CLIPS",
+   "from_clip": "RamshackleLaconicLapwingSpicyBoy-vXH5sbEmR5KAzDO7"
+  },
+  {
+   "file": "episode/2026-11-20/thumb_B.jpg",
+   "base": "episode/2026-11-20/base_B.jpg",
+   "spot": [
+    0.29,
+    0.8
+   ],
+   "mark": "arrow",
+   "text": "INSANE",
+   "from_clip": "VainCourteousKaleBabyRage-06rqGkLgi3OzfREJ"
+  },
+  {
+   "file": "episode/2026-11-20/thumb_C.jpg",
+   "base": "episode/2026-11-20/base_C.jpg",
+   "spot": [
+    0.5,
+    0.5
+   ],
+   "mark": "circle",
+   "text": "WATCH THIS",
+   "from_clip": "SpineyFairEggplantDancingBanana-bH0uBbWgNv4K9RfE"
+  }
+ ],
+ "screened_out": [
+  {
+   "id": "AggressiveTardyDragonHotPokket--9_zAHpPX48qQTS-",
+   "streamer": "ohnePixel",
+   "title": "Bro Want the ban So bad!! Hahahha",
+   "why": "nudity (FEMALE_BREAST_EXPOSED)"
+  },
+  {
+   "id": "TiredDeafJuiceUncleNox-CD_q5QQDwhv_jCLj",
+   "streamer": "Lacy",
+   "title": "got caught",
+   "why": "nudity (BUTTOCKS_EXPOSED)"
+  },
+  {
+   "id": "RockySourAsteriskTooSpicy-6U8FM1MWLFtUXMc9",
+   "streamer": "IShowSpeed",
+   "title": "changing clothes",
+   "why": "nudity (BUTTOCKS_EXPOSED)"
+  },
+  {
+   "id": "InspiringFriendlyLemurJebaited-oFs8vW6U4uy5p44B",
+   "streamer": "IShowSpeed",
+   "title": "LMAOOOOO",
+   "why": "nudity (FEMALE_BREAST_EXPOSED)"
+  },
+  {
+   "id": "BreakableGlamorousHamburgerPrimeMe-jgWIVjeBE5spIXiU",
+   "streamer": "Lacy",
+   "title": "THE LUCIA SHOWER",
+   "why": "nudity (BUTTOCKS_EXPOSED)"
+  },
+  {
+   "id": "PopularPlayfulTruffleSSSsss-ksyHkcb6g7mRsnNu",
+   "streamer": "IShowSpeed",
+   "title": "seggs",
+   "why": "nudity (FEMALE_BREAST_EXPOSED)"
+  },
+  {
+   "id": "UgliestSpeedyOctopus4Head-REF-ZMF0H5SbSiSF",
+   "streamer": "IShowSpeed",
+   "title": "BIG BIg",
+   "why": "nudity (BUTTOCKS_EXPOSED)"
+  },
+  {
+   "id": "SpinelessWisePidgeonHeyGirl-hu10S79MNJZ3qxvT",
+   "streamer": "KaiCenat",
+   "title": "on another levld",
+   "why": "nudity (BUTTOCKS_EXPOSED)"
+  },
+  {
+   "id": "FilthyRefinedSkirretLeeroyJenkins-fIZvW74IyvHXhDQD",
+   "streamer": "Lacy",
+   "title": "Lucy hard",
+   "why": "nudity (BUTTOCKS_EXPOSED)"
+  }
+ ],
+ "default_title": "GTA 6 Best Clips of the Day #3",
+ "release": "ep-2026-11-20",
+ "built_at": "2026-11-20T15:00:03Z"
+}

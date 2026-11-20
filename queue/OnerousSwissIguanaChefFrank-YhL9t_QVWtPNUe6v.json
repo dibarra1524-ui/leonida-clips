@@ -1,0 +1,33 @@
+{
+ "id": "OnerousSwissIguanaChefFrank-YhL9t_QVWtPNUe6v",
+ "streamer": "IShowSpeed",
+ "login": "ishowspeed",
+ "title": "speed lek wylin in the club",
+ "views": 12928,
+ "created_at": "2026-11-19T04:05:31Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/ishowspeed/clip/OnerousSwissIguanaChefFrank-YhL9t_QVWtPNUe6v",
+ "platform": "twitch",
+ "credit": "twitch.tv/ishowspeed",
+ "layout": "full",
+ "transcript": "Jason this this more I like it. I like it more like this. Nope, not anymore. Come on, get moving. I'll just finally get him on his merch. No, bro.",
+ "score": 224.8,
+ "campaign": null,
+ "genes": {
+  "max_len": 20,
+  "trim": "smart",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "stakes",
+  "hook_case": "title"
+ },
+ "kept": 20.0,
+ "action": 0.36,
+ "action_parts": {
+  "audio": 0.23,
+  "motion": 0.63,
+  "talk": 0.32,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-20T16:01:18Z"
+}

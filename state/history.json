@@ -580,6 +580,29 @@
    },
    "hook": "Watch YourRAGE's headlock go wrong",
    "duration": 25.39
+  },
+  {
+   "id": "SparklyIncredulousCoyoteDendiFace-q00qxoxa76P8v3Q7",
+   "media_id": "18120382031329401",
+   "posted_at": "2026-11-20T16:14:08Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "title"
+   },
+   "traits": {
+    "streamer": "silky",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:money": 1,
+    "hour": "09"
+   },
+   "hook": "Silky's face after this shot",
+   "duration": 20.0
   }
  ]
 }

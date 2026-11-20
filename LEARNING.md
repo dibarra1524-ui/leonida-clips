@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 17. Scored (20h+ old): 6. Exploration: 25%.
+Posts: 18. Scored (20h+ old): 6. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -101,19 +101,19 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 ## Trending right now (from the last fetch)
 
-Topics: car 1.00, funny 0.84, npc 0.70, police 0.26, money 0.10, glitch 0.07
+Topics: npc 1.00, car 0.69, funny 0.43, police 0.31, money 0.20, glitch 0.11
 
-Streamers: ohnepixel 1.00, ishowspeed 0.77, kaicenat 0.56, xqc 0.42, joe_bartolozzi 0.30, theteegoat 0.29, dansgaming 0.24, sweet_anita 0.19
+Streamers: ohnepixel 1.00, ishowspeed 0.67, xqc 0.34, joe_bartolozzi 0.29, kaicenat 0.23, dansgaming 0.20, cohhcarnage 0.16, sweet_anita 0.16
 
 Hook ideas from trending Shorts titles:
 
-- The 6 BEST GTA 6 Niches for YouTube Shorts
-- Literally WHAT is GOING ON in GTA 6?? | xQc GTA VI
-- GTA 6 - Before You Buy
-- GTA memes to watch before GTA 6
-- GTA 6 PS5 Pro Gameplay - 15 Minutes of The First Mission
-- THE GTA 6 TV IS CRAZY
-- The 7 BEST GTA 6 Niches for YouTube Shorts
-- Top 5 VIRAL Shorts Content Ideas for GTA 6 (NO PS5)
+- Grand Theft Auto VI: Out Now
+- GTA 6 (Grand Theft Auto VI) - Official Trailer
 - Grand Theft Auto VI - Features Trailer | PS5 Games
-- How to Make $1,000/Month with GTA 6 YouTube Shorts? (Step-by-Step) | Faceless USA Shorts C
+- 12 THINGS You NEED To Do On DAY 1 in GTA 6
+- GTA memes to watch before GTA 6
+- Clipping GTA 6 Won't Make You Rich Bro
+- New GTA 6 Gameplay Looks Just Like Real Life
+- GTA 6 LIVE GAMEPLAY🔥| STORY MODE #gta6 #shorts
+- How to Make Money Clipping GTA 6 Videos/Streams (Free Skill)
+- Literally WHAT is GOING ON in GTA 6?? | xQc GTA VI

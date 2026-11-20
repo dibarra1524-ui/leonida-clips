@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 18. Scored (20h+ old): 7. Exploration: 25%.
+Posts: 19. Scored (20h+ old): 7. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -102,9 +102,9 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 ## Trending right now (from the last fetch)
 
-Topics: npc 1.00, car 0.69, funny 0.43, police 0.31, money 0.20, glitch 0.11
+Topics: npc 1.00, car 0.68, police 0.34, money 0.20, glitch 0.17, funny 0.14, map 0.10, rage 0.06
 
-Streamers: ohnepixel 1.00, ishowspeed 0.67, xqc 0.34, joe_bartolozzi 0.29, kaicenat 0.23, dansgaming 0.20, cohhcarnage 0.16, sweet_anita 0.16
+Streamers: caseoh_ 1.00, ohnepixel 0.73, kaicenat 0.51, maya 0.50, joe_bartolozzi 0.24, stableronaldo 0.22, ishowspeed 0.21, avoidingthepuddle 0.21
 
 Hook ideas from trending Shorts titles:
 
@@ -113,8 +113,8 @@ Hook ideas from trending Shorts titles:
 - Grand Theft Auto VI - Features Trailer | PS5 Games
 - 12 THINGS You NEED To Do On DAY 1 in GTA 6
 - GTA memes to watch before GTA 6
-- Clipping GTA 6 Won't Make You Rich Bro
+- GTA 6: MORE New Gameplay That Looks Like Real Life Has Been Released...
 - New GTA 6 Gameplay Looks Just Like Real Life
+- Hidden GTA 6 Clips You Probably Missed
+- GTA 6 Clipping: How to Start & Make Money (Full Guide) 🔥
 - GTA 6 LIVE GAMEPLAY🔥| STORY MODE #gta6 #shorts
-- How to Make Money Clipping GTA 6 Videos/Streams (Free Skill)
-- Literally WHAT is GOING ON in GTA 6?? | xQc GTA VI

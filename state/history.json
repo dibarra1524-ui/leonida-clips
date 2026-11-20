@@ -603,6 +603,28 @@
    },
    "hook": "Silky's face after this shot",
    "duration": 20.0
+  },
+  {
+   "id": "ElatedCulturedAsparagusTheTarFu-FGZmqGSY0OJ_vb_4",
+   "media_id": "18222617032352318",
+   "posted_at": "2026-11-20T20:56:39Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "none",
+    "cap_size": 96,
+    "cap_pos": "low",
+    "hook_style": "streamer",
+    "hook_case": "title"
+   },
+   "traits": {
+    "streamer": "kaicenat",
+    "len": "<20",
+    "layout": "cam",
+    "action": "low",
+    "hour": "12"
+   },
+   "hook": "Kai Cenat sends dirt bike flying",
+   "duration": 12.01
   }
  ]
 }

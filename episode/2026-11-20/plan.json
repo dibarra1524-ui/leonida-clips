@@ -151,11 +151,11 @@
    "file": "episode/2026-11-20/thumb_B.jpg",
    "base": "episode/2026-11-20/base_B.jpg",
    "spot": [
-    0.5,
-    0.5
+    0.2,
+    0.45
    ],
-   "mark": "arrow",
-   "text": "WATCH THIS",
+   "mark": "circle",
+   "text": "NO WAY",
    "from_clip": "SpineyFairEggplantDancingBanana-bH0uBbWgNv4K9RfE"
   },
   {

@@ -10,3 +10,4 @@ Written by the review run. Every gauntlet verdict goes under Verdicts; a fault t
 - Thumbnail text: 2-3 big words, readable at phone size, never something that is not in the episode.
 
 ## Verdicts
+- 2026-11-20 round 1: YES (title 2, thumb B). Faults noted: thumb_A arrow on a woman's backside (sexual bait, rejected) + facecam cropped at edge; thumb_C one word, circle on nothing, dark, facecam cropped; frame 03 label 'goes for the dog' with no dog visible; frame 05 low-energy talking clip; frame 08 label missing backing box; opener maybe not strongest; Peanut has 3 clips.

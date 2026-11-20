@@ -363,5 +363,26 @@
   },
   "clip_url": "https://www.twitch.tv/lacy/clip/PlayfulUglyDadTwitchRPG-Hpnxby6KITW2iIzh",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/PlayfulUglyDadTwitchRPG-Hpnxby6KITW2iIzh.mp4"
+ },
+ {
+  "id": "WiseEphemeralBeefTwitchRaid-Bgtt5mdgUN-m6uWL",
+  "media_id": "18120997693800987",
+  "posted_at": "2026-11-20T23:48:05Z",
+  "streamer": "yourragegaming",
+  "hook": "Can YOURRAGE land this seaplane?",
+  "caption": "YourRAGE flies the seaplane low over Leonida and brings it down on the water \u2708\ufe0f\n\nWatch YourRAGE live: twitch.tv/yourragegaming\n\n#gta6 #gtavi #gta6clips #leonida #twitchclips #yourrage",
+  "campaign": {
+   "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
+   "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
+   "mention": "YourRAGE",
+   "hashtag": "#yourrage",
+   "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
+   "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
+   "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
+   "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
+   "ends": "when the pool ends"
+  },
+  "clip_url": "https://www.twitch.tv/yourragegaming/clip/WiseEphemeralBeefTwitchRaid-Bgtt5mdgUN-m6uWL",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/WiseEphemeralBeefTwitchRaid-Bgtt5mdgUN-m6uWL.mp4"
  }
 ]

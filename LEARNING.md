@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 18. Scored (20h+ old): 6. Exploration: 25%.
+Posts: 18. Scored (20h+ old): 7. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -9,39 +9,39 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 | option | evidence | lift |
 |---|---|---|
 | low | 1.0 | +0.18 |
-| mid | 0.9 | -0.18 |
-| high | 2.0 | -0.26 |
+| high | 1.9 | -0.11 |
+| mid | 1.9 | -0.27 |
 
 ## gene:cap_pos
 
 | option | evidence | lift |
 |---|---|---|
-| mid | 3.9 | +0.04 |
-| low | 1.9 | -0.18 |
+| mid | 4.8 | +0.04 |
+| low | 1.8 | -0.17 |
 
 ## gene:cap_size
 
 | option | evidence | lift |
 |---|---|---|
-| 84 | 1.9 | +0.14 |
-| 72 | 2.9 | -0.10 |
-| 96 | 1.0 | -0.18 |
+| 84 | 1.8 | +0.14 |
+| 72 | 2.8 | -0.10 |
+| 96 | 2.0 | -0.12 |
 
 ## gene:hook_case
 
 | option | evidence | lift |
 |---|---|---|
-| title | 2.9 | +0.17 |
-| upper | 2.9 | -0.27 |
+| title | 2.8 | +0.16 |
+| upper | 3.8 | -0.21 |
 
 ## gene:hook_style
 
 | option | evidence | lift |
 |---|---|---|
-| stakes | 1.0 | +0.18 |
 | question | 1.9 | +0.05 |
-| streamer | 1.9 | -0.18 |
-| reaction | 1.0 | -0.18 |
+| stakes | 2.0 | +0.01 |
+| reaction | 1.0 | +0.01 |
+| streamer | 1.8 | -0.17 |
 
 ## gene:max_len
 
@@ -49,36 +49,36 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 |---|---|---|
 | 20 | 0.9 | +0.21 |
 | 45 | 1.9 | +0.00 |
-| 30 | 1.0 | -0.14 |
-| 60 | 1.9 | -0.18 |
+| 60 | 1.9 | -0.02 |
+| 30 | 1.9 | -0.24 |
 
 ## gene:trim
 
 | option | evidence | lift |
 |---|---|---|
-| none | 1.9 | +0.14 |
-| smart | 3.9 | -0.19 |
+| none | 2.8 | +0.00 |
+| smart | 3.8 | -0.08 |
 
 ## hour
 
 | option | evidence | lift |
 |---|---|---|
 | 18 | 1.0 | +0.18 |
-| 15 | 3.8 | -0.09 |
-| 06 | 1.0 | -0.18 |
+| 06 | 1.0 | +0.01 |
+| 15 | 4.7 | -0.16 |
 
 ## layout
 
 | option | evidence | lift |
 |---|---|---|
 | full | 0.9 | +0.21 |
-| cam | 4.8 | -0.18 |
+| cam | 5.7 | -0.15 |
 
 ## len
 
 | option | evidence | lift |
 |---|---|---|
-| 20-35 | 3.9 | +0.04 |
+| 20-35 | 4.8 | +0.04 |
 | 50+ | 0.9 | -0.04 |
 | <20 | 0.9 | -0.18 |
 
@@ -87,16 +87,17 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 | option | evidence | lift |
 |---|---|---|
 | lirik | 0.9 | +0.21 |
+| caseoh_ | 1.0 | +0.01 |
 | xqc | 2.8 | -0.03 |
-| ohnepixel | 1.0 | -0.14 |
-| caseoh_ | 1.0 | -0.18 |
+| ohnepixel | 0.9 | -0.14 |
+| lacy | 1.0 | -0.16 |
 
 ## topic
 
 | option | evidence | lift |
 |---|---|---|
-| police | 2.9 | -0.10 |
-| npc | 1.0 | -0.14 |
+| police | 2.8 | -0.10 |
+| npc | 0.9 | -0.14 |
 | car | 1.9 | -0.15 |
 
 ## Trending right now (from the last fetch)

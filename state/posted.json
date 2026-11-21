@@ -490,5 +490,27 @@
   },
   "clip_url": "https://www.twitch.tv/asianjeff/clip/LivelyFrigidIcecreamMVGame-XvF3qBhtbYmpa9cz",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/LivelyFrigidIcecreamMVGame-XvF3qBhtbYmpa9cz.mp4"
+ },
+ {
+  "id": "HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
+  "media_id": "18352021243249600",
+  "posted_at": "2026-11-21T17:48:06Z",
+  "streamer": "lacy",
+  "hook": "LACY can't believe he survived this",
+  "caption": "#ad LACY takes the ATV off-road and somehow walks it off \ud83d\ude02\n\nWatch LACY live: twitch.tv/lacy\n\n#gta6 #gtavi #gta6clips #vicecity #LACY",
+  "campaign": {
+   "id": "reach-lacy-gta",
+   "name": "$12,500 LACY GTA VI Marathon Pool (Reach)",
+   "mention": "LACY",
+   "hashtag": "#LACY",
+   "rules": "Lacy must be the main focus; caption/overlay must say LACY; caption must have #LACY; no logos; never negative about Lacy; English audience; submit link within 30 min of posting",
+   "submit_at": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a?group=1",
+   "min_total_views": 750000,
+   "ends": "when the marathon ends",
+   "cta": "Watch LACY live: twitch.tv/lacy",
+   "pay": "pool $12.5K split by views, needs 750K total views"
+  },
+  "clip_url": "https://www.twitch.tv/lacy/clip/HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3.mp4"
  }
 ]

@@ -937,6 +937,30 @@
    },
    "hook": "AsianJeff did not expect this",
    "duration": 60.01
+  },
+  {
+   "id": "HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
+   "media_id": "18352021243249600",
+   "posted_at": "2026-11-21T17:48:06Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "hard"
+   },
+   "traits": {
+    "streamer": "lacy",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "hour": "09"
+   },
+   "hook": "LACY can't believe he survived this",
+   "duration": 28.25
   }
  ]
 }

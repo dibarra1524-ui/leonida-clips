@@ -1,0 +1,43 @@
+{
+ "id": "PreciousEnergeticTrayUncleNox-0Bnx0QjqAZeYPzGR",
+ "streamer": "yourragegaming",
+ "login": "yourragegaming",
+ "title": "playtime with grandma",
+ "views": 62,
+ "created_at": "2026-11-20T04:39:05Z",
+ "duration": 28,
+ "clip_url": "https://www.twitch.tv/yourragegaming/clip/PreciousEnergeticTrayUncleNox-0Bnx0QjqAZeYPzGR",
+ "platform": "twitch",
+ "credit": "twitch.tv/yourragegaming",
+ "layout": "cam",
+ "transcript": "What the fuck, Grandma? Anyway, she don't have... She don't have all the shit! Oh, Grandma? Where's your bed for the one song? Let me get behind it! Yeah, Grandma!",
+ "score": 1.4,
+ "campaign": {
+  "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
+  "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
+  "mention": "YourRAGE",
+  "hashtag": "#yourrage",
+  "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
+  "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
+  "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "none",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "question",
+  "hook_case": "title"
+ },
+ "kept": 20.0,
+ "action": 0.798,
+ "action_parts": {
+  "audio": 0.78,
+  "motion": 1.0,
+  "talk": 0.68,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-21T03:13:09Z"
+}

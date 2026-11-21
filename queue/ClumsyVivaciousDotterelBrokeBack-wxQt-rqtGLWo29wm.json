@@ -1,0 +1,33 @@
+{
+ "id": "ClumsyVivaciousDotterelBrokeBack-wxQt-rqtGLWo29wm",
+ "streamer": "caseoh_",
+ "login": "caseoh_",
+ "title": "omg haha",
+ "views": 4519,
+ "created_at": "2026-11-21T00:34:23Z",
+ "duration": 54.8,
+ "clip_url": "https://www.twitch.tv/caseoh_/clip/ClumsyVivaciousDotterelBrokeBack-wxQt-rqtGLWo29wm",
+ "platform": "twitch",
+ "credit": "twitch.tv/caseoh_",
+ "layout": "full",
+ "transcript": "Which I mean hi Sorry, we thought you wait, where's our statue What's in the bird Oh Delicious",
+ "score": 1051.1,
+ "campaign": null,
+ "genes": {
+  "max_len": 60,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "low",
+  "hook_style": "question",
+  "hook_case": "upper"
+ },
+ "kept": 45.5,
+ "action": 0.485,
+ "action_parts": {
+  "audio": 0.68,
+  "motion": 0.44,
+  "talk": 0.29,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-21T03:13:09Z"
+}

@@ -191,7 +191,7 @@ def loudness(path):
     return list(20 * np.log10(r))
 
 
-def best_window(levels, dur, max_len):
+def best_window(levels, dur, max_len, ending='runon'):
     """(start, length) in seconds. Picks the stretch with the most energy (mean + peak), starts just
     before the first spike in it, and lets it run on past a peak at the end so the payoff isn't cut."""
     step = 0.25
@@ -212,11 +212,40 @@ def best_window(levels, dur, max_len):
     if len(spikes) and spikes[0] * step > 1.5:
         start += max(int(spikes[0] - 3), 0)
     end = min(start + win, len(lv))
-    # run-on: if the last 1.5 s is loud, extend up to 3 s (within the clip)
-    tail = ex[max(end - 6, 0):end]
-    if len(tail) and tail.max() > max(6.0, np.percentile(ex, 85)):
-        end = min(end + 12, len(lv))
+    if ending == 'hard':
+        # hard cut: end 0.5 s after the last big spike in the window (no fade-out tail), keep at least 6 s
+        big = np.where(ex[start:end] >= max(6.0, np.percentile(ex, 85)))[0]
+        if len(big):
+            end = max(start + 24, min(end, start + int(big[-1]) + 2))
+    else:
+        # run-on: if the last 1.5 s is loud, extend up to 3 s (within the clip)
+        tail = ex[max(end - 6, 0):end]
+        if len(tail) and tail.max() > max(6.0, np.percentile(ex, 85)):
+            end = min(end + 12, len(lv))
     return round(start * step, 2), round((end - start) * step, 2)
+
+
+def cold_open(src, dur):
+    """MrBeast-style cold open: flash the loudest ~1.2 s (the payoff) first, then play the clip from the start.
+    Returns (new src, new duration). Leaves the clip unchanged if it has no audio or is too short."""
+    lv = loudness(src)
+    if not lv or dur < 6:
+        return src, dur
+    import numpy as np
+    peak = int(np.argmax(np.array(lv))) * 0.25
+    a = max(0.0, min(peak - 0.5, dur - 1.2))
+    b = a + 1.2
+    if a < 1.5:          # payoff is already at the start: nothing to tease
+        return src, dur
+    out = os.path.join(tempfile.mkdtemp(), 'cold.mp4')
+    fc = ('[0:v]trim=%.2f:%.2f,setpts=PTS-STARTPTS[v0];[0:a]atrim=%.2f:%.2f,asetpts=PTS-STARTPTS[a0];'
+          '[0:v]setpts=PTS-STARTPTS[v1];[0:a]asetpts=PTS-STARTPTS[a1];'
+          '[v0][a0][v1][a1]concat=n=2:v=1:a=1[v][a]') % (a, b, a, b)
+    r = subprocess.run(['ffmpeg', '-y', '-v', 'error', '-i', src, '-filter_complex', fc, '-map', '[v]', '-map', '[a]',
+                        '-c:v', 'libx264', '-preset', 'ultrafast', '-crf', '16', '-c:a', 'aac', '-b:a', '192k', out])
+    if r.returncode != 0:
+        return src, dur
+    return out, probe(out)[2]
 
 
 def render(src, dst, cam=None, layout='auto', credit='', genes=None):
@@ -225,13 +254,15 @@ def render(src, dst, cam=None, layout='auto', credit='', genes=None):
     sw, sh, dur = probe(src)
     max_len = float(genes.get('max_len', 60))
     if genes.get('trim', 'smart') == 'smart' or dur > max_len:
-        st, ln = best_window(loudness(src), dur, max_len) if genes.get('trim', 'smart') == 'smart' else (0.0, max_len)
+        st, ln = best_window(loudness(src), dur, max_len, genes.get('ending', 'runon')) if genes.get('trim', 'smart') == 'smart' else (0.0, max_len)
         if st > 0.1 or ln < dur - 0.3:
             cut = os.path.join(tempfile.mkdtemp(), 'cut.mp4')
             subprocess.run(['ffmpeg', '-y', '-v', 'error', '-ss', str(st), '-i', src, '-t', str(ln), '-c:v', 'libx264',
                             '-preset', 'ultrafast', '-crf', '16', '-c:a', 'aac', '-b:a', '192k', cut], check=True)
             src = cut
             sw, sh, dur = probe(src)
+    if genes.get('opener') == 'cold':
+        src, dur = cold_open(src, dur)
     if layout == 'auto':
         if cam and not cam_has_face(src, dur, cam):
             print('saved facecam box has no face in this clip, re-detecting')

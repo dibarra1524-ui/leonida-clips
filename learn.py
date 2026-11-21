@@ -29,6 +29,8 @@ GENES = {
     'cap_pos':    ['low', 'mid'],                # captions low on the gameplay or right under the seam
     'hook_style': ['streamer', 'reaction', 'stakes', 'question'],
     'hook_case':  ['upper', 'title'],
+    'opener':     ['normal', 'cold'],            # cold = flash the payoff (~1.2 s) first, then play from the start
+    'ending':     ['runon', 'hard'],             # hard = cut 0.5 s after the last big moment, no tail
 }
 HOOK_STYLES = {
     'streamer': 'lead with the streamer name and what they did ("XQC STEALS HIS FIRST CAR")',

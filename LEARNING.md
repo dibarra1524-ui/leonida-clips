@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 30. Scored (20h+ old): 20. Exploration: 25%.
+Posts: 30. Scored (20h+ old): 22. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -8,111 +8,111 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 | option | evidence | lift |
 |---|---|---|
-| low | 5.3 | +0.14 |
-| high | 6.1 | -0.05 |
-| mid | 4.2 | -0.24 |
+| low | 6.1 | +0.08 |
+| high | 6.9 | -0.02 |
+| mid | 4.0 | -0.24 |
 
 ## gene:cap_pos
 
 | option | evidence | lift |
 |---|---|---|
-| mid | 10.2 | +0.07 |
-| low | 6.9 | -0.15 |
+| mid | 9.8 | +0.07 |
+| low | 8.6 | -0.13 |
 
 ## gene:cap_size
 
 | option | evidence | lift |
 |---|---|---|
-| 84 | 5.3 | +0.01 |
-| 96 | 4.3 | +0.00 |
-| 72 | 7.5 | -0.06 |
+| 84 | 6.1 | +0.04 |
+| 96 | 5.1 | -0.05 |
+| 72 | 7.2 | -0.06 |
 
 ## gene:hook_case
 
 | option | evidence | lift |
 |---|---|---|
-| title | 11.4 | +0.03 |
-| upper | 5.7 | -0.11 |
+| title | 13.0 | +0.01 |
+| upper | 5.5 | -0.11 |
 
 ## gene:hook_style
 
 | option | evidence | lift |
 |---|---|---|
-| question | 1.5 | +0.14 |
-| reaction | 8.8 | -0.02 |
-| stakes | 3.3 | -0.02 |
-| streamer | 3.4 | -0.12 |
+| question | 2.4 | +0.03 |
+| reaction | 9.5 | +0.02 |
+| stakes | 3.2 | -0.04 |
+| streamer | 3.3 | -0.12 |
 
 ## gene:max_len
 
 | option | evidence | lift |
 |---|---|---|
-| 20 | 9.7 | +0.06 |
-| 45 | 1.5 | +0.00 |
-| 60 | 3.5 | -0.10 |
-| 30 | 2.4 | -0.11 |
+| 45 | 2.4 | +0.07 |
+| 20 | 10.4 | +0.02 |
+| 30 | 2.3 | -0.10 |
+| 60 | 3.3 | -0.12 |
 
 ## gene:trim
 
 | option | evidence | lift |
 |---|---|---|
-| smart | 6.6 | +0.04 |
-| none | 10.4 | -0.07 |
+| smart | 6.4 | +0.04 |
+| none | 12.1 | -0.07 |
 
 ## hour
 
 | option | evidence | lift |
 |---|---|---|
-| 21 | 1.8 | +0.05 |
-| 09 | 1.0 | +0.03 |
-| 18 | 5.0 | +0.03 |
-| 12 | 2.0 | -0.03 |
-| 06 | 1.7 | -0.03 |
-| 00 | 1.9 | -0.05 |
-| 15 | 3.8 | -0.08 |
+| 21 | 1.7 | +0.05 |
+| 09 | 0.9 | +0.03 |
+| 18 | 4.8 | +0.03 |
+| 12 | 1.9 | -0.02 |
+| 00 | 1.8 | -0.05 |
+| 06 | 1.7 | -0.05 |
+| 15 | 5.6 | -0.07 |
 
 ## layout
 
 | option | evidence | lift |
 |---|---|---|
-| full | 0.7 | +0.18 |
-| cam | 16.3 | -0.06 |
+| full | 0.7 | +0.17 |
+| cam | 17.7 | -0.06 |
 
 ## len
 
 | option | evidence | lift |
 |---|---|---|
-| 20-35 | 11.8 | +0.02 |
+| 20-35 | 13.4 | +0.01 |
 | 50+ | 0.7 | -0.03 |
-| <20 | 3.5 | -0.05 |
+| <20 | 3.4 | -0.04 |
 | 35-50 | 1.0 | -0.10 |
 
 ## streamer
 
 | option | evidence | lift |
 |---|---|---|
-| lirik | 0.7 | +0.18 |
+| lirik | 0.7 | +0.17 |
 | kaicenat | 1.8 | +0.13 |
-| silky | 1.0 | +0.03 |
-| caseoh_ | 1.6 | +0.00 |
-| ohnepixel | 1.7 | -0.01 |
+| silky | 0.9 | +0.03 |
+| caseoh_ | 1.5 | +0.00 |
+| ohnepixel | 1.6 | -0.01 |
+| lacy | 3.4 | -0.01 |
 | xqc | 2.2 | -0.02 |
-| yourragegaming | 0.9 | -0.05 |
-| lacy | 2.5 | -0.09 |
 | asianjeff | 1.0 | -0.10 |
-| bobby_vanriper | 3.5 | -0.11 |
+| bobby_vanriper | 3.4 | -0.11 |
+| yourragegaming | 1.9 | -0.15 |
 
 ## topic
 
 | option | evidence | lift |
 |---|---|---|
-| money | 1.0 | +0.03 |
-| police | 2.3 | -0.00 |
-| weapon | 2.7 | -0.02 |
-| car | 4.3 | -0.08 |
-| map | 1.7 | -0.09 |
-| funny | 3.8 | -0.12 |
-| npc | 3.6 | -0.13 |
+| money | 0.9 | +0.03 |
+| police | 2.2 | -0.00 |
+| weapon | 2.6 | -0.02 |
+| npc | 4.4 | -0.07 |
+| car | 4.1 | -0.07 |
+| map | 1.6 | -0.09 |
+| funny | 3.7 | -0.14 |
 
 ## Trending right now (from the last fetch)
 

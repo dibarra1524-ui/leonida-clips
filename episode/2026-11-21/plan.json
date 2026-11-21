@@ -75,34 +75,34 @@
    "file": "episode/2026-11-21/thumb_A.jpg",
    "base": "episode/2026-11-21/base_A.jpg",
    "spot": [
-    0.4,
-    0.241
+    0.42,
+    0.45
    ],
    "mark": "arrow",
-   "text": "BEST CLIPS",
-   "from_clip": "ResoluteCrazyPistachioPrimeMe-FgUccHgoroOQYUJB"
+   "text": "SENT FLYING",
+   "from_clip": "HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3"
   },
   {
    "file": "episode/2026-11-21/thumb_B.jpg",
    "base": "episode/2026-11-21/base_B.jpg",
    "spot": [
-    0.229,
-    0.419
+    0.86,
+    0.56
    ],
    "mark": "arrow",
-   "text": "WATCH THIS",
-   "from_clip": "ReliableAverageWebFUNgineer-m8rTD--hodMm-JVH"
+   "text": "WHO IS THAT?",
+   "from_clip": "GorgeousQuaintCucumberTooSpicy-JM19Ajn7izXTVmVf"
   },
   {
    "file": "episode/2026-11-21/thumb_C.jpg",
    "base": "episode/2026-11-21/base_C.jpg",
    "spot": [
-    0.742,
-    0.53
+    0.42,
+    0.62
    ],
    "mark": "circle",
-   "text": "INSANE",
-   "from_clip": "QuaintAbnegateGnatFailFish-v0xBkFBoEeE_iFfL"
+   "text": "BMX FAIL",
+   "from_clip": "ReliableAverageWebFUNgineer-m8rTD--hodMm-JVH"
   }
  ],
  "screened_out": [

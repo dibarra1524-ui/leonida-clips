@@ -1,0 +1,13 @@
+{
+ "verdict": "yes",
+ "title": "Lacy Got Sent Flying in GTA 6",
+ "thumbnail": "episode/2026-11-21/thumb_A.jpg",
+ "faults_fixed": [
+  "dropped 18 clips pre-gauntlet (strip clubs, lap dance, shower/nude NPCs, sex cutscenes, story missions, pause menus, non-gameplay)",
+  "round 1: dropped fox-suit clip (strip-club 'Hold Em' pole-dancer billboard in background)",
+  "round 1: opener moved to Lacy ATV bail",
+  "round 1: all 3 thumbnails rebuilt from zoomed crops without chat/timers/handles, specific text (SENT FLYING / WHO IS THAT? / BMX FAIL)",
+  "round 2: thumb_A recropped to remove facecam fragment, arrow moved onto the body"
+ ],
+ "rounds": 2
+}

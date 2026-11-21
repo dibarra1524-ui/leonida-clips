@@ -909,6 +909,34 @@
     "age_h": 11.9
    },
    "score": 2.328
+  },
+  {
+   "id": "LivelyFrigidIcecreamMVGame-XvF3qBhtbYmpa9cz",
+   "media_id": "18047257244644687",
+   "posted_at": "2026-11-21T17:46:18Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "low",
+    "hook_style": "reaction",
+    "hook_case": "title"
+   },
+   "traits": {
+    "streamer": "asianjeff",
+    "len": "50+",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "topic:funny": 1,
+    "topic:map": 1,
+    "topic:npc": 1,
+    "topic:police": 1,
+    "topic:weapon": 1,
+    "hour": "09"
+   },
+   "hook": "AsianJeff did not expect this",
+   "duration": 60.01
   }
  ]
 }

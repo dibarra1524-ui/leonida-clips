@@ -768,6 +768,29 @@
    },
    "hook": "Why is YourRAGE's truck sliding?",
    "duration": 4.5
+  },
+  {
+   "id": "FlirtyStupidCheddarUWot-1HTm3NfcOibFzJ1R",
+   "media_id": "18113002913187818",
+   "posted_at": "2026-11-21T02:47:45Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "title"
+   },
+   "traits": {
+    "streamer": "asianjeff",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:npc": 1,
+    "hour": "18"
+   },
+   "hook": "AsianJeff panics over the L3 button",
+   "duration": 27.83
   }
  ]
 }

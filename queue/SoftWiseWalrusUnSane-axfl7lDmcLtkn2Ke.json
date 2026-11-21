@@ -1,0 +1,45 @@
+{
+ "id": "SoftWiseWalrusUnSane-axfl7lDmcLtkn2Ke",
+ "streamer": "KaiCenat",
+ "login": "kaicenat",
+ "title": "WWWW eiii",
+ "views": 463,
+ "created_at": "2026-11-21T00:04:30Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/kaicenat/clip/SoftWiseWalrusUnSane-axfl7lDmcLtkn2Ke",
+ "platform": "twitch",
+ "credit": "twitch.tv/kaicenat",
+ "layout": "full",
+ "transcript": "Come on, come on, come on, come on.",
+ "score": 20.1,
+ "campaign": {
+  "id": "clippedshipped-kai-gta6",
+  "name": "Kai Cenat $10,000 GTA 6 Pool (Clipped & Shipped)",
+  "mention": "Kai Cenat",
+  "hashtag": "#KaiCenat",
+  "rules": "Kai Cenat must be the primary focus in the actual edit; caption or overlay must name Kai Cenat; #KaiCenat required; never negative or hate-farm; no logos; no reposts/collab posts; marathon footage from Nov 18 on",
+  "submit_at": "https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86",
+  "pay": "pool $10K split by views; each clip needs 1K views; needs 750K total views",
+  "cta": "Watch Kai Cenat live: twitch.tv/kaicenat",
+  "ends": "when the marathon ends"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "stakes",
+  "hook_case": "title",
+  "opener": "normal",
+  "ending": "hard"
+ },
+ "kept": 20.0,
+ "action": 0.301,
+ "action_parts": {
+  "audio": 0.08,
+  "motion": 1.0,
+  "talk": 0.05,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-21T12:37:37Z"
+}

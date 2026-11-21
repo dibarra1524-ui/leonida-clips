@@ -1,0 +1,45 @@
+{
+ "id": "PhilanthropicModernFriseeNerfBlueBlaster-56qXWE4VuhiKvoYU",
+ "streamer": "Silky",
+ "login": "silky",
+ "title": "mail",
+ "views": 117,
+ "created_at": "2026-11-21T06:54:27Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/silky/clip/PhilanthropicModernFriseeNerfBlueBlaster-56qXWE4VuhiKvoYU",
+ "platform": "twitch",
+ "credit": "twitch.tv/silky",
+ "layout": "cam",
+ "transcript": "Go for Reams Ag. Okay, well I'm not calling K -King, bro. K, one K don't live in Miami. Then it gets a liar. K don't live in Miami. Then they gotta be having to drive three hours away. Then I didn't K don't live in Miami, gang. Like, look at what this nigga's doing. I can't take this nigga serious, bro. This is how he spends his days, bro. Sitting here and trying to go for Discord, girls, and go for Reams Ags. Like, bro, that's what he does, bro. Like, he's not coming outside, gang. I couldn't find him. Nigga said, go call him. I don't have to call him. I can find him somewhere in the Discord gang. That's what you have to understand. This is what he does all day, bro.",
+ "score": 9.9,
+ "campaign": {
+  "id": "37f68297-664c-4820-a020-9bbb4a703bf9",
+  "name": "$7,500 Silky Pool Campaign (Reach)",
+  "mention": "Silky",
+  "hashtag": "#silky",
+  "rules": "Silky must be the main focus playing GTA 6; caption must include #silky; never negative about Silky; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9",
+  "pay": "pool $7.5K split by views, needs 250K total views, 500 views per clip",
+  "cta": "Watch Silky live: twitch.tv/silky",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "none",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "question",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "hard"
+ },
+ "kept": 46.21,
+ "action": 0.544,
+ "action_parts": {
+  "audio": 0.3,
+  "motion": 0.31,
+  "talk": 0.99,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-21T12:37:37Z"
+}

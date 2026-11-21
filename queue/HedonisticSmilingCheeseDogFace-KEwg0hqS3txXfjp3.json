@@ -1,0 +1,46 @@
+{
+ "id": "HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
+ "streamer": "Lacy",
+ "login": "lacy",
+ "title": "a",
+ "views": 659,
+ "created_at": "2026-11-20T20:08:58Z",
+ "duration": 28.9,
+ "clip_url": "https://www.twitch.tv/lacy/clip/HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
+ "platform": "twitch",
+ "credit": "twitch.tv/lacy",
+ "layout": "cam",
+ "transcript": "Oh shit, yo. I'm good. Fuckin' drunk!",
+ "score": 21.2,
+ "campaign": {
+  "id": "reach-lacy-gta",
+  "name": "$12,500 LACY GTA VI Marathon Pool (Reach)",
+  "mention": "LACY",
+  "hashtag": "#LACY",
+  "rules": "Lacy must be the main focus; caption/overlay must say LACY; caption must have #LACY; no logos; never negative about Lacy; English audience; submit link within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a?group=1",
+  "min_total_views": 750000,
+  "ends": "when the marathon ends",
+  "cta": "Watch LACY live: twitch.tv/lacy",
+  "pay": "pool $12.5K split by views, needs 750K total views"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "smart",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "normal",
+  "ending": "hard"
+ },
+ "kept": 28.25,
+ "action": 0.602,
+ "action_parts": {
+  "audio": 0.64,
+  "motion": 1.0,
+  "talk": 0.27,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-21T12:37:37Z"
+}

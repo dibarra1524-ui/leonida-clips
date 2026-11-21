@@ -512,5 +512,26 @@
   },
   "clip_url": "https://www.twitch.tv/lacy/clip/HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3.mp4"
+ },
+ {
+  "id": "EnticingLivelyEchidnaVoteYea-ngfgbUNaWRUPkdbd",
+  "media_id": "18140962114645908",
+  "posted_at": "2026-11-21T18:43:38Z",
+  "streamer": "asianjeff",
+  "hook": "AsianJeff could not stop apologizing",
+  "caption": "#ad AsianJeff hits the tunnel at full speed and instantly regrets it\n\nFollow AsianJeff live: twitch.tv/asianjeff\n\n#gta6 #gtavi #gta6clips #twitchclips #AsianJeff",
+  "campaign": {
+   "id": "bbd3a963-9a23-457c-bc15-6697971d9902",
+   "name": "$2,500 AsianJeff Clipping Campaign (Reach) $1/1K",
+   "mention": "AsianJeff",
+   "hashtag": "#AsianJeff",
+   "rules": "Only AsianJeff's GTA 6 playthrough from Nov 19 on; AsianJeff must be the main focus; caption must include #AsianJeff; never negative, no hate farming or rage-bait; no logos; English audience (50%+ US/CA/UK/AU/NZ); payout only after 10K views per clip; submit within 30 min of posting",
+   "submit_at": "https://contentrewards.com/c/campaigns/bbd3a963-9a23-457c-bc15-6697971d9902",
+   "pay": "cpm $1.00/1K (TikTok/IG/YT/X), min $10, max $300/clip, 10K-view minimum per clip",
+   "cta": "Follow AsianJeff live: twitch.tv/asianjeff",
+   "ends": "when budget runs out"
+  },
+  "clip_url": "https://www.twitch.tv/asianjeff/clip/EnticingLivelyEchidnaVoteYea-ngfgbUNaWRUPkdbd",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/EnticingLivelyEchidnaVoteYea-ngfgbUNaWRUPkdbd.mp4"
  }
 ]

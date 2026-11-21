@@ -1,9 +1,22 @@
 {
  "date": "2026-11-21",
  "episode": 5,
- "length_s": 256,
+ "length_s": 220,
  "target_s": 900,
  "clips": [
+  {
+   "id": "HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
+   "url": "https://www.twitch.tv/lacy/clip/HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
+   "title": "a",
+   "streamer": "Lacy",
+   "login": "lacy",
+   "views": 778,
+   "vph": 20.5,
+   "duration": 28.9,
+   "created_at": "2026-11-20T20:08:58Z",
+   "label": "Lacy bails off the ATV",
+   "start": 0.0
+  },
   {
    "id": "ResoluteCrazyPistachioPrimeMe-FgUccHgoroOQYUJB",
    "url": "https://www.twitch.tv/caseoh_/clip/ResoluteCrazyPistachioPrimeMe-FgUccHgoroOQYUJB",
@@ -15,20 +28,7 @@
    "duration": 60,
    "created_at": "2026-11-20T14:15:12Z",
    "label": "CaseOh stumbles into a roadside brawl",
-   "start": 0.0
-  },
-  {
-   "id": "AggressiveJazzyVampirePeanutButterJellyTime-x5Os2fBRGnW68JOW",
-   "url": "https://www.twitch.tv/lacy/clip/AggressiveJazzyVampirePeanutButterJellyTime-x5Os2fBRGnW68JOW",
-   "title": "a",
-   "streamer": "Lacy",
-   "login": "lacy",
-   "views": 2485,
-   "vph": 56.0,
-   "duration": 35.9,
-   "created_at": "2026-11-20T17:13:39Z",
-   "label": "Cops arrest a guy in a fox suit",
-   "start": 60.1
+   "start": 29.0
   },
   {
    "id": "ReliableAverageWebFUNgineer-m8rTD--hodMm-JVH",
@@ -41,7 +41,7 @@
    "duration": 60,
    "created_at": "2026-11-20T15:48:28Z",
    "label": "CaseOh's BMX run goes wrong",
-   "start": 96.1
+   "start": 89.1
   },
   {
    "id": "QuaintAbnegateGnatFailFish-v0xBkFBoEeE_iFfL",
@@ -54,20 +54,7 @@
    "duration": 52.1,
    "created_at": "2026-11-20T15:23:07Z",
    "label": "CaseOh flees on a mobility scooter",
-   "start": 156.2
-  },
-  {
-   "id": "HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
-   "url": "https://www.twitch.tv/lacy/clip/HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
-   "title": "a",
-   "streamer": "Lacy",
-   "login": "lacy",
-   "views": 778,
-   "vph": 20.5,
-   "duration": 28.9,
-   "created_at": "2026-11-20T20:08:58Z",
-   "label": "Lacy bails off the ATV",
-   "start": 208.4
+   "start": 149.2
   },
   {
    "id": "GorgeousQuaintCucumberTooSpicy-JM19Ajn7izXTVmVf",
@@ -80,7 +67,7 @@
    "duration": 19,
    "created_at": "2026-11-20T23:54:21Z",
    "label": "A stranger pops out of the trunk",
-   "start": 237.4
+   "start": 201.4
   }
  ],
  "thumbnails": [
@@ -99,23 +86,23 @@
    "file": "episode/2026-11-21/thumb_B.jpg",
    "base": "episode/2026-11-21/base_B.jpg",
    "spot": [
-    0.398,
-    0.5
+    0.229,
+    0.419
    ],
    "mark": "arrow",
-   "text": "HE DID WHAT",
-   "from_clip": "AggressiveJazzyVampirePeanutButterJellyTime-x5Os2fBRGnW68JOW"
+   "text": "WATCH THIS",
+   "from_clip": "ReliableAverageWebFUNgineer-m8rTD--hodMm-JVH"
   },
   {
    "file": "episode/2026-11-21/thumb_C.jpg",
    "base": "episode/2026-11-21/base_C.jpg",
    "spot": [
-    0.229,
-    0.419
+    0.742,
+    0.53
    ],
    "mark": "circle",
-   "text": "NO WAY",
-   "from_clip": "ReliableAverageWebFUNgineer-m8rTD--hodMm-JVH"
+   "text": "INSANE",
+   "from_clip": "QuaintAbnegateGnatFailFish-v0xBkFBoEeE_iFfL"
   }
  ],
  "screened_out": [
@@ -128,5 +115,5 @@
  ],
  "default_title": "GTA 6 Best Clips of the Day #5",
  "release": "ep-2026-11-21",
- "built_at": "2026-11-21T15:10:16Z"
+ "built_at": "2026-11-21T15:18:40Z"
 }

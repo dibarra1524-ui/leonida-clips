@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 24. Scored (20h+ old): 14. Exploration: 25%.
+Posts: 24. Scored (20h+ old): 16. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -8,80 +8,81 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 | option | evidence | lift |
 |---|---|---|
-| low | 3.8 | +0.17 |
-| high | 3.5 | +0.00 |
-| mid | 3.6 | -0.30 |
+| low | 4.6 | +0.14 |
+| high | 3.4 | +0.00 |
+| mid | 4.5 | -0.25 |
 
 ## gene:cap_pos
 
 | option | evidence | lift |
 |---|---|---|
-| mid | 8.2 | +0.09 |
-| low | 4.4 | -0.17 |
+| mid | 9.9 | +0.08 |
+| low | 4.2 | -0.17 |
 
 ## gene:cap_size
 
 | option | evidence | lift |
 |---|---|---|
-| 84 | 1.6 | +0.13 |
-| 96 | 3.7 | -0.04 |
-| 72 | 7.3 | -0.05 |
+| 84 | 2.6 | +0.10 |
+| 96 | 3.5 | -0.04 |
+| 72 | 8.0 | -0.05 |
 
 ## gene:hook_case
 
 | option | evidence | lift |
 |---|---|---|
-| title | 7.3 | +0.08 |
-| upper | 5.3 | -0.13 |
+| title | 8.0 | +0.07 |
+| upper | 6.1 | -0.11 |
 
 ## gene:hook_style
 
 | option | evidence | lift |
 |---|---|---|
-| question | 1.7 | +0.15 |
+| question | 1.6 | +0.15 |
 | stakes | 2.6 | +0.00 |
-| reaction | 6.6 | -0.02 |
+| reaction | 8.4 | -0.02 |
 | streamer | 1.6 | -0.16 |
 
 ## gene:max_len
 
 | option | evidence | lift |
 |---|---|---|
-| 20 | 6.6 | +0.05 |
-| 45 | 1.7 | +0.00 |
-| 60 | 1.7 | -0.02 |
-| 30 | 2.6 | -0.11 |
+| 20 | 8.3 | +0.04 |
+| 45 | 1.6 | +0.00 |
+| 60 | 1.6 | -0.02 |
+| 30 | 2.5 | -0.11 |
 
 ## gene:trim
 
 | option | evidence | lift |
 |---|---|---|
-| smart | 6.3 | +0.04 |
-| none | 6.2 | -0.07 |
+| smart | 7.1 | +0.04 |
+| none | 7.0 | -0.06 |
 
 ## hour
 
 | option | evidence | lift |
 |---|---|---|
-| 21 | 2.0 | +0.03 |
-| 18 | 5.5 | +0.02 |
-| 06 | 0.9 | +0.01 |
-| 15 | 4.2 | -0.09 |
+| 21 | 1.9 | +0.05 |
+| 18 | 5.3 | +0.03 |
+| 06 | 0.8 | +0.01 |
+| 00 | 2.0 | -0.03 |
+| 15 | 4.0 | -0.08 |
 
 ## layout
 
 | option | evidence | lift |
 |---|---|---|
 | full | 0.8 | +0.19 |
-| cam | 11.7 | -0.07 |
+| cam | 13.3 | -0.06 |
 
 ## len
 
 | option | evidence | lift |
 |---|---|---|
-| 20-35 | 9.9 | +0.02 |
+| 20-35 | 10.6 | +0.03 |
 | 50+ | 0.8 | -0.03 |
-| <20 | 1.8 | -0.07 |
+| <20 | 2.7 | -0.09 |
 
 ## streamer
 
@@ -89,37 +90,38 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 |---|---|---|
 | lirik | 0.8 | +0.19 |
 | kaicenat | 0.9 | +0.10 |
-| caseoh_ | 1.8 | +0.00 |
-| ohnepixel | 0.8 | -0.01 |
-| xqc | 2.5 | -0.02 |
-| bobby_vanriper | 2.9 | -0.09 |
-| lacy | 2.8 | -0.11 |
+| caseoh_ | 1.7 | +0.00 |
+| ohnepixel | 1.8 | -0.01 |
+| xqc | 2.4 | -0.02 |
+| lacy | 2.7 | -0.09 |
+| bobby_vanriper | 3.8 | -0.10 |
 
 ## topic
 
 | option | evidence | lift |
 |---|---|---|
 | weapon | 1.9 | +0.06 |
-| police | 2.5 | -0.00 |
-| car | 2.6 | -0.05 |
-| npc | 1.8 | -0.07 |
-| map | 1.9 | -0.10 |
+| police | 2.4 | -0.00 |
+| car | 3.5 | -0.02 |
+| funny | 2.0 | -0.03 |
+| npc | 1.7 | -0.06 |
+| map | 1.8 | -0.10 |
 
 ## Trending right now (from the last fetch)
 
-Topics: npc 1.00, car 0.68, police 0.34, money 0.20, glitch 0.17, funny 0.14, map 0.10, rage 0.06
+Topics: car 1.00, funny 0.38, glitch 0.37, police 0.18, npc 0.10
 
-Streamers: caseoh_ 1.00, ohnepixel 0.73, kaicenat 0.51, maya 0.50, joe_bartolozzi 0.24, stableronaldo 0.22, ishowspeed 0.21, avoidingthepuddle 0.21
+Streamers: caseoh_ 1.00, ludwig 0.36, theburntpeanut 0.33, xqc 0.28, kaicenat 0.24, zoreee 0.17, ohnepixel 0.16, hasanabi 0.16
 
 Hook ideas from trending Shorts titles:
 
+- 🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!
 - Grand Theft Auto VI: Out Now
 - GTA 6 (Grand Theft Auto VI) - Official Trailer
 - Grand Theft Auto VI - Features Trailer | PS5 Games
+- GTA 6 MARATHON | Official Trailer
 - 12 THINGS You NEED To Do On DAY 1 in GTA 6
-- GTA memes to watch before GTA 6
 - GTA 6: MORE New Gameplay That Looks Like Real Life Has Been Released...
 - New GTA 6 Gameplay Looks Just Like Real Life
-- Hidden GTA 6 Clips You Probably Missed
-- GTA 6 Clipping: How to Start & Make Money (Full Guide) 🔥
+- 🔴DR DISRESPECT - GTA 6 - EVERY MISSION, YOU WIN
 - GTA 6 LIVE GAMEPLAY🔥| STORY MODE #gta6 #shorts

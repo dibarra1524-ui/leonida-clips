@@ -839,6 +839,29 @@
     "age_h": 2.9
    },
    "score": 2.438
+  },
+  {
+   "id": "EnticingMotionlessGoblinNononoCat-c7RYFEIs21DcRCfF",
+   "media_id": "18110178071363986",
+   "posted_at": "2026-11-21T05:47:16Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "question",
+    "hook_case": "title"
+   },
+   "traits": {
+    "streamer": "asianjeff",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "hour": "21"
+   },
+   "hook": "Can AsianJeff win this fistfight?",
+   "duration": 24.72
   }
  ]
 }

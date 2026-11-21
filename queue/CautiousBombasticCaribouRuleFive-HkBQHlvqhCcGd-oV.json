@@ -1,0 +1,46 @@
+{
+ "id": "CautiousBombasticCaribouRuleFive-HkBQHlvqhCcGd-oV",
+ "streamer": "Lacy",
+ "login": "lacy",
+ "title": "a",
+ "views": 785,
+ "created_at": "2026-11-21T03:13:35Z",
+ "duration": 26.9,
+ "clip_url": "https://www.twitch.tv/lacy/clip/CautiousBombasticCaribouRuleFive-HkBQHlvqhCcGd-oV",
+ "platform": "twitch",
+ "credit": "twitch.tv/lacy",
+ "layout": "cam",
+ "transcript": "Gracia, baby Rose is underground chicken fighting What the fuck",
+ "score": 24.9,
+ "campaign": {
+  "id": "reach-lacy-gta",
+  "name": "$12,500 LACY GTA VI Marathon Pool (Reach)",
+  "mention": "LACY",
+  "hashtag": "#LACY",
+  "rules": "Lacy must be the main focus; caption/overlay must say LACY; caption must have #LACY; no logos; never negative about Lacy; English audience; submit link within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a?group=1",
+  "min_total_views": 750000,
+  "ends": "when the marathon ends",
+  "cta": "Watch LACY live: twitch.tv/lacy",
+  "pay": "pool $12.5K split by views, needs 750K total views"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "none",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "question",
+  "hook_case": "title",
+  "opener": "normal",
+  "ending": "runon"
+ },
+ "kept": 26.93,
+ "action": 0.581,
+ "action_parts": {
+  "audio": 0.84,
+  "motion": 0.74,
+  "talk": 0.17,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-21T20:32:16Z"
+}

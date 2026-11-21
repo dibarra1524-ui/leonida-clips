@@ -1,0 +1,45 @@
+{
+ "id": "ColdbloodedCrowdedSwanSaltBae-HT-fKxzkvGlW3vM9",
+ "streamer": "bobby_vanriper",
+ "login": "bobby_vanriper",
+ "title": "finds a bug",
+ "views": 36,
+ "created_at": "2026-11-21T09:23:59Z",
+ "duration": 27.6,
+ "clip_url": "https://www.twitch.tv/bobby_vanriper/clip/ColdbloodedCrowdedSwanSaltBae-HT-fKxzkvGlW3vM9",
+ "platform": "twitch",
+ "credit": "twitch.tv/bobby_vanriper",
+ "layout": "cam",
+ "transcript": "Why didn't the fuck just happen? Dude what was that bug? What was that bug? Somebody clipped that. I just hit a tree and now all of a sudden, a thousand feet in the air. What the fuck was that? What the fuck was that? Routine ears.",
+ "score": 1.7,
+ "campaign": {
+  "id": "clippingnation-bobby-gta6",
+  "name": "BOBBY VAN RIPER GTA VI Clipping (Clipping Nation) $1.50/1K",
+  "mention": "Bobby VanRiper",
+  "hashtag": "#BobbyVanRiper",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/f583b069-ced7-49e5-9ed3-2d3a13d6df0c",
+  "pay": "cpm $1.50/1K, max $150/clip; David must join discord.gg/DQyAcKa3nU for payouts",
+  "cta": "Follow Bobby VanRiper live: twitch.tv/bobby_vanriper",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "low",
+  "hook_style": "stakes",
+  "hook_case": "title",
+  "opener": "normal",
+  "ending": "hard"
+ },
+ "kept": 20.0,
+ "action": 0.564,
+ "action_parts": {
+  "audio": 0.25,
+  "motion": 0.58,
+  "talk": 0.91,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-21T20:32:16Z"
+}

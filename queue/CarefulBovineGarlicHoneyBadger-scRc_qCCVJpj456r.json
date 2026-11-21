@@ -1,0 +1,45 @@
+{
+ "id": "CarefulBovineGarlicHoneyBadger-scRc_qCCVJpj456r",
+ "streamer": "yourragegaming",
+ "login": "yourragegaming",
+ "title": "lol",
+ "views": 334,
+ "created_at": "2026-11-21T07:58:13Z",
+ "duration": 49.3,
+ "clip_url": "https://www.twitch.tv/yourragegaming/clip/CarefulBovineGarlicHoneyBadger-scRc_qCCVJpj456r",
+ "platform": "twitch",
+ "credit": "twitch.tv/yourragegaming",
+ "layout": "cam",
+ "transcript": "How y 'all gonna change the drugs in there, bro? Come in there, you're vehicle.",
+ "score": 12.4,
+ "campaign": {
+  "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
+  "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
+  "mention": "YourRAGE",
+  "hashtag": "#yourrage",
+  "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
+  "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
+  "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "none",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "streamer",
+  "hook_case": "upper",
+  "opener": "normal",
+  "ending": "hard"
+ },
+ "kept": 20.0,
+ "action": 0.436,
+ "action_parts": {
+  "audio": 0.19,
+  "motion": 0.73,
+  "talk": 0.22,
+  "bonus": 0.1
+ },
+ "queued_at": "2026-11-21T20:32:16Z"
+}

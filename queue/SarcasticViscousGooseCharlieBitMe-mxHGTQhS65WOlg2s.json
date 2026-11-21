@@ -1,0 +1,45 @@
+{
+ "id": "SarcasticViscousGooseCharlieBitMe-mxHGTQhS65WOlg2s",
+ "streamer": "yourragegaming",
+ "login": "yourragegaming",
+ "title": "car",
+ "views": 272,
+ "created_at": "2026-11-21T08:37:57Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/yourragegaming/clip/SarcasticViscousGooseCharlieBitMe-mxHGTQhS65WOlg2s",
+ "platform": "twitch",
+ "credit": "twitch.tv/yourragegaming",
+ "layout": "cam",
+ "transcript": "I'm trying to do that. Who are these guys? What are you two on? What are you looking at us for? Jump. Of course he's. If it's so easy, why not you two jump? We want to see you jump first. Or are you two scared? What pussy? So long. We'll be the same time.",
+ "score": 15.8,
+ "campaign": {
+  "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
+  "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
+  "mention": "YourRAGE",
+  "hashtag": "#yourrage",
+  "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
+  "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
+  "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 30,
+  "trim": "none",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "hard"
+ },
+ "kept": 31.22,
+ "action": 0.685,
+ "action_parts": {
+  "audio": 0.46,
+  "motion": 1.0,
+  "talk": 0.71,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-21T20:32:16Z"
+}

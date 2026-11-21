@@ -744,6 +744,30 @@
    },
    "hook": "Can YOURRAGE land this seaplane?",
    "duration": 20.0
+  },
+  {
+   "id": "PoliteDeliciousCrabsMrDestructoid-5wqj8n8m8x6H1_VD",
+   "media_id": "18276143413307374",
+   "posted_at": "2026-11-21T02:45:59Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "smart",
+    "cap_size": 96,
+    "cap_pos": "mid",
+    "hook_style": "question",
+    "hook_case": "title"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "<20",
+    "layout": "cam",
+    "action": "mid",
+    "topic:car": 1,
+    "topic:rage": 1,
+    "hour": "18"
+   },
+   "hook": "Why is YourRAGE's truck sliding?",
+   "duration": 4.5
   }
  ]
 }

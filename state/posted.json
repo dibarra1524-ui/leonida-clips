@@ -384,5 +384,26 @@
   },
   "clip_url": "https://www.twitch.tv/yourragegaming/clip/WiseEphemeralBeefTwitchRaid-Bgtt5mdgUN-m6uWL",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/WiseEphemeralBeefTwitchRaid-Bgtt5mdgUN-m6uWL.mp4"
+ },
+ {
+  "id": "PoliteDeliciousCrabsMrDestructoid-5wqj8n8m8x6H1_VD",
+  "media_id": "18276143413307374",
+  "posted_at": "2026-11-21T02:45:59Z",
+  "streamer": "yourragegaming",
+  "hook": "Why is YourRAGE's truck sliding?",
+  "caption": "YourRAGE vs the GTA 6 truck handling \ud83d\ude02\n\nWatch YourRAGE live: twitch.tv/yourragegaming\n\n#gta6 #gtavi #gta6clips #leonida #twitchclips #yourrage #car",
+  "campaign": {
+   "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
+   "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
+   "mention": "YourRAGE",
+   "hashtag": "#yourrage",
+   "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
+   "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
+   "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
+   "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
+   "ends": "when the pool ends"
+  },
+  "clip_url": "https://www.twitch.tv/yourragegaming/clip/PoliteDeliciousCrabsMrDestructoid-5wqj8n8m8x6H1_VD",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/PoliteDeliciousCrabsMrDestructoid-5wqj8n8m8x6H1_VD.mp4"
  }
 ]

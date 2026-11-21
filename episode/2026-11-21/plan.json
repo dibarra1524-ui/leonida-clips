@@ -1,7 +1,7 @@
 {
  "date": "2026-11-21",
  "episode": 5,
- "length_s": 917,
+ "length_s": 256,
  "target_s": 900,
  "clips": [
   {
@@ -14,34 +14,8 @@
    "vph": 435.2,
    "duration": 60,
    "created_at": "2026-11-20T14:15:12Z",
-   "label": "Cooked them",
+   "label": "CaseOh stumbles into a roadside brawl",
    "start": 0.0
-  },
-  {
-   "id": "FragileTardySquidAMPEnergyCherry-sWGYVnxAPuBi_y1v",
-   "url": "https://www.twitch.tv/ohnepixel/clip/FragileTardySquidAMPEnergyCherry-sWGYVnxAPuBi_y1v",
-   "title": "Ohne Bricked Up!!",
-   "streamer": "ohnePixel",
-   "login": "ohnepixel",
-   "views": 4420,
-   "vph": 128.1,
-   "duration": 60,
-   "created_at": "2026-11-20T21:41:29Z",
-   "label": "Ohne Bricked Up",
-   "start": 60.1
-  },
-  {
-   "id": "OddSweetToadMVGame-GtoXLBw9qz8XcLCg",
-   "url": "https://www.twitch.tv/caseoh_/clip/OddSweetToadMVGame-GtoXLBw9qz8XcLCg",
-   "title": "kyle 1",
-   "streamer": "caseoh_",
-   "login": "caseoh_",
-   "views": 367,
-   "vph": 97.5,
-   "duration": 60,
-   "created_at": "2026-11-21T13:47:39Z",
-   "label": "Kyle 1",
-   "start": 120.2
   },
   {
    "id": "AggressiveJazzyVampirePeanutButterJellyTime-x5Os2fBRGnW68JOW",
@@ -53,34 +27,8 @@
    "vph": 56.0,
    "duration": 35.9,
    "created_at": "2026-11-20T17:13:39Z",
-   "label": "A",
-   "start": 180.3
-  },
-  {
-   "id": "ExcitedPlumpMomNerfBlueBlaster-kcrH6JTKxuAS5S1u",
-   "url": "https://www.twitch.tv/ohnepixel/clip/ExcitedPlumpMomNerfBlueBlaster-kcrH6JTKxuAS5S1u",
-   "title": "gta-6-mandy-irl-voice-actor",
-   "streamer": "ohnePixel",
-   "login": "ohnepixel",
-   "views": 2798,
-   "vph": 54.0,
-   "duration": 60,
-   "created_at": "2026-11-20T13:57:56Z",
-   "label": "Gta-6-mandy-irl-voice-actor",
-   "start": 216.3
-  },
-  {
-   "id": "ObeseCrypticGarlicVoteYea-j6KGDIo3-1pUEZEx",
-   "url": "https://www.twitch.tv/ohnepixel/clip/ObeseCrypticGarlicVoteYea-j6KGDIo3-1pUEZEx",
-   "title": "XD",
-   "streamer": "ohnePixel",
-   "login": "ohnepixel",
-   "views": 1777,
-   "vph": 50.6,
-   "duration": 60,
-   "created_at": "2026-11-20T21:24:22Z",
-   "label": "GTA 6",
-   "start": 276.4
+   "label": "Cops arrest a guy in a fox suit",
+   "start": 60.1
   },
   {
    "id": "ReliableAverageWebFUNgineer-m8rTD--hodMm-JVH",
@@ -92,34 +40,8 @@
    "vph": 50.3,
    "duration": 60,
    "created_at": "2026-11-20T15:48:28Z",
-   "label": "Jason ok?",
-   "start": 336.5
-  },
-  {
-   "id": "AnnoyingPoliteLorisSpicyBoy-QCq_saE3FOEGjBlH",
-   "url": "https://www.twitch.tv/lacy/clip/AnnoyingPoliteLorisSpicyBoy-QCq_saE3FOEGjBlH",
-   "title": "wwwwwwwwwwwwwww",
-   "streamer": "Lacy",
-   "login": "lacy",
-   "views": 1943,
-   "vph": 50.1,
-   "duration": 27.2,
-   "created_at": "2026-11-20T19:44:27Z",
-   "label": "Wwwwwwwwwwwwwww",
-   "start": 396.6
-  },
-  {
-   "id": "BloodyOilyWasabiVoteNay-iA3QTvyzrlB0a4qv",
-   "url": "https://www.twitch.tv/xqc/clip/BloodyOilyWasabiVoteNay-iA3QTvyzrlB0a4qv",
-   "title": "13 years moment LOL",
-   "streamer": "xQc",
-   "login": "xqc",
-   "views": 783,
-   "vph": 46.7,
-   "duration": 11.9,
-   "created_at": "2026-11-21T06:20:18Z",
-   "label": "13 years moment",
-   "start": 423.9
+   "label": "CaseOh's BMX run goes wrong",
+   "start": 96.1
   },
   {
    "id": "QuaintAbnegateGnatFailFish-v0xBkFBoEeE_iFfL",
@@ -131,112 +53,8 @@
    "vph": 41.3,
    "duration": 52.1,
    "created_at": "2026-11-20T15:23:07Z",
-   "label": "Broken",
-   "start": 435.9
-  },
-  {
-   "id": "SpineyTallButterflyEleGiggle-RSDxRtKWJORhlfkq",
-   "url": "https://www.twitch.tv/stableronaldo/clip/SpineyTallButterflyEleGiggle-RSDxRtKWJORhlfkq",
-   "title": "AHH ALMOST ALMOST",
-   "streamer": "stableronaldo",
-   "login": "stableronaldo",
-   "views": 1320,
-   "vph": 34.2,
-   "duration": 43.5,
-   "created_at": "2026-11-20T19:49:16Z",
-   "label": "AHH ALMOST ALMOST",
-   "start": 488.1
-  },
-  {
-   "id": "ResourcefulLachrymoseCormorantAMPEnergyCherry-Nvb9kX4kl7UpGntI",
-   "url": "https://www.twitch.tv/hasanabi/clip/ResourcefulLachrymoseCormorantAMPEnergyCherry-Nvb9kX4kl7UpGntI",
-   "title": "10k dono?",
-   "streamer": "HasanAbi",
-   "login": "hasanabi",
-   "views": 1029,
-   "vph": 34.1,
-   "duration": 10.1,
-   "created_at": "2026-11-20T23:43:43Z",
-   "label": "10k dono?",
-   "start": 531.7
-  },
-  {
-   "id": "RichVainScallionBigBrother-AYQxqQHepL8VvwDR",
-   "url": "https://www.twitch.tv/lacy/clip/RichVainScallionBigBrother-AYQxqQHepL8VvwDR",
-   "title": "wwww",
-   "streamer": "Lacy",
-   "login": "lacy",
-   "views": 971,
-   "vph": 26.6,
-   "duration": 22.2,
-   "created_at": "2026-11-20T20:46:43Z",
-   "label": "Wwww",
-   "start": 541.8
-  },
-  {
-   "id": "SassyHonestCarabeef4Head-dlvVz6khMR53Tz4m",
-   "url": "https://www.twitch.tv/ishowspeed/clip/SassyHonestCarabeef4Head-dlvVz6khMR53Tz4m",
-   "title": "90%",
-   "streamer": "IShowSpeed",
-   "login": "ishowspeed",
-   "views": 1399,
-   "vph": 25.6,
-   "duration": 30,
-   "created_at": "2026-11-20T12:46:41Z",
-   "label": "90%",
-   "start": 564.1
-  },
-  {
-   "id": "CoweringFunHorseCoolStoryBro-f1Mjaxvh2XN0JTr1",
-   "url": "https://www.twitch.tv/ohnepixel/clip/CoweringFunHorseCoolStoryBro-f1Mjaxvh2XN0JTr1",
-   "title": "?????",
-   "streamer": "ohnePixel",
-   "login": "ohnepixel",
-   "views": 1165,
-   "vph": 24.5,
-   "duration": 14.5,
-   "created_at": "2026-11-20T15:48:12Z",
-   "label": "?????",
-   "start": 594.2
-  },
-  {
-   "id": "AggressiveWildCamelPupper-VvkAPb5IfLVILc_e",
-   "url": "https://www.twitch.tv/ohnepixel/clip/AggressiveWildCamelPupper-VvkAPb5IfLVILc_e",
-   "title": "JIGGLE PHYSICS",
-   "streamer": "ohnePixel",
-   "login": "ohnepixel",
-   "views": 1266,
-   "vph": 23.7,
-   "duration": 25.3,
-   "created_at": "2026-11-20T13:19:44Z",
-   "label": "JIGGLE PHYSICS",
-   "start": 608.8
-  },
-  {
-   "id": "BenevolentSpinelessRaccoonTBCheesePull-UYnYo-vpn0BjWJIM",
-   "url": "https://www.twitch.tv/theburntpeanut/clip/BenevolentSpinelessRaccoonTBCheesePull-UYnYo-vpn0BjWJIM",
-   "title": "Now we need to find a new Wife",
-   "streamer": "TheBurntPeanut",
-   "login": "theburntpeanut",
-   "views": 711,
-   "vph": 23.6,
-   "duration": 19,
-   "created_at": "2026-11-20T23:42:35Z",
-   "label": "Now we need to find a new Wife",
-   "start": 634.2
-  },
-  {
-   "id": "SoftWiseWalrusUnSane-axfl7lDmcLtkn2Ke",
-   "url": "https://www.twitch.tv/kaicenat/clip/SoftWiseWalrusUnSane-axfl7lDmcLtkn2Ke",
-   "title": "WWWW eiii",
-   "streamer": "KaiCenat",
-   "login": "kaicenat",
-   "views": 605,
-   "vph": 20.6,
-   "duration": 30,
-   "created_at": "2026-11-21T00:04:30Z",
-   "label": "WWWW eiii",
-   "start": 653.3
+   "label": "CaseOh flees on a mobility scooter",
+   "start": 156.2
   },
   {
    "id": "HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
@@ -248,21 +66,8 @@
    "vph": 20.5,
    "duration": 28.9,
    "created_at": "2026-11-20T20:08:58Z",
-   "label": "A",
-   "start": 683.4
-  },
-  {
-   "id": "PoorOddSoybeanSoonerLater-r11i8-nRU3oOEnW8",
-   "url": "https://www.twitch.tv/kaicenat/clip/PoorOddSoybeanSoonerLater-r11i8-nRU3oOEnW8",
-   "title": "Kai was NOT ready for this GTA 6 scene",
-   "streamer": "KaiCenat",
-   "login": "kaicenat",
-   "views": 618,
-   "vph": 19.4,
-   "duration": 40,
-   "created_at": "2026-11-20T22:54:17Z",
-   "label": "Kai was NOT ready for this GTA 6 scene",
-   "start": 712.4
+   "label": "Lacy bails off the ATV",
+   "start": 208.4
   },
   {
    "id": "GorgeousQuaintCucumberTooSpicy-JM19Ajn7izXTVmVf",
@@ -274,47 +79,8 @@
    "vph": 17.3,
    "duration": 19,
    "created_at": "2026-11-20T23:54:21Z",
-   "label": "NEONNNNN",
-   "start": 752.4
-  },
-  {
-   "id": "PhilanthropicModernFriseeNerfBlueBlaster-56qXWE4VuhiKvoYU",
-   "url": "https://www.twitch.tv/silky/clip/PhilanthropicModernFriseeNerfBlueBlaster-56qXWE4VuhiKvoYU",
-   "title": "mail",
-   "streamer": "Silky",
-   "login": "silky",
-   "views": 223,
-   "vph": 14.2,
-   "duration": 60,
-   "created_at": "2026-11-21T06:54:27Z",
-   "label": "Mail",
-   "start": 771.5
-  },
-  {
-   "id": "MildBetterCamelKlappa-hvTSbGtq2ZtHy0ws",
-   "url": "https://www.twitch.tv/ishowspeed/clip/MildBetterCamelKlappa-hvTSbGtq2ZtHy0ws",
-   "title": "speed 4",
-   "streamer": "IShowSpeed",
-   "login": "ishowspeed",
-   "views": 693,
-   "vph": 13.6,
-   "duration": 30,
-   "created_at": "2026-11-20T14:24:45Z",
-   "label": "Speed 4",
-   "start": 831.6
-  },
-  {
-   "id": "ClumsyVivaciousDotterelBrokeBack-wxQt-rqtGLWo29wm",
-   "url": "https://www.twitch.tv/caseoh_/clip/ClumsyVivaciousDotterelBrokeBack-wxQt-rqtGLWo29wm",
-   "title": "omg haha",
-   "streamer": "caseoh_",
-   "login": "caseoh_",
-   "views": 10578,
-   "vph": 373.0,
-   "duration": 54.8,
-   "created_at": "2026-11-21T00:34:23Z",
-   "label": "Omg haha",
-   "start": 861.7
+   "label": "A stranger pops out of the trunk",
+   "start": 237.4
   }
  ],
  "thumbnails": [
@@ -333,23 +99,23 @@
    "file": "episode/2026-11-21/thumb_B.jpg",
    "base": "episode/2026-11-21/base_B.jpg",
    "spot": [
-    0.55,
-    0.185
+    0.398,
+    0.5
    ],
    "mark": "arrow",
-   "text": "WATCH THIS",
-   "from_clip": "ClumsyVivaciousDotterelBrokeBack-wxQt-rqtGLWo29wm"
+   "text": "HE DID WHAT",
+   "from_clip": "AggressiveJazzyVampirePeanutButterJellyTime-x5Os2fBRGnW68JOW"
   },
   {
    "file": "episode/2026-11-21/thumb_C.jpg",
    "base": "episode/2026-11-21/base_C.jpg",
    "spot": [
-    0.519,
-    0.33
+    0.229,
+    0.419
    ],
    "mark": "circle",
-   "text": "HE DID WHAT",
-   "from_clip": "FragileTardySquidAMPEnergyCherry-sWGYVnxAPuBi_y1v"
+   "text": "NO WAY",
+   "from_clip": "ReliableAverageWebFUNgineer-m8rTD--hodMm-JVH"
   }
  ],
  "screened_out": [
@@ -362,5 +128,5 @@
  ],
  "default_title": "GTA 6 Best Clips of the Day #5",
  "release": "ep-2026-11-21",
- "built_at": "2026-11-21T14:59:06Z"
+ "built_at": "2026-11-21T15:10:16Z"
 }

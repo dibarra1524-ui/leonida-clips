@@ -862,6 +862,29 @@
    },
    "hook": "Can AsianJeff win this fistfight?",
    "duration": 24.72
+  },
+  {
+   "id": "AggressiveJazzyVampirePeanutButterJellyTime-x5Os2fBRGnW68JOW",
+   "media_id": "18122501288084923",
+   "posted_at": "2026-11-21T05:49:02Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "question",
+    "hook_case": "upper"
+   },
+   "traits": {
+    "streamer": "lacy",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "mid",
+    "topic:police": 1,
+    "hour": "21"
+   },
+   "hook": "LACY, why are cops surrounding that?",
+   "duration": 26.5
   }
  ]
 }

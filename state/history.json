@@ -985,6 +985,29 @@
    },
    "hook": "AsianJeff could not stop apologizing",
    "duration": 25.75
+  },
+  {
+   "id": "AmazonianCallousPartridgeHumbleLife-qNvErqZ_8gd2GmIs",
+   "media_id": "17977169760154779",
+   "posted_at": "2026-11-21T18:44:57Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "smart",
+    "cap_size": 96,
+    "cap_pos": "mid",
+    "hook_style": "stakes",
+    "hook_case": "title"
+   },
+   "traits": {
+    "streamer": "silky",
+    "len": "<20",
+    "layout": "cam",
+    "action": "low",
+    "topic:police": 1,
+    "hour": "09"
+   },
+   "hook": "Wait until Silky spots the cop",
+   "duration": 15.5
   }
  ]
 }

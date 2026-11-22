@@ -7,3 +7,4 @@ Daily episodes and weekly research notes. Newest at the bottom.
 - 2026-11-18 episode #1 "GTA 6 Best Clips of the Day #1 (test)" https://youtu.be/L7cnJf-Ge0k (18 clips, 10:49, thumbnail FAILED (HTTP Error 403: Forbidden) - verify the channel phone number in YouTube Studio)
 - 2026-11-20 episode #3 "xQc, CaseOh & Kai Cenat's Wildest GTA 6 Moments" https://youtu.be/tQmNKMMmtqQ (10 clips, 5:03, thumbnail thumb_B.jpg)
 - 2026-11-21 episode #5 "Lacy Got Sent Flying in GTA 6" https://youtu.be/oFHQY_Jby6g (5 clips, 3:40, thumbnail thumb_A.jpg)
+- 2026-11-22 episode #7 "Jynxzi Plowed Through a GTA 6 Police Roadblock" https://youtu.be/AaLCI9ao5cs (7 clips, 3:57, thumbnail thumb_A.jpg)

@@ -1205,6 +1205,32 @@
     "age_h": 6.0
    },
    "score": 2.661
+  },
+  {
+   "id": "SarcasticViscousGooseCharlieBitMe-mxHGTQhS65WOlg2s",
+   "media_id": "18142802425724669",
+   "posted_at": "2026-11-22T23:48:45Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "none",
+    "cap_size": 72,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "hard"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "topic:npc": 1,
+    "hour": "15"
+   },
+   "hook": "YourRAGE could not believe this dare",
+   "duration": 31.22
   }
  ]
 }

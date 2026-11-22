@@ -10,7 +10,14 @@
   "min_total_views": 750000,
   "ends": "when the marathon ends",
   "cta": "Watch LACY live: twitch.tv/lacy",
-  "pay": "pool $12.5K split by views, needs 750K total views"
+  "pay": "pool $12.5K split by views, needs 750K total views",
+  "alt": {
+   "id": "reach-lacy-30day",
+   "name": "$25,000 Lacy 30 Day Campaign (Reach, TikTok/IG/YT)",
+   "submit_at": "https://contentrewards.com/c/campaigns/dc7183a8-7779-4b54-99a8-b7ac8c8452ec",
+   "pay": "pool $25K split by views, needs 1M total views, 500 views per clip, ends Dec 21",
+   "rules": "mention Lacy in caption/overlay, #Lacy hashtag, Lacy must be the primary focus"
+  }
  },
  {
   "streamer": "diegoloveless",

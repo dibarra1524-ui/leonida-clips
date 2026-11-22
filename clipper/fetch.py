@@ -17,6 +17,11 @@ MIN_VIEWS = int(os.environ.get('MIN_VIEWS', '25'))
 LANGS = set(os.environ.get('CLIP_LANGS', 'en').split(','))   # page language(s); a Spanish page would set es
 MIN_ACTION = float(os.environ.get('MIN_ACTION', '0.35'))   # clips scoring below this (calm, silent, dead air) are dropped
 AUTO_MAX = int(os.environ.get('AUTO_MAX', '25'))      # cap on the streamer list when trend radar adds people
+HOT = os.environ.get('HOT') == '1'                       # fast lane: only campaign streamers, only clips rising right now
+HOT_WINDOW_MIN = int(os.environ.get('HOT_WINDOW_MIN', '90'))
+HOT_MIN_VIEWS = int(os.environ.get('HOT_MIN_VIEWS', '15'))
+HOT_VEL = float(os.environ.get('HOT_VEL', '0.5'))          # views per minute since the clip was made
+HOT_MAX = int(os.environ.get('HOT_MAX', '2'))
 BAD_TITLE = re.compile(r'spoil|ending|final mission|last mission|credits|finale|beat the game|leak|strip|horny|lap ?dance|private dance|nsfw|naked|nude|thirst|rizz|hooker|prostitut|sexy|boob|twerk', re.I)
 
 
@@ -89,7 +94,7 @@ def main():
     posted = load('state/posted.json', [])
     queued = [f[:-5] for f in os.listdir('queue') if f.endswith('.json')]
     prune(posted)
-    if len(queued) >= QUEUE_MAX:
+    if len(queued) >= QUEUE_MAX and not HOT:
         print('queue full (%d)' % len(queued))
         return
     tw = Twitch()
@@ -98,7 +103,12 @@ def main():
         sys.exit('game not found on Twitch: %s' % GAME)
     gid = game[0]['id']
     hist = learn.load()
+    if HOT:
+        ok = [s for s in ok if isinstance(s.get('campaign'), dict)]
+        print('fast lane: watching', ', '.join(s['login'] for s in ok))
     try:
+        if HOT:
+            raise RuntimeError('skipped in fast lane')
         trend_radar(tw, gid, cfg, hist)
         learn.save_trend(hist['trend'])
         ok = [s for s in cfg['streamers'] if s.get('approved')]
@@ -113,7 +123,7 @@ def main():
         for u in tw.get('users', {'login': [s['login'] for s in ok[i:i + 100] if not s.get('kick_only')]}):
             users[u['id']] = u
     now = dt.datetime.now(dt.timezone.utc)
-    since = (now - dt.timedelta(hours=36)).strftime('%Y-%m-%dT%H:%M:%SZ')
+    since = (now - (dt.timedelta(minutes=HOT_WINDOW_MIN) if HOT else dt.timedelta(hours=36))).strftime('%Y-%m-%dT%H:%M:%SZ')
     clips = []
     for uid in users:
         for c in tw.get('clips', {'broadcaster_id': uid, 'started_at': since, 'first': 30}):
@@ -121,6 +131,10 @@ def main():
                 continue
             if c['view_count'] < MIN_VIEWS or not (10 <= c['duration'] <= 60) or BAD_TITLE.search(c['title']):
                 continue
+            if HOT:
+                mins = max(5.0, (now - dt.datetime.fromisoformat(c['created_at'].replace('Z', '+00:00'))).total_seconds() / 60)
+                if c['view_count'] < HOT_MIN_VIEWS or c['view_count'] / mins < HOT_VEL:
+                    continue
             if c.get('vod_offset') is not None and c.get('video_id'):
                 m = '%s:%d' % (c['video_id'], c['vod_offset'] // 45)
                 if m in seen['moments']:
@@ -128,7 +142,7 @@ def main():
                 c['_moment'] = m
             clips.append(c)
     since_dt = now - dt.timedelta(hours=36)
-    for st in [s for s in ok if s.get('kick')]:
+    for st in [s for s in ok if s.get('kick') and not HOT]:
         slug = st['kick']
         try:
             got = kick_clips(slug, since_dt)
@@ -149,7 +163,7 @@ def main():
     camp = {s['login'].lower() for s in ok if isinstance(s.get('campaign'), dict)}
     is_camp = lambda c: users[c['broadcaster_id']]['login'].lower() in camp
     clips.sort(key=lambda c: (is_camp(c), c['_rank']), reverse=True)
-    room = QUEUE_MAX - len(queued)
+    room = (HOT_MAX if HOT else QUEUE_MAX - len(queued))
     # campaign streamers: up to CAMP_PER_STREAMER queued each, tried from a deeper candidate list (they pay per view)
     # everyone else: one moment per batch, max 2 per streamer, PER_RUN queued
     picked, moments, per = [], set(), {}
@@ -214,7 +228,7 @@ def make(c, user, cfg, now, min_action=None):
             'credit': user.get('credit') or 'twitch.tv/' + user['login'], 'layout': used, 'transcript': transcript,
             'score': round(c.get('_rank', score(c, now)), 1), 'campaign': st.get('campaign'),
             'genes': genes, 'kept': kept, 'action': action[0], 'action_parts': action[1],
-            'queued_at': now.strftime('%Y-%m-%dT%H:%M:%SZ')}
+            'queued_at': now.strftime('%Y-%m-%dT%H:%M:%SZ'), 'hot': HOT}
     save('queue/%s.json' % c['id'], meta)
     print('queued', c['id'], user['login'], c['view_count'], 'views', used, 'action', action[0])
     return True

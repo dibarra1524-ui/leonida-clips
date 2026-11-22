@@ -1130,6 +1130,32 @@
     "age_h": 14.9
    },
    "score": 2.734
+  },
+  {
+   "id": "ColdbloodedCrowdedSwanSaltBae-HT-fKxzkvGlW3vM9",
+   "media_id": "18081878573775844",
+   "posted_at": "2026-11-22T17:43:16Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "smart",
+    "cap_size": 96,
+    "cap_pos": "low",
+    "hook_style": "stakes",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "hard"
+   },
+   "traits": {
+    "streamer": "bobby_vanriper",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "mid",
+    "topic:glitch": 1,
+    "topic:npc": 1,
+    "hour": "09"
+   },
+   "hook": "Bobby VanRiper hits one tree...",
+   "duration": 20.0
   }
  ]
 }

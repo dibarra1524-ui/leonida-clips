@@ -30,7 +30,7 @@
     "saves": 0,
     "avg_watch": 19.898,
     "skip_rate": 0.278,
-    "age_h": 73.6
+    "age_h": 76.6
    },
    "score": 3.285
   },
@@ -63,7 +63,7 @@
     "saves": 0,
     "avg_watch": 11.254,
     "skip_rate": 0.269,
-    "age_h": 73.1
+    "age_h": 76.1
    },
    "score": 3.621
   },
@@ -98,7 +98,7 @@
     "saves": 0,
     "avg_watch": 9.125,
     "skip_rate": 0.272,
-    "age_h": 72.8
+    "age_h": 75.8
    },
    "score": 2.536
   },
@@ -135,7 +135,7 @@
     "saves": 0,
     "avg_watch": 10.854,
     "skip_rate": 0.222,
-    "age_h": 70.9
+    "age_h": 73.9
    },
    "score": 2.686
   },
@@ -170,7 +170,7 @@
     "saves": 0,
     "avg_watch": 15.795,
     "skip_rate": 0.191,
-    "age_h": 69.0
+    "age_h": 72.0
    },
    "score": 3.446
   },
@@ -204,7 +204,7 @@
     "saves": 0,
     "avg_watch": 13.815,
     "skip_rate": 0.169,
-    "age_h": 56.4
+    "age_h": 59.4
    },
    "score": 2.725
   },
@@ -238,7 +238,7 @@
     "saves": 0,
     "avg_watch": 6.968,
     "skip_rate": 0.495,
-    "age_h": 48.3
+    "age_h": 51.3
    },
    "score": 2.081
   },
@@ -264,17 +264,17 @@
    "hook": "Wait for the bridge throw",
    "duration": 30.02,
    "metrics": {
-    "views": 211,
-    "reach": 157,
+    "views": 215,
+    "reach": 161,
     "likes": 5,
     "comments": 0,
     "shares": 0,
     "saves": 0,
-    "avg_watch": 16.862,
-    "skip_rate": 0.222,
-    "age_h": 45.0
+    "avg_watch": 16.517,
+    "skip_rate": 0.235,
+    "age_h": 48.0
    },
-   "score": 2.683
+   "score": 2.675
   },
   {
    "id": "GentleBrainyTortoiseKappa-SqJmUKvZs2E33xOH",
@@ -308,7 +308,7 @@
     "saves": 0,
     "avg_watch": 12.931,
     "skip_rate": 0.235,
-    "age_h": 44.4
+    "age_h": 47.4
    },
    "score": 2.718
   },
@@ -343,7 +343,7 @@
     "saves": 0,
     "avg_watch": 6.137,
     "skip_rate": 0.409,
-    "age_h": 44.3
+    "age_h": 47.3
    },
    "score": 2.168
   },
@@ -377,7 +377,7 @@
     "saves": 0,
     "avg_watch": 41.976,
     "skip_rate": 0.398,
-    "age_h": 44.3
+    "age_h": 47.3
    },
    "score": 2.991
   },
@@ -412,7 +412,7 @@
     "saves": 0,
     "avg_watch": 9.511,
     "skip_rate": 0.347,
-    "age_h": 44.2
+    "age_h": 47.2
    },
    "score": 2.419
   },
@@ -447,7 +447,7 @@
     "saves": 0,
     "avg_watch": 12.36,
     "skip_rate": 0.331,
-    "age_h": 41.9
+    "age_h": 45.0
    },
    "score": 2.584
   },
@@ -482,7 +482,7 @@
     "saves": 0,
     "avg_watch": 12.509,
     "skip_rate": 0.134,
-    "age_h": 41.9
+    "age_h": 44.9
    },
    "score": 2.853
   },
@@ -517,7 +517,7 @@
     "saves": 0,
     "avg_watch": 8.462,
     "skip_rate": 0.276,
-    "age_h": 38.9
+    "age_h": 42.0
    },
    "score": 2.419
   },
@@ -553,7 +553,7 @@
     "saves": 0,
     "avg_watch": 12.634,
     "skip_rate": 0.159,
-    "age_h": 38.9
+    "age_h": 41.9
    },
    "score": 2.588
   },
@@ -589,7 +589,7 @@
     "saves": 0,
     "avg_watch": 10.983,
     "skip_rate": 0.32,
-    "age_h": 31.8
+    "age_h": 34.8
    },
    "score": 2.396
   },
@@ -624,7 +624,7 @@
     "saves": 0,
     "avg_watch": 12.907,
     "skip_rate": 0.224,
-    "age_h": 31.4
+    "age_h": 34.5
    },
    "score": 2.71
   },
@@ -658,7 +658,7 @@
     "saves": 0,
     "avg_watch": 8.589,
     "skip_rate": 0.216,
-    "age_h": 26.7
+    "age_h": 29.8
    },
    "score": 2.705
   },
@@ -696,7 +696,7 @@
     "saves": 0,
     "avg_watch": 13.257,
     "skip_rate": 0.298,
-    "age_h": 26.7
+    "age_h": 29.7
    },
    "score": 2.299
   },
@@ -724,16 +724,16 @@
    "duration": 30.02,
    "metrics": {
     "views": 191,
-    "reach": 116,
+    "reach": 117,
     "likes": 0,
     "comments": 0,
     "shares": 0,
     "saves": 1,
-    "avg_watch": 21.06,
+    "avg_watch": 20.911,
     "skip_rate": 0.229,
-    "age_h": 23.9
+    "age_h": 26.9
    },
-   "score": 2.776
+   "score": 2.772
   },
   {
    "id": "WiseEphemeralBeefTwitchRaid-Bgtt5mdgUN-m6uWL",
@@ -765,7 +765,7 @@
     "saves": 0,
     "avg_watch": 7.576,
     "skip_rate": 0.37,
-    "age_h": 23.9
+    "age_h": 26.9
    },
    "score": 2.279
   },
@@ -801,7 +801,7 @@
     "saves": 0,
     "avg_watch": 5.142,
     "skip_rate": 0.21,
-    "age_h": 20.9
+    "age_h": 23.9
    },
    "score": 3.092
   },
@@ -836,7 +836,7 @@
     "saves": 0,
     "avg_watch": 12.92,
     "skip_rate": 0.22,
-    "age_h": 20.9
+    "age_h": 23.9
    },
    "score": 2.435
   },
@@ -871,7 +871,7 @@
     "saves": 0,
     "avg_watch": 8.93,
     "skip_rate": 0.26,
-    "age_h": 17.9
+    "age_h": 20.9
    },
    "score": 2.27
   },
@@ -906,7 +906,7 @@
     "saves": 0,
     "avg_watch": 10.575,
     "skip_rate": 0.243,
-    "age_h": 17.9
+    "age_h": 20.9
    },
    "score": 2.328
   },
@@ -936,7 +936,19 @@
     "hour": "09"
    },
    "hook": "AsianJeff did not expect this",
-   "duration": 60.01
+   "duration": 60.01,
+   "metrics": {
+    "views": 158,
+    "reach": 127,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "avg_watch": 24.623,
+    "skip_rate": 0.256,
+    "age_h": 8.9
+   },
+   "score": 2.426
   },
   {
    "id": "HedonisticSmilingCheeseDogFace-KEwg0hqS3txXfjp3",
@@ -960,7 +972,19 @@
     "hour": "09"
    },
    "hook": "LACY can't believe he survived this",
-   "duration": 28.25
+   "duration": 28.25,
+   "metrics": {
+    "views": 144,
+    "reach": 115,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "avg_watch": 11.055,
+    "skip_rate": 0.298,
+    "age_h": 8.9
+   },
+   "score": 2.352
   },
   {
    "id": "EnticingLivelyEchidnaVoteYea-ngfgbUNaWRUPkdbd",
@@ -984,7 +1008,19 @@
     "hour": "09"
    },
    "hook": "AsianJeff could not stop apologizing",
-   "duration": 25.75
+   "duration": 25.75,
+   "metrics": {
+    "views": 145,
+    "reach": 125,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "avg_watch": 11.781,
+    "skip_rate": 0.278,
+    "age_h": 8.0
+   },
+   "score": 2.417
   },
   {
    "id": "AmazonianCallousPartridgeHumbleLife-qNvErqZ_8gd2GmIs",
@@ -1007,7 +1043,19 @@
     "hour": "09"
    },
    "hook": "Wait until Silky spots the cop",
-   "duration": 15.5
+   "duration": 15.5,
+   "metrics": {
+    "views": 146,
+    "reach": 117,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "avg_watch": 7.373,
+    "skip_rate": 0.325,
+    "age_h": 7.9
+   },
+   "score": 2.411
   }
  ]
 }

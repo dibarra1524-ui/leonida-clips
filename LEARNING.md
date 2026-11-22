@@ -129,19 +129,19 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 ## Trending right now (from the last fetch)
 
-Topics: car 1.00, funny 0.18, glitch 0.18, npc 0.10, police 0.06
+Topics: npc 1.00, funny 0.66, car 0.30
 
-Streamers: ohnepixel 1.00, caseoh_ 0.87, ludwig 0.66, jynxzi 0.33, lacy 0.30, lirik 0.28, stableronaldo 0.27, joe_bartolozzi 0.26
+Streamers: ohnepixel 1.00, ludwig 0.66, lacy 0.53, ishowspeed 0.41, woolieversus 0.35, jerma985 0.34, kaicenat 0.27, quin69 0.21
 
 Hook ideas from trending Shorts titles:
 
 - Grand Theft Auto VI: Out Now
+- Whatever Car You Steal, I’ll Pay For!
+- GTA 6 - Stealing a Jet From the Military Base
 - GTA 6 Review
 - GTA 6 (Grand Theft Auto VI) - Official Trailer
-- GTA 6 MARATHON | Official Trailer
-- Do GTA 6 NPCs Actually Have Lives?
-- 12 THINGS You NEED To Do On DAY 1 in GTA 6
-- GTA 6 IS FINALLY HERE...
+- Grand Theft Auto 6 Gameplay and Impressions...
+- GTA 6 PS5 Pro Gameplay - 15 Minutes of The First Mission
+- GTA 6 WTF and Funny Moments! #1
 - GTA memes to watch before GTA 6
 - GTA 6 Review
-- New GTA 6 Gameplay Looks Just Like Real Life

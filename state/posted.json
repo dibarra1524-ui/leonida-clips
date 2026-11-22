@@ -659,5 +659,34 @@
   },
   "clip_url": "https://www.twitch.tv/yourragegaming/clip/SarcasticViscousGooseCharlieBitMe-mxHGTQhS65WOlg2s",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/SarcasticViscousGooseCharlieBitMe-mxHGTQhS65WOlg2s.mp4"
+ },
+ {
+  "id": "HonorableThirstyDonkeyHassanChop-fpmOS4KDci42X7KE",
+  "media_id": "17959899297325131",
+  "posted_at": "2026-11-22T23:51:27Z",
+  "streamer": "lacy",
+  "hook": "Who taught LACY to drive?",
+  "caption": "#ad LACY swears he is the best driver in Leonida\n\nWatch LACY live: twitch.tv/lacy\n\n#gta6 #gtavi #gta6clips #twitchclips #LACY",
+  "campaign": {
+   "id": "reach-lacy-gta",
+   "name": "$12,500 LACY GTA VI Marathon Pool (Reach)",
+   "mention": "LACY",
+   "hashtag": "#LACY",
+   "rules": "Lacy must be the main focus; caption/overlay must say LACY; caption must have #LACY; no logos; never negative about Lacy; English audience; submit link within 30 min of posting",
+   "submit_at": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a?group=1",
+   "min_total_views": 750000,
+   "ends": "when the marathon ends",
+   "cta": "Watch LACY live: twitch.tv/lacy",
+   "pay": "pool $12.5K split by views, needs 750K total views",
+   "alt": {
+    "id": "reach-lacy-30day",
+    "name": "$25,000 Lacy 30 Day Campaign (Reach, TikTok/IG/YT)",
+    "submit_at": "https://contentrewards.com/c/campaigns/dc7183a8-7779-4b54-99a8-b7ac8c8452ec",
+    "pay": "pool $25K split by views, needs 1M total views, 500 views per clip, ends Dec 21",
+    "rules": "mention Lacy in caption/overlay, #Lacy hashtag, Lacy must be the primary focus"
+   }
+  },
+  "clip_url": "https://www.twitch.tv/lacy/clip/HonorableThirstyDonkeyHassanChop-fpmOS4KDci42X7KE",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/HonorableThirstyDonkeyHassanChop-fpmOS4KDci42X7KE.mp4"
  }
 ]

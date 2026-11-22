@@ -14,7 +14,12 @@ W, H = 1080, 1920
 
 
 def load(p, d):
-    return json.load(open(p)) if os.path.exists(p) else d
+    if not os.path.exists(p):
+        return d
+    try:
+        return json.load(open(p))
+    except ValueError:
+        return d
 
 
 def save(p, o):

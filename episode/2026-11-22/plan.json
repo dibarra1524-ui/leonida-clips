@@ -53,7 +53,7 @@
    "vph": 12.4,
    "duration": 52.9,
    "created_at": "2026-11-21T18:59:03Z",
-   "label": "Ron refuses to pay the street toll",
+   "label": "Ron refuses the street toll",
    "start": 73.1
   },
   {
@@ -79,7 +79,7 @@
    "vph": 10.0,
    "duration": 60,
    "created_at": "2026-11-21T21:25:45Z",
-   "label": "Lacy jacks a car past the cops",
+   "label": "Lacy jacks a car past cops",
    "start": 142.5
   },
   {
@@ -92,7 +92,7 @@
    "vph": 8.8,
    "duration": 34.4,
    "created_at": "2026-11-21T12:57:34Z",
-   "label": "Speed jumps off a bridge, loses car",
+   "label": "Speed bridge-jumps, loses his car",
    "start": 202.6
   }
  ],
@@ -116,7 +116,7 @@
     0.185
    ],
    "mark": "arrow",
-   "text": "NO WAY",
+   "text": "HE DID WHAT",
    "from_clip": "PolishedSleepyWalrusPhilosoraptor-7GAaqQgv9mgg9bU7"
   },
   {
@@ -127,7 +127,7 @@
     0.359
    ],
    "mark": "circle",
-   "text": "HE DID WHAT",
+   "text": "NO WAY",
    "from_clip": "SneakyTemperedPuppyKappaPride-VAczlECGIZKJ3iU2"
   }
  ],
@@ -141,5 +141,5 @@
  ],
  "default_title": "GTA 6 Best Clips of the Day #7",
  "release": "ep-2026-11-22",
- "built_at": "2026-11-22T15:08:11Z"
+ "built_at": "2026-11-22T15:31:16Z"
 }

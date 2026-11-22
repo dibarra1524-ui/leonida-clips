@@ -1,0 +1,47 @@
+{
+ "id": "CoySmallRabbitJonCarnage-z_EBFmSRzM4EW7uV",
+ "streamer": "KaiCenat",
+ "login": "kaicenat",
+ "title": "Kai Cenat Shoots a Basketball For The First Time in GTA 6 \ud83d\ude2e\u200d\ud83d\udca8\ud83e\udd73",
+ "views": 318,
+ "created_at": "2026-11-22T01:45:40Z",
+ "duration": 13,
+ "clip_url": "https://www.twitch.tv/kaicenat/clip/CoySmallRabbitJonCarnage-z_EBFmSRzM4EW7uV",
+ "platform": "twitch",
+ "credit": "twitch.tv/kaicenat",
+ "layout": "cam",
+ "transcript": "BITCH!",
+ "score": 8.4,
+ "campaign": {
+  "id": "clippedshipped-kai-gta6",
+  "name": "Kai Cenat $10,000 GTA 6 Pool (Clipped & Shipped)",
+  "mention": "Kai Cenat",
+  "hashtag": "#KaiCenat",
+  "rules": "Kai Cenat must be the primary focus in the actual edit; caption or overlay must name Kai Cenat; #KaiCenat required; never negative or hate-farm; no logos; no reposts/collab posts; marathon footage from Nov 18 on",
+  "submit_at": "https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86",
+  "pay": "pool $10K split by views; each clip needs 1K views; needs 750K total views",
+  "cta": "Watch Kai Cenat live: twitch.tv/kaicenat",
+  "ends": "when the marathon ends"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "low",
+  "hook_style": "stakes",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "off"
+ },
+ "kept": 8.71,
+ "action": 0.368,
+ "action_parts": {
+  "audio": 0.18,
+  "motion": 1.0,
+  "talk": 0.14,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-22T23:36:45Z",
+ "hot": false
+}

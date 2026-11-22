@@ -1156,6 +1156,31 @@
    },
    "hook": "Bobby VanRiper hits one tree...",
    "duration": 20.0
+  },
+  {
+   "id": "CrackyUnusualLeopardUnSane-nBaMDEzF6c5Ik3Pi",
+   "media_id": "18154538845509179",
+   "posted_at": "2026-11-22T17:46:03Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "low",
+    "hook_style": "stakes",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "runon"
+   },
+   "traits": {
+    "streamer": "diegoloveless",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:npc": 1,
+    "hour": "09"
+   },
+   "hook": "DiegoLoveless pulls over for this...",
+   "duration": 30.0
   }
  ]
 }

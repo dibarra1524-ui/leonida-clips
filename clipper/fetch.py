@@ -26,11 +26,29 @@ BAD_TITLE = re.compile(r'spoil|ending|final mission|last mission|credits|finale|
 
 
 def load(p, default):
-    return json.load(open(p)) if os.path.exists(p) else default
+    if not os.path.exists(p):
+        return default
+    try:
+        return json.load(open(p))
+    except ValueError:
+        print('unreadable json, ignoring:', p)
+        return default
+
+
+def _plain(o):
+    # numpy numbers and other non-JSON types (e.g. float32 action scores) become plain Python values
+    if hasattr(o, 'item'):
+        return o.item()
+    if isinstance(o, (set, tuple)):
+        return list(o)
+    return str(o)
 
 
 def save(p, obj):
-    json.dump(obj, open(p, 'w'), indent=1)
+    txt = json.dumps(obj, indent=1, default=_plain)    # serialize first, so a bad value can never half-write the file
+    tmp = p + '.tmp'
+    open(tmp, 'w').write(txt)
+    os.replace(tmp, p)
 
 
 class Twitch:
@@ -299,8 +317,8 @@ def prune(posted):
     age = lambda s: (now - dt.datetime.fromisoformat(s.replace('Z', '+00:00'))).total_seconds() / 3600
     for f in os.listdir('queue'):
         if f.endswith('.json'):
-            meta = load(os.path.join('queue', f), {})
-            if age(meta.get('queued_at', '2000-01-01T00:00:00Z')) > 30:
+            meta = load(os.path.join('queue', f), None)
+            if meta is None or age(meta.get('queued_at', '2000-01-01T00:00:00Z')) > 30:
                 for ext in ('.json', '.mp4'):
                     q = os.path.join('queue', f[:-5] + ext)
                     if os.path.exists(q):

@@ -1,0 +1,45 @@
+{
+ "id": "AverageTriangularMageCmonBruh-5JNkRLiMgAqR2EZP",
+ "streamer": "Silky",
+ "login": "silky",
+ "title": "\ud83c\udf34PLAYING GTA 6 IN MIAMI\ud83c\udf34GIVING AWAY CODES\ud83c\udf34NO ADS\ud83c\udf34SHORT STREAM\ud83c\udf34NEW VLOG\ud83c\udf34LONG STREAM TMR\ud83c\udf34BEST POV\ud83c\udf34 !core !patreon",
+ "views": 287,
+ "created_at": "2026-11-22T03:25:54Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/silky/clip/AverageTriangularMageCmonBruh-5JNkRLiMgAqR2EZP",
+ "platform": "twitch",
+ "credit": "twitch.tv/silky",
+ "layout": "cam",
+ "transcript": "Oh wait, I see I want you to know Well, wait, let me open the door for you. Let me open the door for you, baby. Oh wait, I see I Got your clothes. Oh Okay, I already gave it a close You know, I'm open the door for you real nigga after you of course of course, baby",
+ "score": 10.6,
+ "campaign": {
+  "id": "37f68297-664c-4820-a020-9bbb4a703bf9",
+  "name": "$7,500 Silky Pool Campaign (Reach)",
+  "mention": "Silky",
+  "hashtag": "#silky",
+  "rules": "Silky must be the main focus playing GTA 6; caption must include #silky; never negative about Silky; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9",
+  "pay": "pool $7.5K split by views, needs 250K total views, 500 views per clip",
+  "cta": "Watch Silky live: twitch.tv/silky",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "none",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "streamer",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "runon"
+ },
+ "kept": 31.22,
+ "action": 0.864,
+ "action_parts": {
+  "audio": 1.0,
+  "motion": 1.0,
+  "talk": 0.61,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-22T17:50:10Z"
+}

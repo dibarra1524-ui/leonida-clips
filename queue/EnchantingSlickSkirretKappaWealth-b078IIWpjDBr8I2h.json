@@ -1,0 +1,53 @@
+{
+ "id": "EnchantingSlickSkirretKappaWealth-b078IIWpjDBr8I2h",
+ "streamer": "Lacy",
+ "login": "lacy",
+ "title": "a",
+ "views": 1632,
+ "created_at": "2026-11-21T21:53:15Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/lacy/clip/EnchantingSlickSkirretKappaWealth-b078IIWpjDBr8I2h",
+ "platform": "twitch",
+ "credit": "twitch.tv/lacy",
+ "layout": "full",
+ "transcript": "pepper spray in the game and it just brought back all the trauma from the other night when I got pepper spray. It's just like really traumatic for me and it just gave me like PTSD kind of gave me an anxiety test.",
+ "score": 49.7,
+ "campaign": {
+  "id": "reach-lacy-gta",
+  "name": "$12,500 LACY GTA VI Marathon Pool (Reach)",
+  "mention": "LACY",
+  "hashtag": "#LACY",
+  "rules": "Lacy must be the main focus; caption/overlay must say LACY; caption must have #LACY; no logos; never negative about Lacy; English audience; submit link within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a?group=1",
+  "min_total_views": 750000,
+  "ends": "when the marathon ends",
+  "cta": "Watch LACY live: twitch.tv/lacy",
+  "pay": "pool $12.5K split by views, needs 750K total views",
+  "alt": {
+   "id": "reach-lacy-30day",
+   "name": "$25,000 Lacy 30 Day Campaign (Reach, TikTok/IG/YT)",
+   "submit_at": "https://contentrewards.com/c/campaigns/dc7183a8-7779-4b54-99a8-b7ac8c8452ec",
+   "pay": "pool $25K split by views, needs 1M total views, 500 views per clip, ends Dec 21",
+   "rules": "mention Lacy in caption/overlay, #Lacy hashtag, Lacy must be the primary focus"
+  }
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "smart",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "stakes",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "hard"
+ },
+ "kept": 15.5,
+ "action": 0.283,
+ "action_parts": {
+  "audio": 0.27,
+  "motion": 0.18,
+  "talk": 0.37,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-22T17:50:10Z"
+}

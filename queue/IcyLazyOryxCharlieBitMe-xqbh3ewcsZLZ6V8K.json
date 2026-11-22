@@ -1,0 +1,45 @@
+{
+ "id": "IcyLazyOryxCharlieBitMe-xqbh3ewcsZLZ6V8K",
+ "streamer": "AsianJeff",
+ "login": "asianjeff",
+ "title": "Throws her in the ocean",
+ "views": 85,
+ "created_at": "2026-11-21T19:32:45Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/asianjeff/clip/IcyLazyOryxCharlieBitMe-xqbh3ewcsZLZ6V8K",
+ "platform": "twitch",
+ "credit": "twitch.tv/asianjeff",
+ "layout": "cam",
+ "transcript": "Bro, bro. I keep pressing wrong button, bro. Holy yeah, brother shit. I gotta go father. Oh My god",
+ "score": 1.8,
+ "campaign": {
+  "id": "bbd3a963-9a23-457c-bc15-6697971d9902",
+  "name": "$2,500 AsianJeff Clipping Campaign (Reach) $1/1K",
+  "mention": "AsianJeff",
+  "hashtag": "#AsianJeff",
+  "rules": "Only AsianJeff's GTA 6 playthrough from Nov 19 on; AsianJeff must be the main focus; caption must include #AsianJeff; never negative, no hate farming or rage-bait; no logos; English audience (50%+ US/CA/UK/AU/NZ); payout only after 10K views per clip; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/bbd3a963-9a23-457c-bc15-6697971d9902",
+  "pay": "cpm $1.00/1K (TikTok/IG/YT/X), min $10, max $300/clip, 10K-view minimum per clip",
+  "cta": "Follow AsianJeff live: twitch.tv/asianjeff",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "smart",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "stakes",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "hard"
+ },
+ "kept": 27.46,
+ "action": 0.892,
+ "action_parts": {
+  "audio": 1.0,
+  "motion": 1.0,
+  "talk": 0.69,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-22T17:50:10Z"
+}

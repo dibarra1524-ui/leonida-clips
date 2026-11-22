@@ -1,0 +1,45 @@
+{
+ "id": "StylishFairChowderDoritosChip-SQ1GCE6-ymT6ih7l",
+ "streamer": "KaiCenat",
+ "login": "kaicenat",
+ "title": "type shit",
+ "views": 1787,
+ "created_at": "2026-11-22T01:10:14Z",
+ "duration": 39.8,
+ "clip_url": "https://www.twitch.tv/kaicenat/clip/StylishFairChowderDoritosChip-SQ1GCE6-ymT6ih7l",
+ "platform": "twitch",
+ "credit": "twitch.tv/kaicenat",
+ "layout": "cam",
+ "transcript": "Oh But it's not really that bad with the rules guys! I think if he wants to go in the end then I think he's going to go in the end here.",
+ "score": 60.5,
+ "campaign": {
+  "id": "clippedshipped-kai-gta6",
+  "name": "Kai Cenat $10,000 GTA 6 Pool (Clipped & Shipped)",
+  "mention": "Kai Cenat",
+  "hashtag": "#KaiCenat",
+  "rules": "Kai Cenat must be the primary focus in the actual edit; caption or overlay must name Kai Cenat; #KaiCenat required; never negative or hate-farm; no logos; no reposts/collab posts; marathon footage from Nov 18 on",
+  "submit_at": "https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86",
+  "pay": "pool $10K split by views; each clip needs 1K views; needs 750K total views",
+  "cta": "Watch Kai Cenat live: twitch.tv/kaicenat",
+  "ends": "when the marathon ends"
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "low",
+  "hook_style": "streamer",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon"
+ },
+ "kept": 39.89,
+ "action": 0.317,
+ "action_parts": {
+  "audio": 0.08,
+  "motion": 0.82,
+  "talk": 0.23,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-22T17:50:10Z"
+}

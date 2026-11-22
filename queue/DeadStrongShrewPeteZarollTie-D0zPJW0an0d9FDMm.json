@@ -1,0 +1,45 @@
+{
+ "id": "DeadStrongShrewPeteZarollTie-D0zPJW0an0d9FDMm",
+ "streamer": "KaiCenat",
+ "login": "kaicenat",
+ "title": "npc in GTA6 is crazy \ud83d\udc80",
+ "views": 260,
+ "created_at": "2026-11-21T21:49:48Z",
+ "duration": 42.7,
+ "clip_url": "https://www.twitch.tv/kaicenat/clip/DeadStrongShrewPeteZarollTie-D0zPJW0an0d9FDMm",
+ "platform": "twitch",
+ "credit": "twitch.tv/kaicenat",
+ "layout": "cam",
+ "transcript": "Go check it out dip in their tadpods in pure liquid tea Ridiculous game Ridiculous like an army of dick tear and female right there play inside not even hot Can I sell something How was these words brother make $20",
+ "score": 13.3,
+ "campaign": {
+  "id": "clippedshipped-kai-gta6",
+  "name": "Kai Cenat $10,000 GTA 6 Pool (Clipped & Shipped)",
+  "mention": "Kai Cenat",
+  "hashtag": "#KaiCenat",
+  "rules": "Kai Cenat must be the primary focus in the actual edit; caption or overlay must name Kai Cenat; #KaiCenat required; never negative or hate-farm; no logos; no reposts/collab posts; marathon footage from Nov 18 on",
+  "submit_at": "https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86",
+  "pay": "pool $10K split by views; each clip needs 1K views; needs 750K total views",
+  "cta": "Watch Kai Cenat live: twitch.tv/kaicenat",
+  "ends": "when the marathon ends"
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "stakes",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "hard"
+ },
+ "kept": 25.75,
+ "action": 0.51,
+ "action_parts": {
+  "audio": 0.21,
+  "motion": 1.0,
+  "talk": 0.21,
+  "bonus": 0.1
+ },
+ "queued_at": "2026-11-22T17:50:10Z"
+}

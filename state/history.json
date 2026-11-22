@@ -1082,6 +1082,30 @@
    },
    "hook": "Can Boeshi stay on the road?",
    "duration": 22.02
+  },
+  {
+   "id": "SpinelessLongRhinocerosDansGame-qDsc_4GiLekszxVB",
+   "media_id": "18140813719734726",
+   "posted_at": "2026-11-22T02:46:20Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "none",
+    "cap_size": 72,
+    "cap_pos": "low",
+    "hook_style": "streamer",
+    "hook_case": "upper",
+    "opener": "normal",
+    "ending": "runon"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "hour": "18"
+   },
+   "hook": "YourRAGE rips an ATV through corn",
+   "duration": 20.0
   }
  ]
 }

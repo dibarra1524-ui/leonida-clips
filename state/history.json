@@ -1056,6 +1056,32 @@
     "age_h": 7.9
    },
    "score": 2.411
+  },
+  {
+   "id": "NurturingHorribleClipsdadAMPEnergyCherry-KzHLc3cksOj504Du",
+   "media_id": "18349617025284546",
+   "posted_at": "2026-11-22T02:44:23Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "none",
+    "cap_size": 96,
+    "cap_pos": "low",
+    "hook_style": "question",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "runon"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "topic:funny": 1,
+    "hour": "18"
+   },
+   "hook": "Can Boeshi stay on the road?",
+   "duration": 22.02
   }
  ]
 }

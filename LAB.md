@@ -16,3 +16,5 @@ Run once a week by a scheduled Claude task. Goal: ship ONE new option the learne
 ## Changelog
 - 2026-11-18: learning loop v1 - edit genes (max_len, trim, cap_size, cap_pos, hook_style, hook_case), clip ranking by
   streamer / topic / length / hour, trend radar (game-wide Twitch clips + live streams + YouTube Shorts titles), auto-adds breakout English streamers (CLIP_LANGS).
+- 2026-11-22: gene `punch` (off/on): 1.15x punch-in on the gameplay panel for 0.6 s at the loudest moment (render.punch_at / punch_chain).
+  Facecam panel, captions, credit and hook are not zoomed. Tested on synthetic testsrc2 + sine burst and a real Silky cam clip.

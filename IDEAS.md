@@ -4,7 +4,7 @@ The weekly lab run builds the top unchecked idea, tests it, and adds it to `lear
 learner can measure it against what is already there. Add new ideas at the bottom any time. Check one off when it ships.
 
 ## Editing
-- [ ] Punch-in zoom (1.15x for 0.6 s) on the loudest moment of the clip
+- [x] Punch-in zoom (1.15x for 0.6 s) on the loudest moment of the clip (2026-11-22: gene `punch` on/off; gameplay panel only, skipped when no peak stands 6 dB over the median)
 - [ ] Freeze-frame + "WAIT FOR IT" on the beat right before the payoff, then unfreeze
 - [ ] Progress bar along the bottom (keeps people watching to the end)
 - [ ] Caption style variants: yellow pop word vs white-on-black box vs green highlight

@@ -248,6 +248,28 @@ def cold_open(src, dur):
     return out, probe(out)[2]
 
 
+def punch_at(src, dur):
+    """Start time (s) of a 0.6 s punch-in on the loudest moment, or None (no audio / too short / flat audio)."""
+    lv = loudness(src)
+    if not lv or dur < 3:
+        return None
+    import numpy as np
+    a = np.array(lv)
+    i = int(np.argmax(a))
+    if a[i] - np.median(a) < 6:        # nothing stands out: a zoom on a random spot looks like a glitch
+        return None
+    t = max(0.0, i * 0.25 - 0.1)      # land the zoom on the hit, not after it
+    return round(min(t, max(dur - 0.6, 0)), 2)
+
+
+def punch_chain(label, out, w, h, t, z=1.15, d=0.6):
+    """Filter text: scale [label] to w x h as [out], zoomed z-x (centre) between t and t+d."""
+    zw, zh = int(w * z) // 2 * 2, int(h * z) // 2 * 2
+    return ('[%s]scale=%d:%d,split=2[%s_n][%s_z];[%s_z]scale=%d:%d,crop=%d:%d[%s_zc];'
+            "[%s_n][%s_zc]overlay=0:0:enable='between(t,%.2f,%.2f)'[%s];") % (
+        label, w, h, out, out, out, zw, zh, w, h, out, out, out, t, t + d, out)
+
+
 def render(src, dst, cam=None, layout='auto', credit='', genes=None):
     """Returns (cam box used or None, transcript, layout, seconds kept)."""
     genes = genes or {}
@@ -282,17 +304,20 @@ def render(src, dst, cam=None, layout='auto', credit='', genes=None):
     low = genes.get('cap_pos', 'low') == 'low'
     cap_y = (1480 if low else TOP_H + 140) if layout == 'cam' else (1500 if low else 1180)
     captions_ass(words, cap_y, ass, int(genes.get('cap_size', 84)))
+    pt = punch_at(src, dur) if genes.get('punch') == 'on' else None
     base = '[0:v]scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,setsar=1,split=2[a][b];'
     if layout == 'cam':
         x, y, bw, bh = cam
         cx, cy, cw, ch = int(x * 1920), int(y * 1080), int(bw * 1920), int(bh * 1080)
         gw = int(1080 * 1080 / 1280) // 2 * 2
         f = (base + '[a]crop=%d:%d:%d:%d,scale=%d:%d[top];' % (cw, ch, cx, cy, W, TOP_H) +
-             '[b]crop=%d:1080:%d:0,scale=%d:%d[bot];' % (gw, (1920 - gw) // 2, W, H - TOP_H) +
+             ('[b]crop=%d:1080:%d:0,scale=%d:%d[bot];' % (gw, (1920 - gw) // 2, W, H - TOP_H) if pt is None else
+              '[b]crop=%d:1080:%d:0[gp];' % (gw, (1920 - gw) // 2) + punch_chain('gp', 'bot', W, H - TOP_H, pt)) +
              '[top][bot]vstack,drawbox=y=%d:w=iw:h=6:color=black@1:t=fill' % (TOP_H - 3))
     else:
         f = (base + '[a]crop=608:1080:656:0,scale=%d:%d,boxblur=24:2,eq=brightness=-0.12[bg];' % (W, H) +
-             '[b]crop=1500:1080:210:0,scale=%d:%d[fg];' % (W, int(W * 1080 / 1500) // 2 * 2) +
+             ('[b]crop=1500:1080:210:0,scale=%d:%d[fg];' % (W, int(W * 1080 / 1500) // 2 * 2) if pt is None else
+              '[b]crop=1500:1080:210:0[gp];' + punch_chain('gp', 'fg', W, int(W * 1080 / 1500) // 2 * 2, pt)) +
              '[bg][fg]overlay=0:(H-h)/2')
     if credit:
         f += ",drawtext=font='%s':text='%s':fontsize=34:fontcolor=white@0.85:borderw=3:bordercolor=black@0.8:x=36:y=%d" % (

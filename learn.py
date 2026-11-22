@@ -31,6 +31,7 @@ GENES = {
     'hook_case':  ['upper', 'title'],
     'opener':     ['normal', 'cold'],            # cold = flash the payoff (~1.2 s) first, then play from the start
     'ending':     ['runon', 'hard'],             # hard = cut 0.5 s after the last big moment, no tail
+    'punch':      ['off', 'on'],                 # on = 1.15x punch-in zoom on the gameplay for 0.6 s at the loudest moment
 }
 HOOK_STYLES = {
     'streamer': 'lead with the streamer name and what they did ("XQC STEALS HIS FIRST CAR")',

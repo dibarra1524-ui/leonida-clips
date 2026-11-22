@@ -101,34 +101,34 @@
    "file": "episode/2026-11-22/thumb_A.jpg",
    "base": "episode/2026-11-22/base_A.jpg",
    "spot": [
-    0.371,
-    0.674
+    0.56,
+    0.78
    ],
    "mark": "arrow",
-   "text": "BEST CLIPS",
-   "from_clip": "BlueDullDurianBabyRage-qOxcEtkPlQqz9HcB"
+   "text": "FULL SEND",
+   "from_clip": "LaconicShyGooseCoolCat-ziTm4jE9C_fh0aru"
   },
   {
    "file": "episode/2026-11-22/thumb_B.jpg",
    "base": "episode/2026-11-22/base_B.jpg",
    "spot": [
-    0.229,
-    0.185
+    0.3,
+    0.66
    ],
    "mark": "arrow",
-   "text": "HE DID WHAT",
-   "from_clip": "PolishedSleepyWalrusPhilosoraptor-7GAaqQgv9mgg9bU7"
+   "text": "INSTANT KARMA",
+   "from_clip": "JollyGeniusReubenWow-3gf8Y4c5ZRt-8Xm3"
   },
   {
    "file": "episode/2026-11-22/thumb_C.jpg",
    "base": "episode/2026-11-22/base_C.jpg",
    "spot": [
-    0.769,
-    0.359
+    0.5,
+    0.45
    ],
-   "mark": "circle",
-   "text": "NO WAY",
-   "from_clip": "SneakyTemperedPuppyKappaPride-VAczlECGIZKJ3iU2"
+   "mark": "arrow",
+   "text": "SO CLOSE",
+   "from_clip": "PolishedSleepyWalrusPhilosoraptor-7GAaqQgv9mgg9bU7"
   }
  ],
  "screened_out": [

@@ -25,7 +25,7 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 |---|---|---|
 | 84 | 9.6 | +0.00 |
 | 96 | 8.1 | -0.00 |
-| 72 | 7.1 | -0.02 |
+| 72 | 7.1 | -0.01 |
 
 ## gene:ending
 

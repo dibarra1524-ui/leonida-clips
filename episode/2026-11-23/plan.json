@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
  "episode": 9,
- "length_s": 219,
+ "length_s": 72,
  "target_s": 900,
  "clips": [
   {
@@ -18,45 +18,6 @@
    "start": 0.0
   },
   {
-   "id": "ResilientDrabGrasshopperWow-fKAbKH4GGUaEC2dl",
-   "url": "https://www.twitch.tv/xqc/clip/ResilientDrabGrasshopperWow-fKAbKH4GGUaEC2dl",
-   "title": "xQc on GTA 6 locking players into a relationship",
-   "streamer": "xQc",
-   "login": "xqc",
-   "views": 10042,
-   "vph": 584.1,
-   "duration": 30,
-   "created_at": "2026-11-23T06:08:15Z",
-   "label": "xQc reacts to GTA 6 relationships",
-   "start": 30.1
-  },
-  {
-   "id": "SmoggyCleverMosquitoTBTacoRight-RVBfPSPbe5p5k44q",
-   "url": "https://www.twitch.tv/caseoh_/clip/SmoggyCleverMosquitoTBTacoRight-RVBfPSPbe5p5k44q",
-   "title": "get away",
-   "streamer": "caseoh_",
-   "login": "caseoh_",
-   "views": 313,
-   "vph": 88.4,
-   "duration": 60,
-   "created_at": "2026-11-23T13:58:21Z",
-   "label": "CaseOh wrecks his getaway car",
-   "start": 60.2
-  },
-  {
-   "id": "CalmFrozenCrocodilePeanutButterJellyTime-OwUM1VvaCFBCpYSS",
-   "url": "https://www.twitch.tv/xqc/clip/CalmFrozenCrocodilePeanutButterJellyTime-OwUM1VvaCFBCpYSS",
-   "title": "xQc thinks GTA 6's world won't be matched for decades",
-   "streamer": "xQc",
-   "login": "xqc",
-   "views": 1216,
-   "vph": 74.1,
-   "duration": 56.4,
-   "created_at": "2026-11-23T06:32:32Z",
-   "label": "xQc says nothing will match this",
-   "start": 120.3
-  },
-  {
    "id": "PlayfulCarefulYakinikuDatSheffy-Ln938E4cDYzmA3Hq",
    "url": "https://www.twitch.tv/ishowspeed/clip/PlayfulCarefulYakinikuDatSheffy-Ln938E4cDYzmA3Hq",
    "title": "speed finds ufo in gta",
@@ -67,7 +28,7 @@
    "duration": 30,
    "created_at": "2026-11-22T16:36:15Z",
    "label": "Speed chases a UFO light",
-   "start": 176.8
+   "start": 30.1
   },
   {
    "id": "FunnyPluckyCourgetteTooSpicy-O-4gy4dm0tQFACPm",
@@ -79,8 +40,8 @@
    "vph": 9.8,
    "duration": 11.9,
    "created_at": "2026-11-22T18:51:51Z",
-   "label": "Ohne wrecks his purple supercar",
-   "start": 206.9
+   "label": "ohnePixel wrecks his purple supercar",
+   "start": 60.2
   }
  ],
  "thumbnails": [
@@ -88,34 +49,34 @@
    "file": "episode/2026-11-23/thumb_A.jpg",
    "base": "episode/2026-11-23/base_A.jpg",
    "spot": [
-    0.5,
-    0.3
+    0.769,
+    0.193
    ],
-   "mark": "none",
-   "text": "ALIEN?!",
-   "from_clip": "ResilientDrabGrasshopperWow-fKAbKH4GGUaEC2dl"
+   "mark": "arrow",
+   "text": "NO WAY",
+   "from_clip": "DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU"
   },
   {
    "file": "episode/2026-11-23/thumb_B.jpg",
    "base": "episode/2026-11-23/base_B.jpg",
    "spot": [
-    0.5,
-    0.3
+    0.481,
+    0.311
    ],
-   "mark": "none",
-   "text": "WRECKED",
-   "from_clip": "SmoggyCleverMosquitoTBTacoRight-RVBfPSPbe5p5k44q"
+   "mark": "arrow",
+   "text": "#1",
+   "from_clip": "PlayfulCarefulYakinikuDatSheffy-Ln938E4cDYzmA3Hq"
   },
   {
    "file": "episode/2026-11-23/thumb_C.jpg",
    "base": "episode/2026-11-23/base_C.jpg",
    "spot": [
-    0.5,
-    0.8
+    0.715,
+    0.389
    ],
-   "mark": "none",
-   "text": "NO WAY",
-   "from_clip": "DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU"
+   "mark": "circle",
+   "text": "COPS?!",
+   "from_clip": "FunnyPluckyCourgetteTooSpicy-O-4gy4dm0tQFACPm"
   }
  ],
  "screened_out": [
@@ -128,5 +89,5 @@
  ],
  "default_title": "GTA 6 Best Clips of the Day #9",
  "release": "ep-2026-11-23",
- "built_at": "2026-11-23T15:08:29Z"
+ "built_at": "2026-11-23T15:20:20Z"
 }

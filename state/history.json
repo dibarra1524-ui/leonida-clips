@@ -1594,6 +1594,32 @@
    },
    "hook": "Kai Cenat sends a car flying",
    "duration": 13.25
+  },
+  {
+   "id": "CallousHeadstrongSangFreakinStinkin-w63Je-bfK1pz_l_A",
+   "media_id": "18121934503978774",
+   "posted_at": "2026-11-23T23:41:39Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "low",
+    "hook_style": "stakes",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "runon",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "diegoloveless",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "hour": "15"
+   },
+   "hook": "Will DiegoLoveless's car flip back?",
+   "duration": 30.02
   }
  ]
 }

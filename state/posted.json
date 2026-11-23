@@ -822,5 +822,26 @@
   },
   "clip_url": "https://www.twitch.tv/diegoloveless/clip/ArtisticKindWerewolfPJSalt-l8WOZIQTpW5_5uQx",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/ArtisticKindWerewolfPJSalt-l8WOZIQTpW5_5uQx.mp4"
+ },
+ {
+  "id": "ProtectiveAmorphousNostrilPastaThat-KnvXByEFkNyaZmTv",
+  "media_id": "18132904795827598",
+  "posted_at": "2026-11-23T18:45:29Z",
+  "streamer": "bobby_vanriper",
+  "hook": "Wait for Bobby VanRiper's dog",
+  "caption": "#ad Bobby VanRiper finally gets a pet dog in GTA 6 and the game has other plans\n\nFollow Bobby VanRiper live: twitch.tv/bobby_vanriper\n\n#gta6 #gtavi #gta6clips #twitchclips #BobbyVanRiper",
+  "campaign": {
+   "id": "clippingnation-bobby-gta6",
+   "name": "BOBBY VAN RIPER GTA VI Clipping (Clipping Nation) $1.50/1K",
+   "mention": "Bobby VanRiper",
+   "hashtag": "#BobbyVanRiper",
+   "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+   "submit_at": "https://contentrewards.com/c/campaigns/f583b069-ced7-49e5-9ed3-2d3a13d6df0c",
+   "pay": "cpm $1.50/1K, max $150/clip; David must join discord.gg/DQyAcKa3nU for payouts",
+   "cta": "Follow Bobby VanRiper live: twitch.tv/bobby_vanriper",
+   "ends": "when budget runs out"
+  },
+  "clip_url": "https://www.twitch.tv/bobby_vanriper/clip/ProtectiveAmorphousNostrilPastaThat-KnvXByEFkNyaZmTv",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/ProtectiveAmorphousNostrilPastaThat-KnvXByEFkNyaZmTv.mp4"
  }
 ]

@@ -1306,6 +1306,31 @@
    },
    "hook": "Can Boeshi make this jump?",
    "duration": 15.62
+  },
+  {
+   "id": "CaringDrabCakeFeelsBadMan-af_DrCyILp5TXivL",
+   "media_id": "18655095967026973",
+   "posted_at": "2026-11-23T02:45:53Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "runon"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "hour": "18"
+   },
+   "hook": "Boeshi found this way too funny",
+   "duration": 21.22
   }
  ]
 }

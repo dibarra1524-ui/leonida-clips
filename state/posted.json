@@ -709,5 +709,26 @@
   },
   "clip_url": "https://www.twitch.tv/darealboeshi/clip/SteamyIncredulousMelonSeemsGood-foVI8BOEEtp4SkeE",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/SteamyIncredulousMelonSeemsGood-foVI8BOEEtp4SkeE.mp4"
+ },
+ {
+  "id": "CaringDrabCakeFeelsBadMan-af_DrCyILp5TXivL",
+  "media_id": "18655095967026973",
+  "posted_at": "2026-11-23T02:45:53Z",
+  "streamer": "darealboeshi",
+  "hook": "Boeshi found this way too funny",
+  "caption": "#ad Boeshi heading for the seaplane on a 3AM GTA 6 stream\n\nFollow Boeshi live: twitch.tv/darealboeshi\n\n#gta6 #gtavi #vicecity #twitchclips #Boeshi",
+  "campaign": {
+   "id": "cliplaunch-boeshi-gta6",
+   "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+   "mention": "Boeshi",
+   "hashtag": "#Boeshi",
+   "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+   "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+   "pay": "cpm $1.00/1K, max $300/clip",
+   "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+   "ends": "when budget runs out"
+  },
+  "clip_url": "https://www.twitch.tv/darealboeshi/clip/CaringDrabCakeFeelsBadMan-af_DrCyILp5TXivL",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/CaringDrabCakeFeelsBadMan-af_DrCyILp5TXivL.mp4"
  }
 ]

@@ -772,5 +772,34 @@
   },
   "clip_url": "https://www.twitch.tv/silky/clip/PerfectFunnyCobraPMSTwin-hvo_3JA2O-5RRtJa",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/PerfectFunnyCobraPMSTwin-hvo_3JA2O-5RRtJa.mp4"
+ },
+ {
+  "id": "TemperedSpeedyZebraCoolStoryBob-2wfplZhX8UaZD2da",
+  "media_id": "18159027199520816",
+  "posted_at": "2026-11-23T17:47:45Z",
+  "streamer": "lacy",
+  "hook": "LACY shoots the wrong person",
+  "caption": "#ad LACY gets a little too trigger happy in a GTA 6 shootout\n\nWatch LACY live: twitch.tv/lacy\n\n#gta6 #gtavi #gta6clips #twitchclips #LACY",
+  "campaign": {
+   "id": "reach-lacy-gta",
+   "name": "$12,500 LACY GTA VI Marathon Pool (Reach)",
+   "mention": "LACY",
+   "hashtag": "#LACY",
+   "rules": "Lacy must be the main focus; caption/overlay must say LACY; caption must have #LACY; no logos; never negative about Lacy; English audience; submit link within 30 min of posting",
+   "submit_at": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a?group=1",
+   "min_total_views": 750000,
+   "ends": "when the marathon ends",
+   "cta": "Watch LACY live: twitch.tv/lacy",
+   "pay": "pool $12.5K split by views, needs 750K total views",
+   "alt": {
+    "id": "reach-lacy-30day",
+    "name": "$25,000 Lacy 30 Day Campaign (Reach, TikTok/IG/YT)",
+    "submit_at": "https://contentrewards.com/c/campaigns/dc7183a8-7779-4b54-99a8-b7ac8c8452ec",
+    "pay": "pool $25K split by views, needs 1M total views, 500 views per clip, ends Dec 21",
+    "rules": "mention Lacy in caption/overlay, #Lacy hashtag, Lacy must be the primary focus"
+   }
+  },
+  "clip_url": "https://www.twitch.tv/lacy/clip/TemperedSpeedyZebraCoolStoryBob-2wfplZhX8UaZD2da",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/TemperedSpeedyZebraCoolStoryBob-2wfplZhX8UaZD2da.mp4"
  }
 ]

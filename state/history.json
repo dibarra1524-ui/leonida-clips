@@ -1432,6 +1432,34 @@
     "age_h": 11.7
    },
    "score": 2.117
+  },
+  {
+   "id": "TemperedSpeedyZebraCoolStoryBob-2wfplZhX8UaZD2da",
+   "media_id": "18159027199520816",
+   "posted_at": "2026-11-23T17:47:45Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "low",
+    "hook_style": "streamer",
+    "hook_case": "upper",
+    "opener": "normal",
+    "ending": "runon",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "lacy",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "topic:npc": 1,
+    "topic:weapon": 1,
+    "hour": "09"
+   },
+   "hook": "LACY shoots the wrong person",
+   "duration": 30.0
   }
  ]
 }

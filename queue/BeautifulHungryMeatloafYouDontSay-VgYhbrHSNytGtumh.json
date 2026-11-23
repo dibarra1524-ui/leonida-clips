@@ -1,0 +1,47 @@
+{
+ "id": "BeautifulHungryMeatloafYouDontSay-VgYhbrHSNytGtumh",
+ "streamer": "bobby_vanriper",
+ "login": "bobby_vanriper",
+ "title": "allg",
+ "views": 25,
+ "created_at": "2026-11-22T22:45:19Z",
+ "duration": 29.8,
+ "clip_url": "https://www.twitch.tv/bobby_vanriper/clip/BeautifulHungryMeatloafYouDontSay-VgYhbrHSNytGtumh",
+ "platform": "twitch",
+ "credit": "twitch.tv/bobby_vanriper",
+ "layout": "cam",
+ "transcript": "Come on, see her. They put your legs, Lucita. I got it. We know Lucita is strong, bro. Do you see that ass? Thanks, Ma. Thanks. Oh, that's it. Yeah, wait. See you later, girl. Oh, God. What the fuck? Oh, my God. What the fuck? What the fuck? Oh, thank you, God. Thank you, Jesus.",
+ "score": 0.5,
+ "campaign": {
+  "id": "clippingnation-bobby-gta6",
+  "name": "BOBBY VAN RIPER GTA VI Clipping (Clipping Nation) $1.50/1K",
+  "mention": "Bobby VanRiper",
+  "hashtag": "#BobbyVanRiper",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/f583b069-ced7-49e5-9ed3-2d3a13d6df0c",
+  "pay": "cpm $1.50/1K, max $150/clip; David must join discord.gg/DQyAcKa3nU for payouts",
+  "cta": "Follow Bobby VanRiper live: twitch.tv/bobby_vanriper",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "none",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "question",
+  "hook_case": "title",
+  "opener": "normal",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 29.82,
+ "action": 0.722,
+ "action_parts": {
+  "audio": 0.57,
+  "motion": 0.78,
+  "talk": 0.85,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-23T20:12:42Z",
+ "hot": false
+}

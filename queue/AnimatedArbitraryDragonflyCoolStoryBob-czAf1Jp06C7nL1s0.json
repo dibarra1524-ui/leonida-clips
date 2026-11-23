@@ -1,0 +1,47 @@
+{
+ "id": "AnimatedArbitraryDragonflyCoolStoryBob-czAf1Jp06C7nL1s0",
+ "streamer": "darealboeshi",
+ "login": "darealboeshi",
+ "title": "Boeshi's Actual voice is sooo huggable \ud83d\ude02\ud83d\ude02",
+ "views": 41,
+ "created_at": "2026-11-22T21:39:13Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/darealboeshi/clip/AnimatedArbitraryDragonflyCoolStoryBob-czAf1Jp06C7nL1s0",
+ "platform": "twitch",
+ "credit": "twitch.tv/darealboeshi",
+ "layout": "full",
+ "transcript": "comments about me sounding you sound so huggable Thanks, man Dude, I feel like I do all these written comments about me sounding cute huggable or like lovable like it Maybe if you're like I'm like getting like like I don't know surrounded by a bunch of you guys and you guys are just trying hugging me",
+ "score": 0.9,
+ "campaign": {
+  "id": "cliplaunch-boeshi-gta6",
+  "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+  "mention": "Boeshi",
+  "hashtag": "#Boeshi",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+  "pay": "cpm $1.00/1K, max $300/clip",
+  "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "none",
+  "cap_size": 72,
+  "cap_pos": "low",
+  "hook_style": "stakes",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "on"
+ },
+ "kept": 21.22,
+ "action": 0.366,
+ "action_parts": {
+  "audio": 0.26,
+  "motion": 0.38,
+  "talk": 0.48,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-23T20:12:42Z",
+ "hot": false
+}

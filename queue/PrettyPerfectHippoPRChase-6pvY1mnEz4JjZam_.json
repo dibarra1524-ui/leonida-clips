@@ -1,0 +1,47 @@
+{
+ "id": "PrettyPerfectHippoPRChase-6pvY1mnEz4JjZam_",
+ "streamer": "darealboeshi",
+ "login": "darealboeshi",
+ "title": ".",
+ "views": 34,
+ "created_at": "2026-11-22T17:07:22Z",
+ "duration": 49,
+ "clip_url": "https://www.twitch.tv/darealboeshi/clip/PrettyPerfectHippoPRChase-6pvY1mnEz4JjZam_",
+ "platform": "twitch",
+ "credit": "twitch.tv/darealboeshi",
+ "layout": "cam",
+ "transcript": "Oh, we got a little more freaking furniture. Y 'all love please. Let's go This is GTA six guys We move on Yeah, you know with Lucia and ghosting. It's totally different now that you got Timmy Tommy. Yeah, Tommy. Yeah Why it looks good. Yeah, it does look good, right? Yeah",
+ "score": 0.6,
+ "campaign": {
+  "id": "cliplaunch-boeshi-gta6",
+  "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+  "mention": "Boeshi",
+  "hashtag": "#Boeshi",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+  "pay": "cpm $1.00/1K, max $300/clip",
+  "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 30,
+  "trim": "none",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "normal",
+  "ending": "runon",
+  "punch": "off"
+ },
+ "kept": 30.0,
+ "action": 0.598,
+ "action_parts": {
+  "audio": 0.66,
+  "motion": 0.67,
+  "talk": 0.47,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-23T20:12:42Z",
+ "hot": false
+}

@@ -1,0 +1,47 @@
+{
+ "id": "SpineyProductiveSushiWoofer-3BM5QeBpiIVlTcbW",
+ "streamer": "Silky",
+ "login": "silky",
+ "title": "LMAO",
+ "views": 517,
+ "created_at": "2026-11-23T09:40:48Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/silky/clip/SpineyProductiveSushiWoofer-3BM5QeBpiIVlTcbW",
+ "platform": "twitch",
+ "credit": "twitch.tv/silky",
+ "layout": "cam",
+ "transcript": "Not my child, I think it would look like me This is a personal question. Hold on. Let me call this because I have to actually ban you This is gonna be a personal question, but if you have to choose one you eat an ass or toes toes Shit from there Why do you think baby goods got all that he sees in his eyes right now? He can't even open that shit He'd be hanging around Mottie We received Mottie. We see Mottie average more Than streams no troll bro. It didn't make",
+ "score": 35.5,
+ "campaign": {
+  "id": "37f68297-664c-4820-a020-9bbb4a703bf9",
+  "name": "$7,500 Silky Pool Campaign (Reach)",
+  "mention": "Silky",
+  "hashtag": "#silky",
+  "rules": "Silky must be the main focus playing GTA 6; caption must include #silky; never negative about Silky; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9",
+  "pay": "pool $7.5K split by views, needs 250K total views, 500 views per clip",
+  "cta": "Watch Silky live: twitch.tv/silky",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "smart",
+  "cap_size": 84,
+  "cap_pos": "low",
+  "hook_style": "reaction",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "off"
+ },
+ "kept": 45.0,
+ "action": 0.715,
+ "action_parts": {
+  "audio": 0.64,
+  "motion": 0.7,
+  "talk": 0.52,
+  "bonus": 0.1
+ },
+ "queued_at": "2026-11-23T20:12:42Z",
+ "hot": false
+}

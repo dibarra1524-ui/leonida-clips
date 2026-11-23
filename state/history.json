@@ -1357,6 +1357,33 @@
    },
    "hook": "Watch Kai Cenat's first shot",
    "duration": 8.71
+  },
+  {
+   "id": "PerfectFunnyCobraPMSTwin-hvo_3JA2O-5RRtJa",
+   "media_id": "18515020807105800",
+   "posted_at": "2026-11-23T05:59:59Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "none",
+    "cap_size": 96,
+    "cap_pos": "mid",
+    "hook_style": "stakes",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "hard",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "silky",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "topic:map": 1,
+    "hour": "21"
+   },
+   "hook": "Wait for Silky's beach moment",
+   "duration": 30.03
   }
  ]
 }

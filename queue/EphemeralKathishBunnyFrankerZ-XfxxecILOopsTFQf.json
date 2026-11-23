@@ -1,0 +1,47 @@
+{
+ "id": "EphemeralKathishBunnyFrankerZ-XfxxecILOopsTFQf",
+ "streamer": "darealboeshi",
+ "login": "darealboeshi",
+ "title": "he don't know what to do",
+ "views": 27,
+ "created_at": "2026-11-22T04:48:23Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/darealboeshi/clip/EphemeralKathishBunnyFrankerZ-XfxxecILOopsTFQf",
+ "platform": "twitch",
+ "credit": "twitch.tv/darealboeshi",
+ "layout": "cam",
+ "transcript": "What are you? Everywhere I go. We're still doing the job? Yeah. I don't want to hold on with this one more second. Here we go. Ah, it's the freaking thing. Oh shoot. If I had to drop. Oh shoot. We've got to focus. It's the thing that... Is this the thing that... What's it called? That does my voice text. Oh, wait shoot. Frick. I didn't mean to do that. Damn it. Why do I keep crashing the...",
+ "score": 0.5,
+ "campaign": {
+  "id": "cliplaunch-boeshi-gta6",
+  "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+  "mention": "Boeshi",
+  "hashtag": "#Boeshi",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+  "pay": "cpm $1.00/1K, max $300/clip",
+  "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 30,
+  "trim": "smart",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "question",
+  "hook_case": "upper",
+  "opener": "normal",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 30.0,
+ "action": 0.644,
+ "action_parts": {
+  "audio": 0.41,
+  "motion": 0.75,
+  "talk": 0.83,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-23T05:42:31Z",
+ "hot": false
+}

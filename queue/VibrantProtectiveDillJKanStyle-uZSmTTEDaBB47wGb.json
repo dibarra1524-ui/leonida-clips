@@ -1,0 +1,47 @@
+{
+ "id": "VibrantProtectiveDillJKanStyle-uZSmTTEDaBB47wGb",
+ "streamer": "Silky",
+ "login": "silky",
+ "title": "i'm not crying you are @Silky",
+ "views": 60,
+ "created_at": "2026-11-22T03:25:44Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/silky/clip/VibrantProtectiveDillJKanStyle-uZSmTTEDaBB47wGb",
+ "platform": "twitch",
+ "credit": "twitch.tv/silky",
+ "layout": "cam",
+ "transcript": "I'm Mr. Baby. I couldn't do this without you.",
+ "score": 1.1,
+ "campaign": {
+  "id": "37f68297-664c-4820-a020-9bbb4a703bf9",
+  "name": "$7,500 Silky Pool Campaign (Reach)",
+  "mention": "Silky",
+  "hashtag": "#silky",
+  "rules": "Silky must be the main focus playing GTA 6; caption must include #silky; never negative about Silky; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9",
+  "pay": "pool $7.5K split by views, needs 250K total views, 500 views per clip",
+  "cta": "Watch Silky live: twitch.tv/silky",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "smart",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "normal",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 5.52,
+ "action": 0.659,
+ "action_parts": {
+  "audio": 0.83,
+  "motion": 1.0,
+  "talk": 0.22,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-23T05:42:31Z",
+ "hot": false
+}

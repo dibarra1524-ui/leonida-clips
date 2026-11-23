@@ -1,0 +1,47 @@
+{
+ "id": "MushyPricklyCocoaDBstyle-E4al-W31LpBXkKxX",
+ "streamer": "darealboeshi",
+ "login": "darealboeshi",
+ "title": "focus on heand bro",
+ "views": 41,
+ "created_at": "2026-11-22T04:57:48Z",
+ "duration": 36.2,
+ "clip_url": "https://www.twitch.tv/darealboeshi/clip/MushyPricklyCocoaDBstyle-E4al-W31LpBXkKxX",
+ "platform": "twitch",
+ "credit": "twitch.tv/darealboeshi",
+ "layout": "cam",
+ "transcript": "How do you know I'm an American puppy? Ooh, focus. Oh shoot. Alright, ooh. Oh yeah. Come on, focus, focus.",
+ "score": 1.0,
+ "campaign": {
+  "id": "cliplaunch-boeshi-gta6",
+  "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+  "mention": "Boeshi",
+  "hashtag": "#Boeshi",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+  "pay": "cpm $1.00/1K, max $300/clip",
+  "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "none",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "stakes",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "off"
+ },
+ "kept": 21.22,
+ "action": 0.736,
+ "action_parts": {
+  "audio": 0.86,
+  "motion": 1.0,
+  "talk": 0.13,
+  "bonus": 0.1
+ },
+ "queued_at": "2026-11-23T05:42:31Z",
+ "hot": false
+}

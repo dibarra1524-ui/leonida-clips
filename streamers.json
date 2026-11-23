@@ -164,7 +164,12 @@
   {
    "login": "hasanabi",
    "approved": true,
-   "cam": null
+   "cam": [
+    0.1602,
+    0.1188,
+    0.2249,
+    0.2369
+   ]
   },
   {
    "login": "stableronaldo",

@@ -1,0 +1,47 @@
+{
+ "id": "ArtisticKindWerewolfPJSalt-l8WOZIQTpW5_5uQx",
+ "streamer": "DiegoLoveless",
+ "login": "diegoloveless",
+ "title": "1",
+ "views": 47,
+ "created_at": "2026-11-21T18:59:00Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/diegoloveless/clip/ArtisticKindWerewolfPJSalt-l8WOZIQTpW5_5uQx",
+ "platform": "twitch",
+ "credit": "twitch.tv/diegoloveless",
+ "layout": "cam",
+ "transcript": "Sorry office this bitch made it out of vibranium, dude. What the fuck strongest fuck She Hulk ass bitch. She's a badass for sure That is fun, huh? Hashtag wife that Yo, this fuck it. You don't see me drifting on the red light. Oh shit Sorry officer Fuck I just",
+ "score": 0.6,
+ "campaign": {
+  "id": "cliplaunch-diego-gta6",
+  "name": "DiegoLoveless GTA 6 Clipping (ClipLaunch) $1/1K",
+  "mention": "DiegoLoveless",
+  "hashtag": "#DiegoLoveless",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/5d37d3dd-adf3-401f-9c62-24bb54d5087a",
+  "pay": "cpm $1.00/1K, max $300/clip; clear CTA to his Twitch required",
+  "cta": "Follow DiegoLoveless live: twitch.tv/diegoloveless",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 30,
+  "trim": "smart",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "streamer",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 30.97,
+ "action": 0.794,
+ "action_parts": {
+  "audio": 0.89,
+  "motion": 0.95,
+  "talk": 0.58,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-23T05:42:31Z",
+ "hot": false
+}

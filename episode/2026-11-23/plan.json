@@ -88,33 +88,33 @@
    "file": "episode/2026-11-23/thumb_A.jpg",
    "base": "episode/2026-11-23/base_A.jpg",
    "spot": [
-    0.752,
-    0.219
+    0.5,
+    0.3
    ],
-   "mark": "arrow",
-   "text": "NO WAY",
+   "mark": "none",
+   "text": "ALIEN?!",
    "from_clip": "ResilientDrabGrasshopperWow-fKAbKH4GGUaEC2dl"
   },
   {
    "file": "episode/2026-11-23/thumb_B.jpg",
    "base": "episode/2026-11-23/base_B.jpg",
    "spot": [
-    0.515,
-    0.207
+    0.5,
+    0.3
    ],
-   "mark": "arrow",
-   "text": "FAILS",
+   "mark": "none",
+   "text": "WRECKED",
    "from_clip": "SmoggyCleverMosquitoTBTacoRight-RVBfPSPbe5p5k44q"
   },
   {
    "file": "episode/2026-11-23/thumb_C.jpg",
    "base": "episode/2026-11-23/base_C.jpg",
    "spot": [
-    0.769,
-    0.193
+    0.5,
+    0.8
    ],
-   "mark": "circle",
-   "text": "SENT FLYING",
+   "mark": "none",
+   "text": "NO WAY",
    "from_clip": "DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU"
   }
  ],

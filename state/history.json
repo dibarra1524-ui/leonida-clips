@@ -1515,6 +1515,33 @@
    },
    "hook": "Wait for Bobby VanRiper's dog",
    "duration": 42.25
+  },
+  {
+   "id": "EphemeralKathishBunnyFrankerZ-XfxxecILOopsTFQf",
+   "media_id": "18029999642872329",
+   "posted_at": "2026-11-23T18:47:57Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "question",
+    "hook_case": "upper",
+    "opener": "normal",
+    "ending": "runon",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "topic:weapon": 1,
+    "hour": "09"
+   },
+   "hook": "Can Boeshi land this plane?",
+   "duration": 30.0
   }
  ]
 }

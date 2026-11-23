@@ -1281,6 +1281,31 @@
     "age_h": 2.8
    },
    "score": 2.536
+  },
+  {
+   "id": "SteamyIncredulousMelonSeemsGood-foVI8BOEEtp4SkeE",
+   "media_id": "17981941584131190",
+   "posted_at": "2026-11-23T02:44:05Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "smart",
+    "cap_size": 72,
+    "cap_pos": "mid",
+    "hook_style": "question",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "runon"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "<20",
+    "layout": "cam",
+    "action": "mid",
+    "topic:funny": 1,
+    "hour": "18"
+   },
+   "hook": "Can Boeshi make this jump?",
+   "duration": 15.62
   }
  ]
 }

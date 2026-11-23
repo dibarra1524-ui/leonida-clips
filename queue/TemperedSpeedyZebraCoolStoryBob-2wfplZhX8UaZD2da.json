@@ -1,0 +1,55 @@
+{
+ "id": "TemperedSpeedyZebraCoolStoryBob-2wfplZhX8UaZD2da",
+ "streamer": "Lacy",
+ "login": "lacy",
+ "title": "bro killed his girl",
+ "views": 117,
+ "created_at": "2026-11-22T21:42:02Z",
+ "duration": 37.4,
+ "clip_url": "https://www.twitch.tv/lacy/clip/TemperedSpeedyZebraCoolStoryBob-2wfplZhX8UaZD2da",
+ "platform": "twitch",
+ "credit": "twitch.tv/lacy",
+ "layout": "cam",
+ "transcript": "Nailed it. Shit. What's so many of you? Hey, stop it's war. Stop. What the fuck is that? Lucilla! Lucilla now! I just shot Lucilla! There's a button for him. It's time to get here, those are all going to be explained, sitting on the raft. Yeah, it will be long there. Everyone's going to save us.",
+ "score": 8.2,
+ "campaign": {
+  "id": "reach-lacy-gta",
+  "name": "$12,500 LACY GTA VI Marathon Pool (Reach)",
+  "mention": "LACY",
+  "hashtag": "#LACY",
+  "rules": "Lacy must be the main focus; caption/overlay must say LACY; caption must have #LACY; no logos; never negative about Lacy; English audience; submit link within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a?group=1",
+  "min_total_views": 750000,
+  "ends": "when the marathon ends",
+  "cta": "Watch LACY live: twitch.tv/lacy",
+  "pay": "pool $12.5K split by views, needs 750K total views",
+  "alt": {
+   "id": "reach-lacy-30day",
+   "name": "$25,000 Lacy 30 Day Campaign (Reach, TikTok/IG/YT)",
+   "submit_at": "https://contentrewards.com/c/campaigns/dc7183a8-7779-4b54-99a8-b7ac8c8452ec",
+   "pay": "pool $25K split by views, needs 1M total views, 500 views per clip, ends Dec 21",
+   "rules": "mention Lacy in caption/overlay, #Lacy hashtag, Lacy must be the primary focus"
+  }
+ },
+ "genes": {
+  "max_len": 30,
+  "trim": "none",
+  "cap_size": 84,
+  "cap_pos": "low",
+  "hook_style": "streamer",
+  "hook_case": "upper",
+  "opener": "normal",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 30.0,
+ "action": 0.832,
+ "action_parts": {
+  "audio": 0.7,
+  "motion": 0.61,
+  "talk": 0.85,
+  "bonus": 0.1
+ },
+ "queued_at": "2026-11-23T07:32:45Z",
+ "hot": false
+}

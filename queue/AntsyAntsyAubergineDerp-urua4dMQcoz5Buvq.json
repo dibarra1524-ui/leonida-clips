@@ -1,0 +1,47 @@
+{
+ "id": "AntsyAntsyAubergineDerp-urua4dMQcoz5Buvq",
+ "streamer": "KaiCenat",
+ "login": "kaicenat",
+ "title": "Kai just beat a girl down",
+ "views": 188,
+ "created_at": "2026-11-21T23:34:22Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/kaicenat/clip/AntsyAntsyAubergineDerp-urua4dMQcoz5Buvq",
+ "platform": "twitch",
+ "credit": "twitch.tv/kaicenat",
+ "layout": "cam",
+ "transcript": "I'm not going to mind that I'm a man, bro. Who wants this ass beat by a female? Oh, what? Okay, okay, that's it. I'm not done. I'm not done. If you talk to me one more time. That's true. I'm gonna drop a book of fat in these cheeks. If you talk to me one more time, bro. You like that? That's what I fuck? Ah! Who touched me with a nasty ass bitch? Bitch, bitch, bitch. Fuck you bitch. Fuck you bitch. Fuck you bitch. Fuck you bitch. Fuck you bitch. What? What?",
+ "score": 2.9,
+ "campaign": {
+  "id": "clippedshipped-kai-gta6",
+  "name": "Kai Cenat $10,000 GTA 6 Pool (Clipped & Shipped)",
+  "mention": "Kai Cenat",
+  "hashtag": "#KaiCenat",
+  "rules": "Kai Cenat must be the primary focus in the actual edit; caption or overlay must name Kai Cenat; #KaiCenat required; never negative or hate-farm; no logos; no reposts/collab posts; marathon footage from Nov 18 on",
+  "submit_at": "https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86",
+  "pay": "pool $10K split by views; each clip needs 1K views; needs 750K total views",
+  "cta": "Watch Kai Cenat live: twitch.tv/kaicenat",
+  "ends": "when the marathon ends"
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "none",
+  "cap_size": 84,
+  "cap_pos": "low",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "normal",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 30.02,
+ "action": 0.675,
+ "action_parts": {
+  "audio": 0.19,
+  "motion": 1.0,
+  "talk": 1.0,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-23T07:32:45Z",
+ "hot": false
+}

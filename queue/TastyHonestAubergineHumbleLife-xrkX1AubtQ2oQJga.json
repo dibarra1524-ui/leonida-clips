@@ -1,0 +1,47 @@
+{
+ "id": "TastyHonestAubergineHumbleLife-xrkX1AubtQ2oQJga",
+ "streamer": "yourragegaming",
+ "login": "yourragegaming",
+ "title": "YourRage is not ready for that\ud83d\ude2d\ud83e\udd40",
+ "views": 43,
+ "created_at": "2026-11-22T07:37:34Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/yourragegaming/clip/TastyHonestAubergineHumbleLife-xrkX1AubtQ2oQJga",
+ "platform": "twitch",
+ "credit": "twitch.tv/yourragegaming",
+ "layout": "cam",
+ "transcript": "What the fuck, yo, what the fuck?",
+ "score": 1.0,
+ "campaign": {
+  "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
+  "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
+  "mention": "YourRAGE",
+  "hashtag": "#yourrage",
+  "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
+  "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
+  "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "none",
+  "cap_size": 84,
+  "cap_pos": "low",
+  "hook_style": "question",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 21.21,
+ "action": 0.553,
+ "action_parts": {
+  "audio": 0.67,
+  "motion": 0.17,
+  "talk": 0.4,
+  "bonus": 0.1
+ },
+ "queued_at": "2026-11-23T07:32:45Z",
+ "hot": false
+}

@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 38. Scored (20h+ old): 32. Exploration: 25%.
+Posts: 39. Scored (20h+ old): 32. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -132,14 +132,15 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 ## Trending right now (from the last fetch)
 
-Topics: car 1.00, funny 0.57
+Topics: funny 1.00, car 0.22, map 0.10, npc 0.10, money 0.02, glitch 0.01
 
-Streamers: caseoh_ 1.00, zackrawrr 0.77, xqc 0.60, hasanabi 0.49, kaicenat 0.25, jerma985 0.23, lirik 0.20, ludwig 0.16
+Streamers: caseoh_ 1.00, drupy876 0.65, xqc 0.42, jerma985 0.17, yourragegaming 0.16, ludwig 0.12, supertf 0.09, woolieversus 0.08
 
 Hook ideas from trending Shorts titles:
 
+- 🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!
+- If You Steal a Car in GTA 6, I’ll Pay For It!
 - Grand Theft Auto VI: Out Now
-- Whatever Car You Steal, I’ll Pay For!
 - GTA 6 - Stealing a Jet From the Military Base
 - GTA 6 Review
 - GTA 6 (Grand Theft Auto VI) - Official Trailer
@@ -147,4 +148,3 @@ Hook ideas from trending Shorts titles:
 - GTA 6 MARATHON | Official Trailer
 - GTA 6 PS5 Pro Gameplay - 15 Minutes of The First Mission
 - 100 GTA V Clips You Must See Before GTA 6!
-- GTA memes to watch before GTA 6

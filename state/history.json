@@ -1542,6 +1542,33 @@
    },
    "hook": "Can Boeshi land this plane?",
    "duration": 30.0
+  },
+  {
+   "id": "ImportantPatientTeaNononoCat-Wu0hIqvvKEuvUHnZ",
+   "media_id": "18107716607149994",
+   "posted_at": "2026-11-23T20:41:41Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "none",
+    "cap_size": 72,
+    "cap_pos": "mid",
+    "hook_style": "stakes",
+    "hook_case": "upper",
+    "opener": "cold",
+    "ending": "runon",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "topic:npc": 1,
+    "hour": "12"
+   },
+   "hook": "Wait for YourRAGE's motorcycle ramp",
+   "duration": 21.21
   }
  ]
 }

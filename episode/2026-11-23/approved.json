@@ -1,0 +1,14 @@
+{
+ "verdict": "yes",
+ "title": "IShowSpeed Found an Alien in GTA 6",
+ "thumbnail": "episode/2026-11-23/thumb_A.jpg",
+ "faults_fixed": [
+  "labels over top-left facecams (2 xQc clips, CaseOh clip) -> clips dropped",
+  "label 'Ohne' -> 'ohnePixel'",
+  "thumb A stray PICK UP prompt removed",
+  "one-word thumbnail text -> 'ALIEN FOUND?!'",
+  "thumbs re-cropped to remove facecam/chat/handle fragments",
+  "thumb B 'WRECKED' possibly misleading -> replaced"
+ ],
+ "rounds": 3
+}

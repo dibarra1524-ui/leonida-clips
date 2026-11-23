@@ -1,5 +1,8 @@
 # Status
 
+## Week of 2026-11-23 (research)
+The Monday 7:23 outlier scan had not run by 07:45 (latest data is the 2026-11-19 scan). That scan: 71 outliers across 20 channels (6 new, 41 dropped off); median winning compilation 17:23. New this week: all 6 from Sirloin (GTA 6 first-look/scene/walkthrough uploads, top 67.7x 'The Military Base in GTA 6 - First Look'). Dropped: older Among Us / Mafia 3 / God of War clips from Sanflix and AFGuidesHD, two Caylus videos, one Kai Cenat Live. THUMBNAILS.md rewritten: little or no text, one bright subject, no arrows/circles.
+
 Daily episodes and weekly research notes. Newest at the bottom.
 
 

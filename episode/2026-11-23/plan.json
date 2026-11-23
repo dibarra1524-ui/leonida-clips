@@ -49,33 +49,33 @@
    "file": "episode/2026-11-23/thumb_A.jpg",
    "base": "episode/2026-11-23/base_A.jpg",
    "spot": [
-    0.769,
-    0.193
+    0.5,
+    0.3
    ],
-   "mark": "arrow",
-   "text": "NO WAY",
+   "mark": "none",
+   "text": "ALIEN FOUND?!",
    "from_clip": "DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU"
   },
   {
    "file": "episode/2026-11-23/thumb_B.jpg",
    "base": "episode/2026-11-23/base_B.jpg",
    "spot": [
-    0.481,
-    0.311
+    0.5,
+    0.3
    ],
-   "mark": "arrow",
-   "text": "#1",
+   "mark": "none",
+   "text": "UFO SPOTTED",
    "from_clip": "PlayfulCarefulYakinikuDatSheffy-Ln938E4cDYzmA3Hq"
   },
   {
    "file": "episode/2026-11-23/thumb_C.jpg",
    "base": "episode/2026-11-23/base_C.jpg",
    "spot": [
-    0.715,
-    0.389
+    0.5,
+    0.8
    ],
-   "mark": "circle",
-   "text": "COPS?!",
+   "mark": "none",
+   "text": "TOTALLED IT",
    "from_clip": "FunnyPluckyCourgetteTooSpicy-O-4gy4dm0tQFACPm"
   }
  ],

@@ -1921,6 +1921,31 @@
    },
    "hook": "Wait for LACY's master disguise",
    "duration": 22.75
+  },
+  {
+   "id": "VibrantProtectiveDillJKanStyle-uZSmTTEDaBB47wGb",
+   "media_id": "18135451411702855",
+   "posted_at": "2026-11-24T17:47:46Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "smart",
+    "cap_size": 72,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "hard",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "silky",
+    "len": "<20",
+    "layout": "cam",
+    "action": "high",
+    "hour": "09"
+   },
+   "hook": "Silky could not hold back tears",
+   "duration": 5.52
   }
  ]
 }

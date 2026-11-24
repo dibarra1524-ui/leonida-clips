@@ -1,0 +1,37 @@
+{
+ "id": "PrettiestFastHamJebaited-dmfYeM9YNFLNsFxB",
+ "streamer": "caseoh_",
+ "login": "caseoh_",
+ "title": "slow drive",
+ "views": 668,
+ "created_at": "2026-11-24T14:33:51Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/caseoh_/clip/PrettiestFastHamJebaited-dmfYeM9YNFLNsFxB",
+ "platform": "twitch",
+ "credit": "twitch.tv/caseoh_",
+ "layout": "cam",
+ "transcript": "This is perfect. Just a drive. Fuck that, I'm calling out. Where can you hurry up? See, I want to know what's happening with my wife. Sorry, I can't help you. Whoa, whoa, why not? HIPAA! Please, contact your loved one directly. I'm in a concrete truck! Are you her doctor? No! Then I'm hanging out. Today's show, we're joined by Jonathan. He's a controversial... What the hell is wrong with this piece? Why are they making this so fucking hard? I have to run somebody over it.",
+ "score": 120.5,
+ "campaign": null,
+ "genes": {
+  "max_len": 45,
+  "trim": "none",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "stakes",
+  "hook_case": "upper",
+  "opener": "normal",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 45.0,
+ "action": 0.643,
+ "action_parts": {
+  "audio": 0.23,
+  "motion": 1.0,
+  "talk": 0.86,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-24T18:45:04Z",
+ "hot": false
+}

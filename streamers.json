@@ -86,7 +86,12 @@
   {
    "login": "tminnzy",
    "approved": true,
-   "cam": null
+   "cam": [
+    0.7683,
+    0.346,
+    0.1842,
+    0.194
+   ]
   },
   {
    "login": "ludwig",

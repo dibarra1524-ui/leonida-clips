@@ -1,0 +1,47 @@
+{
+ "id": "TriangularCreativeSwordThunBeast-7T6yEip4SQB5mnnQ",
+ "streamer": "Silky",
+ "login": "silky",
+ "title": "\ud83e\ude82ANOTHER DAY ANOTHER STREAM\ud83e\ude82GTA 6 GAMEPLAY & GIVEAWAYS STILL\ud83e\ude82REACTIONS\ud83e\ude82DRAMA\ud83e\ude82NEW VLOG OUT NOW\ud83e\ude82 !core !patreon",
+ "views": 71,
+ "created_at": "2026-11-24T04:57:53Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/silky/clip/TriangularCreativeSwordThunBeast-7T6yEip4SQB5mnnQ",
+ "platform": "twitch",
+ "credit": "twitch.tv/silky",
+ "layout": "full",
+ "transcript": "I can't even do the fucking mission dog. Oh wait, can I? Hey, that's my house. We said that where's the mission? I could do it. Triangle to booze. Triangle to booze. Don't fucking idiot, bro.",
+ "score": 2.5,
+ "campaign": {
+  "id": "37f68297-664c-4820-a020-9bbb4a703bf9",
+  "name": "$7,500 Silky Pool Campaign (Reach)",
+  "mention": "Silky",
+  "hashtag": "#silky",
+  "rules": "Silky must be the main focus playing GTA 6; caption must include #silky; never negative about Silky; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9",
+  "pay": "pool $7.5K split by views, needs 250K total views, 500 views per clip",
+  "cta": "Watch Silky live: twitch.tv/silky",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "smart",
+  "cap_size": 72,
+  "cap_pos": "low",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 61.23,
+ "action": 0.688,
+ "action_parts": {
+  "audio": 1.0,
+  "motion": 0.71,
+  "talk": 0.32,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-24T18:45:04Z",
+ "hot": false
+}

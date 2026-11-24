@@ -2026,6 +2026,32 @@
    },
    "hook": "Boeshi's hospital brawl goes wrong",
    "duration": 31.18
+  },
+  {
+   "id": "BlightedGiantLadiesFailFish-cpOmtVJoeyiB3tcn",
+   "media_id": "17899137042511491",
+   "posted_at": "2026-11-24T20:45:27Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "streamer",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "runon",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "lacy",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "mid",
+    "topic:funny": 1,
+    "hour": "12"
+   },
+   "hook": "LACY won't give him a dime",
+   "duration": 20.0
   }
  ]
 }

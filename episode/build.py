@@ -135,16 +135,17 @@ def screen(raw):
     return 'strip club / lingerie' if strip >= 2 else None
 
 
-def segment(c, label, dst, tmp):
+def segment(c, label, dst, tmp, right=False):
     raw = download(c, tmp)
+    lx = 'w-tw-60' if right else '60'          # labels "_right": top-right label for clips with a top-left facecam
     lf, hf = os.path.join(tmp, c['id'] + '.label'), os.path.join(tmp, c['id'] + '.handle')
     open(lf, 'w').write(''.join(ch for ch in label.upper() if ch.isascii() or ch.isalpha()))
     open(hf, 'w').write('twitch.tv/' + c['login'])
     vf = ("scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2,fps=30,format=yuv420p,"
           "drawtext=fontfile=%s:textfile=%s:fontsize=56:fontcolor=white:box=1:boxcolor=black@0.7:boxborderw=20:"
-          "x=60:y=60:enable='lt(t,6)',"
+          "x=%s:y=60:enable='lt(t,6)',"
           "drawtext=fontfile=%s:textfile=%s:fontsize=36:fontcolor=white@0.95:box=1:boxcolor=0x9146FF@0.85:boxborderw=12:"
-          "x=60:y=h-110" % (FONT, lf, FONT, hf))
+          "x=60:y=h-110" % (FONT, lf, lx, FONT, hf))
     subprocess.run(['ffmpeg', '-y', '-v', 'error', '-i', raw, '-vf', vf,
                     '-af', 'loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000', '-ac', '2',
                     '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21', '-r', '30',
@@ -197,7 +198,7 @@ def main():
         c['label'] = labels.get(c['id']) or (c.get('label') if a.relabel else None) or clean_label(c['title'])
         s = os.path.join(tmp, 'seg%03d.mp4' % i)
         try:
-            raws[c['id']] = segment(c, c['label'], s, tmp)
+            raws[c['id']] = segment(c, c['label'], s, tmp, c['id'] in set(labels.get('_right', [])))
         except Exception as e:
             print('dropped', c['id'], e)
             c['dropped'] = str(e)[:200]

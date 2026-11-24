@@ -1974,6 +1974,31 @@
    },
    "hook": "Boeshi vs the whole street, watch",
    "duration": 39.21
+  },
+  {
+   "id": "ShySparklingTitanBIRB-T_nA6wh5bLCA_N-i",
+   "media_id": "17913812619664666",
+   "posted_at": "2026-11-24T19:03:17Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "streamer",
+    "hook_case": "upper",
+    "opener": "normal",
+    "ending": "runon",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "silky",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "hour": "12"
+   },
+   "hook": "Silky sneaks up to steal a car",
+   "duration": 20.0
   }
  ]
 }

@@ -1103,5 +1103,26 @@
   },
   "clip_url": "https://www.twitch.tv/darealboeshi/clip/AcceptableTrustworthySparrowEagleEye-Jo6bN_x3rGVWQETy",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/AcceptableTrustworthySparrowEagleEye-Jo6bN_x3rGVWQETy.mp4"
+ },
+ {
+  "id": "ShySparklingTitanBIRB-T_nA6wh5bLCA_N-i",
+  "media_id": "17913812619664666",
+  "posted_at": "2026-11-24T19:03:17Z",
+  "streamer": "silky",
+  "hook": "Silky sneaks up to steal a car",
+  "caption": "#ad Silky goes full stealth mode for a GTA 6 car\n\nWatch Silky live: twitch.tv/silky\n\n#gta6 #gtavi #gta6clips #twitchclips #silky",
+  "campaign": {
+   "id": "37f68297-664c-4820-a020-9bbb4a703bf9",
+   "name": "$7,500 Silky Pool Campaign (Reach)",
+   "mention": "Silky",
+   "hashtag": "#silky",
+   "rules": "Silky must be the main focus playing GTA 6; caption must include #silky; never negative about Silky; submit within 30 min of posting",
+   "submit_at": "https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9",
+   "pay": "pool $7.5K split by views, needs 250K total views, 500 views per clip",
+   "cta": "Watch Silky live: twitch.tv/silky",
+   "ends": "when the pool ends"
+  },
+  "clip_url": "https://www.twitch.tv/silky/clip/ShySparklingTitanBIRB-T_nA6wh5bLCA_N-i",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/ShySparklingTitanBIRB-T_nA6wh5bLCA_N-i.mp4"
  }
 ]

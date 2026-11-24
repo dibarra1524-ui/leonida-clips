@@ -1,65 +1,65 @@
 {
- "at": "2026-11-19T02:40:20Z",
+ "at": "2026-11-24T01:46:50Z",
  "top": [
   {
    "login": "ohnepixel",
    "score": 0.6,
-   "clip_views_7d": 402302,
+   "clip_views_7d": 1886030,
+   "live_viewers_now": 0
+  },
+  {
+   "login": "caseoh_",
+   "score": 0.489,
+   "clip_views_7d": 278396,
+   "live_viewers_now": 63396
+  },
+  {
+   "login": "ishowspeed",
+   "score": 0.452,
+   "clip_views_7d": 1421060,
+   "live_viewers_now": 0
+  },
+  {
+   "login": "kaicenat",
+   "score": 0.283,
+   "clip_views_7d": 888624,
    "live_viewers_now": 0
   },
   {
    "login": "theburntpeanut",
-   "score": 0.437,
-   "clip_views_7d": 25124,
-   "live_viewers_now": 94870
-  },
-  {
-   "login": "kaicenat",
-   "score": 0.433,
-   "clip_views_7d": 71403,
-   "live_viewers_now": 77388
-  },
-  {
-   "login": "caseoh_",
-   "score": 0.325,
-   "clip_views_7d": 2703,
-   "live_viewers_now": 76222
-  },
-  {
-   "login": "xqc",
-   "score": 0.289,
-   "clip_views_7d": 64067,
-   "live_viewers_now": 45829
-  },
-  {
-   "login": "zackrawrr",
-   "score": 0.279,
-   "clip_views_7d": 642,
-   "live_viewers_now": 65885
-  },
-  {
-   "login": "hasanabi",
-   "score": 0.162,
-   "clip_views_7d": 0,
-   "live_viewers_now": 38434
-  },
-  {
-   "login": "stableronaldo",
-   "score": 0.157,
-   "clip_views_7d": 8332,
-   "live_viewers_now": 34309
-  },
-  {
-   "login": "ishowspeed",
-   "score": 0.123,
-   "clip_views_7d": 32842,
-   "live_viewers_now": 17460
+   "score": 0.276,
+   "clip_views_7d": 148102,
+   "live_viewers_now": 36238
   },
   {
    "login": "jynxzi",
+   "score": 0.182,
+   "clip_views_7d": 171757,
+   "live_viewers_now": 20183
+  },
+  {
+   "login": "hasanabi",
+   "score": 0.164,
+   "clip_views_7d": 12092,
+   "live_viewers_now": 25313
+  },
+  {
+   "login": "tminnzy",
+   "score": 0.127,
+   "clip_views_7d": 399666,
+   "live_viewers_now": 0
+  },
+  {
+   "login": "ludwig",
    "score": 0.114,
-   "clip_views_7d": 2510,
-   "live_viewers_now": 26097
+   "clip_views_7d": 160230,
+   "live_viewers_now": 10022
+  },
+  {
+   "login": "jerma985",
+   "score": 0.111,
+   "clip_views_7d": 72802,
+   "live_viewers_now": 13987
   }
  ]
 }

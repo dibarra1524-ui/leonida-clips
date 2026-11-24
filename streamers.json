@@ -2,6 +2,103 @@
  "_note": "Only streamers with approved=true are clipped. cam = facecam box as fractions of the frame [x, y, w, h]; null = auto-detect (saved after the first good detection). Set layout to 'full' to never use a facecam split.",
  "streamers": [
   {
+   "login": "ohnepixel",
+   "approved": true,
+   "cam": [
+    0.0366,
+    0.7649,
+    0.2231,
+    0.2351
+   ],
+   "auto": "2026-11-18T22:23:04Z"
+  },
+  {
+   "login": "caseoh_",
+   "approved": true,
+   "cam": [
+    0.043,
+    0.2149,
+    0.1629,
+    0.1716
+   ]
+  },
+  {
+   "login": "ishowspeed",
+   "approved": true,
+   "cam": [
+    0.0466,
+    0.4773,
+    0.124,
+    0.1306
+   ]
+  },
+  {
+   "login": "kaicenat",
+   "approved": true,
+   "cam": [
+    0,
+    0.7401,
+    0.1948,
+    0.2052
+   ],
+   "campaign": {
+    "id": "clippedshipped-kai-gta6",
+    "name": "Kai Cenat $10,000 GTA 6 Pool (Clipped & Shipped)",
+    "mention": "Kai Cenat",
+    "hashtag": "#KaiCenat",
+    "rules": "Kai Cenat must be the primary focus in the actual edit; caption or overlay must name Kai Cenat; #KaiCenat required; never negative or hate-farm; no logos; no reposts/collab posts; marathon footage from Nov 18 on",
+    "submit_at": "https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86",
+    "pay": "pool $10K split by views; each clip needs 1K views; needs 750K total views",
+    "cta": "Watch Kai Cenat live: twitch.tv/kaicenat",
+    "ends": "when the marathon ends"
+   }
+  },
+  {
+   "login": "theburntpeanut",
+   "approved": true,
+   "cam": [
+    0.1822,
+    0.7302,
+    0.1257,
+    0.1325
+   ]
+  },
+  {
+   "login": "jynxzi",
+   "approved": true,
+   "cam": [
+    0,
+    0.5842,
+    0.3205,
+    0.3377
+   ]
+  },
+  {
+   "login": "hasanabi",
+   "approved": true,
+   "cam": [
+    0.1602,
+    0.1188,
+    0.2249,
+    0.2369
+   ]
+  },
+  {
+   "login": "tminnzy",
+   "approved": true,
+   "cam": null
+  },
+  {
+   "login": "ludwig",
+   "approved": true,
+   "cam": null
+  },
+  {
+   "login": "jerma985",
+   "approved": true,
+   "cam": null
+  },
+  {
    "login": "lacy",
    "approved": true,
    "cam": [
@@ -28,6 +125,28 @@
      "pay": "pool $25K split by views, needs 1M total views, 500 views per clip, ends Dec 21",
      "rules": "mention Lacy in caption/overlay, #Lacy hashtag, Lacy must be the primary focus"
     }
+   }
+  },
+  {
+   "login": "silky",
+   "approved": true,
+   "cam": [
+    0.7932,
+    0.7803,
+    0.1948,
+    0.2052
+   ],
+   "pin": true,
+   "campaign": {
+    "id": "37f68297-664c-4820-a020-9bbb4a703bf9",
+    "name": "$7,500 Silky Pool Campaign (Reach)",
+    "mention": "Silky",
+    "hashtag": "#silky",
+    "rules": "Silky must be the main focus playing GTA 6; caption must include #silky; never negative about Silky; submit within 30 min of posting",
+    "submit_at": "https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9",
+    "pay": "pool $7.5K split by views, needs 250K total views, 500 views per clip",
+    "cta": "Watch Silky live: twitch.tv/silky",
+    "ends": "when the pool ends"
    }
   },
   {
@@ -94,60 +213,48 @@
    }
   },
   {
-   "login": "ohnepixel",
+   "login": "adinross",
+   "kick": "adinross",
+   "kick_only": true,
    "approved": true,
-   "cam": [
-    0.0366,
-    0.7649,
-    0.2231,
-    0.2351
-   ],
-   "auto": "2026-11-18T22:23:04Z"
+   "pin": true,
+   "cam": null
   },
   {
-   "login": "theburntpeanut",
+   "login": "yourragegaming",
    "approved": true,
    "cam": [
-    0.1822,
-    0.7302,
-    0.1257,
-    0.1325
-   ]
-  },
-  {
-   "login": "kaicenat",
-   "approved": true,
-   "cam": [
-    0,
-    0.7401,
-    0.1948,
-    0.2052
+    0.7826,
+    0.7208,
+    0.2072,
+    0.2183
    ],
+   "pin": true,
    "campaign": {
-    "id": "clippedshipped-kai-gta6",
-    "name": "Kai Cenat $10,000 GTA 6 Pool (Clipped & Shipped)",
-    "mention": "Kai Cenat",
-    "hashtag": "#KaiCenat",
-    "rules": "Kai Cenat must be the primary focus in the actual edit; caption or overlay must name Kai Cenat; #KaiCenat required; never negative or hate-farm; no logos; no reposts/collab posts; marathon footage from Nov 18 on",
-    "submit_at": "https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86",
-    "pay": "pool $10K split by views; each clip needs 1K views; needs 750K total views",
-    "cta": "Watch Kai Cenat live: twitch.tv/kaicenat",
-    "ends": "when the marathon ends"
+    "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
+    "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
+    "mention": "YourRAGE",
+    "hashtag": "#yourrage",
+    "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
+    "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
+    "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
+    "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
+    "ends": "when the pool ends"
    }
   },
   {
-   "login": "caseoh_",
-   "approved": true,
+   "login": "stableronaldo",
+   "approved": false,
    "cam": [
-    0.043,
-    0.2149,
-    0.1629,
-    0.1716
+    0.0367,
+    0.5016,
+    0.2125,
+    0.2239
    ]
   },
   {
    "login": "xqc",
-   "approved": true,
+   "approved": false,
    "cam": [
     0.0581,
     0.0504,
@@ -157,57 +264,17 @@
    "kick": "xqc"
   },
   {
-   "login": "zackrawrr",
-   "approved": true,
-   "cam": null
-  },
-  {
-   "login": "hasanabi",
-   "approved": true,
-   "cam": [
-    0.1602,
-    0.1188,
-    0.2249,
-    0.2369
-   ]
-  },
-  {
-   "login": "stableronaldo",
-   "approved": true,
-   "cam": [
-    0.0367,
-    0.5016,
-    0.2125,
-    0.2239
-   ]
-  },
-  {
-   "login": "ishowspeed",
-   "approved": true,
-   "cam": [
-    0.0466,
-    0.4773,
-    0.124,
-    0.1306
-   ]
-  },
-  {
-   "login": "jynxzi",
-   "approved": true,
-   "cam": [
-    0,
-    0.5842,
-    0.3205,
-    0.3377
-   ]
-  },
-  {
-   "login": "summit1g",
+   "login": "lirik",
    "approved": false,
    "cam": null
   },
   {
-   "login": "lirik",
+   "login": "zackrawrr",
+   "approved": false,
+   "cam": null
+  },
+  {
+   "login": "summit1g",
    "approved": false,
    "cam": null
   },
@@ -234,60 +301,8 @@
    "cam": null
   },
   {
-   "login": "adinross",
-   "kick": "adinross",
-   "kick_only": true,
-   "approved": true,
-   "pin": true,
-   "cam": null
-  },
-  {
-   "login": "silky",
-   "approved": true,
-   "cam": [
-    0.7932,
-    0.7803,
-    0.1948,
-    0.2052
-   ],
-   "pin": true,
-   "campaign": {
-    "id": "37f68297-664c-4820-a020-9bbb4a703bf9",
-    "name": "$7,500 Silky Pool Campaign (Reach)",
-    "mention": "Silky",
-    "hashtag": "#silky",
-    "rules": "Silky must be the main focus playing GTA 6; caption must include #silky; never negative about Silky; submit within 30 min of posting",
-    "submit_at": "https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9",
-    "pay": "pool $7.5K split by views, needs 250K total views, 500 views per clip",
-    "cta": "Watch Silky live: twitch.tv/silky",
-    "ends": "when the pool ends"
-   }
-  },
-  {
-   "login": "yourragegaming",
-   "approved": true,
-   "cam": [
-    0.7826,
-    0.7208,
-    0.2072,
-    0.2183
-   ],
-   "pin": true,
-   "campaign": {
-    "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
-    "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
-    "mention": "YourRAGE",
-    "hashtag": "#yourrage",
-    "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
-    "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
-    "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
-    "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
-    "ends": "when the pool ends"
-   }
-  },
-  {
    "login": "asianjeff",
-   "approved": true,
+   "approved": false,
    "cam": [
     0.0225,
     0.4032,

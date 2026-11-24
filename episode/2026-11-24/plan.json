@@ -101,34 +101,34 @@
    "file": "episode/2026-11-24/thumb_A.jpg",
    "base": "episode/2026-11-24/base_A.jpg",
    "spot": [
-    0.567,
-    0.459
+    0.48,
+    0.7
    ],
-   "mark": "arrow",
-   "text": "NO WAY",
-   "from_clip": "RudeBlueStapleResidentSleeper-hN6aHqGrcSgwB2Dl"
+   "mark": "none",
+   "text": "SENT FLYING",
+   "from_clip": "HealthyRelentlessGullDoggo-YOHf9n4kX9uhQbgM"
   },
   {
    "file": "episode/2026-11-24/thumb_B.jpg",
    "base": "episode/2026-11-24/base_B.jpg",
    "spot": [
-    0.45,
-    0.637
+    0.6,
+    0.5
    ],
-   "mark": "arrow",
-   "text": "BEST CLIPS",
-   "from_clip": "SparklingDeliciousElephantDuDudu-7ZtEIG3eWcRoA8BV"
+   "mark": "none",
+   "text": "ON FIRE?!",
+   "from_clip": "WrongTolerantKangarooDBstyle-9doWn2icz0aOnvU0"
   },
   {
    "file": "episode/2026-11-24/thumb_C.jpg",
    "base": "episode/2026-11-24/base_C.jpg",
    "spot": [
-    0.575,
-    0.507
+    0.5,
+    0.4
    ],
-   "mark": "circle",
-   "text": "COPS?!",
-   "from_clip": "CuteDoubtfulTeaDendiFace-Fbbl3Ga2fZ06p37b"
+   "mark": "none",
+   "text": "HELI DOWN",
+   "from_clip": "SparklingDeliciousElephantDuDudu-7ZtEIG3eWcRoA8BV"
   }
  ],
  "screened_out": [

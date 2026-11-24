@@ -1794,6 +1794,33 @@
    },
    "hook": "What is Kai Cenat's Jason doing?",
    "duration": 31.22
+  },
+  {
+   "id": "FrozenFastFiddleheadsDansGame-g__7r1ycQwD7GcpH",
+   "media_id": "18225846439353561",
+   "posted_at": "2026-11-24T05:41:46Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "question",
+    "hook_case": "upper",
+    "opener": "normal",
+    "ending": "hard",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "topic:weapon": 1,
+    "hour": "21"
+   },
+   "hook": "Can Boeshi survive this airboat brawl?",
+   "duration": 20.0
   }
  ]
 }

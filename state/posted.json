@@ -990,5 +990,26 @@
   },
   "clip_url": "https://www.twitch.tv/kaicenat/clip/TrappedSplendidNightingaleTheTarFu-bFKqYRKUWdXubO3q",
   "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/TrappedSplendidNightingaleTheTarFu-bFKqYRKUWdXubO3q.mp4"
+ },
+ {
+  "id": "FrozenFastFiddleheadsDansGame-g__7r1ycQwD7GcpH",
+  "media_id": "18225846439353561",
+  "posted_at": "2026-11-24T05:41:46Z",
+  "streamer": "darealboeshi",
+  "hook": "Can Boeshi survive this airboat brawl?",
+  "caption": "#ad Boeshi caught in an airboat brawl in Leonida\n\nFollow Boeshi live: twitch.tv/darealboeshi\n\n#gta6 #gtavi #gta6clips #twitchclips #Boeshi",
+  "campaign": {
+   "id": "cliplaunch-boeshi-gta6",
+   "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+   "mention": "Boeshi",
+   "hashtag": "#Boeshi",
+   "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+   "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+   "pay": "cpm $1.00/1K, max $300/clip",
+   "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+   "ends": "when budget runs out"
+  },
+  "clip_url": "https://www.twitch.tv/darealboeshi/clip/FrozenFastFiddleheadsDansGame-g__7r1ycQwD7GcpH",
+  "url": "https://raw.githubusercontent.com/dibarra1524-ui/leonida-clips/main/out/FrozenFastFiddleheadsDansGame-g__7r1ycQwD7GcpH.mp4"
  }
 ]

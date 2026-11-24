@@ -1895,6 +1895,32 @@
     "age_h": 11.9
    },
    "score": 2.435
+  },
+  {
+   "id": "PunchyInspiringTurtleSmoocherZ-ysK8er1XPQAQssn2",
+   "media_id": "17962372188012423",
+   "posted_at": "2026-11-24T17:45:35Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "none",
+    "cap_size": 96,
+    "cap_pos": "mid",
+    "hook_style": "stakes",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "runon",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "lacy",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "mid",
+    "topic:weapon": 1,
+    "hour": "09"
+   },
+   "hook": "Wait for LACY's master disguise",
+   "duration": 22.75
   }
  ]
 }

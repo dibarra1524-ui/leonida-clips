@@ -141,19 +141,19 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 ## Trending right now (from the last fetch)
 
-Topics: funny 1.00, npc 0.69, car 0.10, map 0.10, police 0.10, glitch 0.10
+Topics: npc 1.00, car 0.49, funny 0.34, money 0.32, map 0.20, weapon 0.17, police 0.10
 
-Streamers: ohnepixel 1.00, xqc 0.94, caseoh_ 0.45, lirik 0.33, cohhcarnage 0.25, promised_consort_abearbis 0.23, jerma985 0.20, drupy876 0.19
+Streamers: caseoh_ 1.00, xqc 0.56, theburntpeanut 0.42, cohhcarnage 0.23, ohnepixel 0.21, lirik 0.17, avoidingthepuddle 0.14, promised_consort_abearbis 0.11
 
 Hook ideas from trending Shorts titles:
 
-- If You Steal a Car in GTA 6, I’ll Pay For It!
-- Grand Theft Auto VI: Out Now
-- Finally Playing GTA 6 😍 First Time 
-- GTA 6 Review
+- Whatever Car You Steal, I’ll Pay For!
+- GTA 6 - Stealing a Jet From the Military Base
 - GTA 6 (Grand Theft Auto VI) - Official Trailer
 - GTA 6 – CRAZY 5-Star Police Chase & Rampage at Vice Ocean Beach!
 - The GTA 6 backlash is getting out of hand..
-- GTA 6 just broke the entire internet..
+- GTA 6 User Reviews Are Finally Out..
+- GTA 6 WTF and Funny Moments! #3
+- GTA 6: 25 Things You NEED TO KNOW
 - Grand Theft Auto 6 Gameplay and Impressions...
-- GTA 6 PS5 Pro Gameplay - 15 Minutes of The First Mission
+- What Happens If You Get 6 Stars in GTA 6

@@ -1999,6 +1999,33 @@
    },
    "hook": "Silky sneaks up to steal a car",
    "duration": 20.0
+  },
+  {
+   "id": "SplendidCaringKittenKreygasm-8nsGXg6f5pUwli5J",
+   "media_id": "18122430070978887",
+   "posted_at": "2026-11-24T20:44:15Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "streamer",
+    "hook_case": "upper",
+    "opener": "cold",
+    "ending": "runon",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "topic:npc": 1,
+    "hour": "12"
+   },
+   "hook": "Boeshi's hospital brawl goes wrong",
+   "duration": 31.18
   }
  ]
 }

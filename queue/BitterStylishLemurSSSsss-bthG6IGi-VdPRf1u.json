@@ -1,0 +1,47 @@
+{
+ "id": "BitterStylishLemurSSSsss-bthG6IGi-VdPRf1u",
+ "streamer": "KaiCenat",
+ "login": "kaicenat",
+ "title": "ron and marlon?",
+ "views": 1154,
+ "created_at": "2026-11-24T22:27:30Z",
+ "duration": 40.4,
+ "clip_url": "https://www.twitch.tv/kaicenat/clip/BitterStylishLemurSSSsss-bthG6IGi-VdPRf1u",
+ "platform": "twitch",
+ "credit": "twitch.tv/kaicenat",
+ "layout": "full",
+ "transcript": "If you do it to be to oh my gosh, bro. Damn, bro. I can't believe. Oh, yeah, that's my room. Yeah, that's my room Teddy, I miss my room. Oh My gosh, I'm so mad like oh my gosh, bro like yo Oh my god, I cannot believe he's so dad, bro. Phantom run Run it. Who else? Oh But we need big wagers, bro. Yeah, we need to do big wagers, bro. I don't care, bro",
+ "score": 333.5,
+ "campaign": {
+  "id": "clippedshipped-kai-gta6",
+  "name": "Kai Cenat $10,000 GTA 6 Pool (Clipped & Shipped)",
+  "mention": "Kai Cenat",
+  "hashtag": "#KaiCenat",
+  "rules": "Kai Cenat must be the primary focus in the actual edit; caption or overlay must name Kai Cenat; #KaiCenat required; never negative or hate-farm; no logos; no reposts/collab posts; marathon footage from Nov 18 on",
+  "submit_at": "https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86",
+  "pay": "pool $10K split by views; each clip needs 1K views; needs 750K total views",
+  "cta": "Watch Kai Cenat live: twitch.tv/kaicenat",
+  "ends": "when the marathon ends"
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "smart",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "normal",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 40.43,
+ "action": 0.524,
+ "action_parts": {
+  "audio": 0.34,
+  "motion": 0.35,
+  "talk": 0.86,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-24T23:45:06Z",
+ "hot": false
+}

@@ -1,0 +1,47 @@
+{
+ "id": "GiftedApatheticChickpeaDancingBanana-0ljDwel9zpheZA6u",
+ "streamer": "bobby_vanriper",
+ "login": "bobby_vanriper",
+ "title": "13yrs for french fries glitch \ud83e\udee9\u270c\ufe0f",
+ "views": 28,
+ "created_at": "2026-11-24T10:06:40Z",
+ "duration": 26.6,
+ "clip_url": "https://www.twitch.tv/bobby_vanriper/clip/GiftedApatheticChickpeaDancingBanana-0ljDwel9zpheZA6u",
+ "platform": "twitch",
+ "credit": "twitch.tv/bobby_vanriper",
+ "layout": "cam",
+ "transcript": "I'm still I'm still in Jason's fries. I mean They don't want to eat in and he's supposed to be the boss damn Yeah, let's see it. Look at the fry keep coming back. Look what we eat the fry that bitch mother fucking fry comes back Look at this 13 years by the way. Look for you. I'm limited French fried glitch in GTA 6 We can't beat that ass",
+ "score": 0.9,
+ "campaign": {
+  "id": "clippingnation-bobby-gta6",
+  "name": "BOBBY VAN RIPER GTA VI Clipping (Clipping Nation) $1.50/1K",
+  "mention": "Bobby VanRiper",
+  "hashtag": "#BobbyVanRiper",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/f583b069-ced7-49e5-9ed3-2d3a13d6df0c",
+  "pay": "cpm $1.50/1K, max $150/clip; David must join discord.gg/DQyAcKa3nU for payouts",
+  "cta": "Follow Bobby VanRiper live: twitch.tv/bobby_vanriper",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "smart",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "streamer",
+  "hook_case": "title",
+  "opener": "normal",
+  "ending": "runon",
+  "punch": "off"
+ },
+ "kept": 20.25,
+ "action": 0.459,
+ "action_parts": {
+  "audio": 0.46,
+  "motion": 0.37,
+  "talk": 0.52,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-24T23:45:06Z",
+ "hot": false
+}

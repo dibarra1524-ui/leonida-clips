@@ -1,47 +1,177 @@
 {
  "date": "2026-11-23",
- "episode": 9,
- "length_s": 72,
+ "episode": 10,
+ "length_s": 375,
  "target_s": 900,
  "clips": [
   {
-   "id": "DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU",
-   "url": "https://www.twitch.tv/ishowspeed/clip/DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU",
-   "title": "speed finds ALIEN in gta",
-   "streamer": "IShowSpeed",
-   "login": "ishowspeed",
-   "views": 3456,
-   "vph": 78.5,
-   "duration": 30,
-   "created_at": "2026-11-22T17:23:53Z",
-   "label": "Speed stumbles onto an alien body",
+   "id": "DarlingGiftedCheeseWoofer-AYlHEKGmN_awQ6yz",
+   "url": "https://www.twitch.tv/ohnepixel/clip/DarlingGiftedCheeseWoofer-AYlHEKGmN_awQ6yz",
+   "title": "ohne is a dick",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 3030,
+   "vph": 200.1,
+   "duration": 24.3,
+   "created_at": "2026-11-23T17:21:07Z",
+   "label": "Ohne is a dick",
    "start": 0.0
   },
   {
-   "id": "PlayfulCarefulYakinikuDatSheffy-Ln938E4cDYzmA3Hq",
-   "url": "https://www.twitch.tv/ishowspeed/clip/PlayfulCarefulYakinikuDatSheffy-Ln938E4cDYzmA3Hq",
-   "title": "speed finds ufo in gta",
-   "streamer": "IShowSpeed",
-   "login": "ishowspeed",
-   "views": 698,
-   "vph": 15.2,
-   "duration": 30,
-   "created_at": "2026-11-22T16:36:15Z",
-   "label": "Speed chases a UFO light",
-   "start": 30.1
-  },
-  {
-   "id": "FunnyPluckyCourgetteTooSpicy-O-4gy4dm0tQFACPm",
-   "url": "https://www.twitch.tv/ohnepixel/clip/FunnyPluckyCourgetteTooSpicy-O-4gy4dm0tQFACPm",
-   "title": "What Was Black?",
+   "id": "VainRoundShieldRlyTho-SJ1fAqjsBmQZuCZ6",
+   "url": "https://www.twitch.tv/ohnepixel/clip/VainRoundShieldRlyTho-SJ1fAqjsBmQZuCZ6",
+   "title": "Ass",
    "streamer": "ohnePixel",
    "login": "ohnepixel",
-   "views": 400,
-   "vph": 9.8,
-   "duration": 11.9,
-   "created_at": "2026-11-22T18:51:51Z",
-   "label": "ohnePixel wrecks his purple supercar",
-   "start": 60.2
+   "views": 1196,
+   "vph": 98.2,
+   "duration": 15.6,
+   "created_at": "2026-11-23T18:57:03Z",
+   "label": "Ass",
+   "start": 24.3
+  },
+  {
+   "id": "OutstandingPoorMuleTooSpicy-EPG7Mkqz0hYMboIi",
+   "url": "https://www.twitch.tv/caseoh_/clip/OutstandingPoorMuleTooSpicy-EPG7Mkqz0hYMboIi",
+   "title": "is it",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 2100,
+   "vph": 96.5,
+   "duration": 37,
+   "created_at": "2026-11-23T13:56:59Z",
+   "label": "Is it",
+   "start": 40.0
+  },
+  {
+   "id": "EnergeticArbitrarySquirrelDoritosChip-n3lt2tw-JSC6usvg",
+   "url": "https://www.twitch.tv/ohnepixel/clip/EnergeticArbitrarySquirrelDoritosChip-n3lt2tw-JSC6usvg",
+   "title": "new fear unlocked",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 800,
+   "vph": 67.0,
+   "duration": 18.7,
+   "created_at": "2026-11-23T19:04:58Z",
+   "label": "New fear unlocked",
+   "start": 77.1
+  },
+  {
+   "id": "SpikyStrongBurritoPanicVis-ESWVog5K6jOHu2J1",
+   "url": "https://www.twitch.tv/ohnepixel/clip/SpikyStrongBurritoPanicVis-ESWVog5K6jOHu2J1",
+   "title": "negev incident 2.0",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 625,
+   "vph": 39.5,
+   "duration": 8.1,
+   "created_at": "2026-11-23T17:00:10Z",
+   "label": "Negev incident 2.0",
+   "start": 95.9
+  },
+  {
+   "id": "FuriousSavoryDonkeyBudBlast-_7CRxe5h9DqRs8F7",
+   "url": "https://www.twitch.tv/caseoh_/clip/FuriousSavoryDonkeyBudBlast-_7CRxe5h9DqRs8F7",
+   "title": "whwd",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 488,
+   "vph": 11.8,
+   "duration": 60,
+   "created_at": "2026-11-23T04:42:11Z",
+   "label": "Whwd",
+   "start": 104.1
+  },
+  {
+   "id": "ApatheticSplendidGrouseDAESuppy-cUPr0DVodtjALdUz",
+   "url": "https://www.twitch.tv/kaicenat/clip/ApatheticSplendidGrouseDAESuppy-cUPr0DVodtjALdUz",
+   "title": "damn bruh",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 330,
+   "vph": 6.7,
+   "duration": 44.1,
+   "created_at": "2026-11-23T01:09:13Z",
+   "label": "Damn bruh",
+   "start": 164.2
+  },
+  {
+   "id": "FunWanderingOstrichDerp-Avn1ZHxCLbcniDou",
+   "url": "https://www.twitch.tv/caseoh_/clip/FunWanderingOstrichDerp-Avn1ZHxCLbcniDou",
+   "title": "It WAS a vibe",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 191,
+   "vph": 5.8,
+   "duration": 14.5,
+   "created_at": "2026-11-23T08:37:13Z",
+   "label": "It WAS a vibe",
+   "start": 208.4
+  },
+  {
+   "id": "AthleticGloriousHerringWOOP-eZvDjzYCcZTNOtht",
+   "url": "https://www.twitch.tv/kaicenat/clip/AthleticGloriousHerringWOOP-eZvDjzYCcZTNOtht",
+   "title": "bro's cant believed what he just saw",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 202,
+   "vph": 4.5,
+   "duration": 30,
+   "created_at": "2026-11-23T03:11:22Z",
+   "label": "Bro's cant believed what he just saw",
+   "start": 223.0
+  },
+  {
+   "id": "PlainDreamyKleePanicBasket-yZlkwkcsX3Ndtcej",
+   "url": "https://www.twitch.tv/kaicenat/clip/PlainDreamyKleePanicBasket-yZlkwkcsX3Ndtcej",
+   "title": "Kai Cenat gets pulled into GTA VI drama",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 158,
+   "vph": 3.5,
+   "duration": 20,
+   "created_at": "2026-11-23T03:05:31Z",
+   "label": "Kai Cenat gets pulled into GTA VI drama",
+   "start": 253.1
+  },
+  {
+   "id": "TriumphantFriendlyIcecreamTriHard-MlD-jblZa8bODzJG",
+   "url": "https://www.twitch.tv/caseoh_/clip/TriumphantFriendlyIcecreamTriHard-MlD-jblZa8bODzJG",
+   "title": "absolute cinema",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 172,
+   "vph": 3.3,
+   "duration": 11.4,
+   "created_at": "2026-11-22T23:49:49Z",
+   "label": "Absolute cinema",
+   "start": 273.2
+  },
+  {
+   "id": "AffluentTrappedYogurtKappa-euW3S1qXMEmXGQpA",
+   "url": "https://www.twitch.tv/hasanabi/clip/AffluentTrappedYogurtKappa-euW3S1qXMEmXGQpA",
+   "title": "Hasan is chat",
+   "streamer": "HasanAbi",
+   "login": "hasanabi",
+   "views": 150,
+   "vph": 2.8,
+   "duration": 60,
+   "created_at": "2026-11-22T23:40:45Z",
+   "label": "Hasan is chat",
+   "start": 284.7
+  },
+  {
+   "id": "BlueBlitheMarjoramWoofer-ZSasg_aIiI5hO6pA",
+   "url": "https://www.twitch.tv/caseoh_/clip/BlueBlitheMarjoramWoofer-ZSasg_aIiI5hO6pA",
+   "title": "nice scooter",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 3445,
+   "vph": 158.9,
+   "duration": 30,
+   "created_at": "2026-11-23T13:59:35Z",
+   "label": "Nice scooter",
+   "start": 344.8
   }
  ],
  "thumbnails": [
@@ -49,45 +179,45 @@
    "file": "episode/2026-11-23/thumb_A.jpg",
    "base": "episode/2026-11-23/base_A.jpg",
    "spot": [
-    0.5,
-    0.3
+    0.45,
+    0.796
    ],
-   "mark": "none",
-   "text": "ALIEN FOUND?!",
-   "from_clip": "DiligentCloudyAnteaterRlyTho-wToiIPYE4haHsuxU"
+   "mark": "arrow",
+   "text": "NO WAY",
+   "from_clip": "DarlingGiftedCheeseWoofer-AYlHEKGmN_awQ6yz"
   },
   {
    "file": "episode/2026-11-23/thumb_B.jpg",
    "base": "episode/2026-11-23/base_B.jpg",
    "spot": [
-    0.5,
-    0.3
+    0.502,
+    0.185
    ],
-   "mark": "none",
-   "text": "UFO SPOTTED",
-   "from_clip": "PlayfulCarefulYakinikuDatSheffy-Ln938E4cDYzmA3Hq"
+   "mark": "arrow",
+   "text": "FAILS",
+   "from_clip": "BlueBlitheMarjoramWoofer-ZSasg_aIiI5hO6pA"
   },
   {
    "file": "episode/2026-11-23/thumb_C.jpg",
    "base": "episode/2026-11-23/base_C.jpg",
    "spot": [
-    0.5,
-    0.8
+    0.521,
+    0.774
    ],
-   "mark": "none",
-   "text": "TOTALLED IT",
-   "from_clip": "FunnyPluckyCourgetteTooSpicy-O-4gy4dm0tQFACPm"
+   "mark": "circle",
+   "text": "INSANE",
+   "from_clip": "VainRoundShieldRlyTho-SJ1fAqjsBmQZuCZ6"
   }
  ],
  "screened_out": [
   {
-   "id": "ZanyRudeEggnogLeeroyJenkins-gsZw2DK06w6ys6CQ",
+   "id": "HungryUglyGalagoPoooound-Fph_qDktjoztCk8w",
    "streamer": "ohnePixel",
-   "title": "OH SHIT YT",
+   "title": "if he's alive i'm alive",
    "why": "nudity (BUTTOCKS_EXPOSED)"
   }
  ],
- "default_title": "GTA 6 Best Clips of the Day #9",
+ "default_title": "GTA 6 Best Clips of the Day #10",
  "release": "ep-2026-11-23",
- "built_at": "2026-11-23T15:20:20Z"
+ "built_at": "2026-11-24T01:02:32Z"
 }

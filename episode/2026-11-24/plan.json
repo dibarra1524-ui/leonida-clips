@@ -1,60 +1,307 @@
 {
  "date": "2026-11-24",
- "episode": 11,
- "length_s": 144,
+ "episode": 12,
+ "length_s": 811,
  "target_s": 900,
  "clips": [
   {
-   "id": "HealthyRelentlessGullDoggo-YOHf9n4kX9uhQbgM",
-   "url": "https://www.twitch.tv/caseoh_/clip/HealthyRelentlessGullDoggo-YOHf9n4kX9uhQbgM",
-   "title": "Im Crying",
+   "id": "LitigiousNaiveHorseradishPeteZaroll-8_k23aP-Jtri0HQd",
+   "url": "https://www.twitch.tv/caseoh_/clip/LitigiousNaiveHorseradishPeteZaroll-8_k23aP-Jtri0HQd",
+   "title": "slight scratch",
    "streamer": "caseoh_",
    "login": "caseoh_",
-   "views": 160,
-   "vph": 5.0,
-   "duration": 30.4,
-   "created_at": "2026-11-23T22:49:08Z",
-   "label": "CaseOh's car flips and explodes",
+   "views": 3611,
+   "vph": 214.6,
+   "duration": 60,
+   "created_at": "2026-11-24T14:30:10Z",
+   "label": "Slight scratch",
    "start": 0.0
   },
   {
-   "id": "CuteDoubtfulTeaDendiFace-Fbbl3Ga2fZ06p37b",
-   "url": "https://www.twitch.tv/caseoh_/clip/CuteDoubtfulTeaDendiFace-Fbbl3Ga2fZ06p37b",
-   "title": "beyond belief",
+   "id": "PrettiestFastHamJebaited-dmfYeM9YNFLNsFxB",
+   "url": "https://www.twitch.tv/caseoh_/clip/PrettiestFastHamJebaited-dmfYeM9YNFLNsFxB",
+   "title": "slow drive",
    "streamer": "caseoh_",
    "login": "caseoh_",
-   "views": 158,
-   "vph": 46.6,
+   "views": 1490,
+   "vph": 89.2,
    "duration": 60,
-   "created_at": "2026-11-24T14:00:19Z",
-   "label": "CaseOh shoots up a backwoods camp",
-   "start": 30.5
+   "created_at": "2026-11-24T14:33:51Z",
+   "label": "Slow drive",
+   "start": 60.1
   },
   {
-   "id": "PeppySpoopyCoyoteUncleNox-bwFBqWOHypOnUTnQ",
-   "url": "https://www.twitch.tv/ishowspeed/clip/PeppySpoopyCoyoteUncleNox-bwFBqWOHypOnUTnQ",
-   "title": "The best moment i love in this gta vi",
-   "streamer": "IShowSpeed",
-   "login": "ishowspeed",
-   "views": 197,
-   "vph": 4.2,
-   "duration": 30,
-   "created_at": "2026-11-23T16:14:08Z",
-   "label": "Speed downs a chopper from a boat",
-   "start": 90.6
+   "id": "RelatedExpensiveEelBleedPurple-EER18eheN5qmhA_W",
+   "url": "https://www.twitch.tv/caseoh_/clip/RelatedExpensiveEelBleedPurple-EER18eheN5qmhA_W",
+   "title": "traffic",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 966,
+   "vph": 57.9,
+   "duration": 60,
+   "created_at": "2026-11-24T14:34:35Z",
+   "label": "Traffic",
+   "start": 120.2
   },
   {
-   "id": "AstuteLovelyRatSpicyBoy-NWlWeyT5uRwbo65F",
-   "url": "https://www.twitch.tv/kaicenat/clip/AstuteLovelyRatSpicyBoy-NWlWeyT5uRwbo65F",
-   "title": "Kaimakin accident while searching the radio \ud83e\udd23",
+   "id": "VictoriousFineMochaPipeHype-CLBGE7MJJVbPRXRI",
+   "url": "https://www.twitch.tv/ohnepixel/clip/VictoriousFineMochaPipeHype-CLBGE7MJJVbPRXRI",
+   "title": "caught... its not about her hair",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 764,
+   "vph": 45.5,
+   "duration": 11.9,
+   "created_at": "2026-11-24T14:30:53Z",
+   "label": "Caught... its not about her hair",
+   "start": 180.3
+  },
+  {
+   "id": "BlindingAgreeableTurtleKreygasm-OFxrS3_6aayEoRV3",
+   "url": "https://www.twitch.tv/caseoh_/clip/BlindingAgreeableTurtleKreygasm-OFxrS3_6aayEoRV3",
+   "title": "heated",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 774,
+   "vph": 43.4,
+   "duration": 60,
+   "created_at": "2026-11-24T13:58:52Z",
+   "label": "Heated",
+   "start": 192.3
+  },
+  {
+   "id": "SourAggressiveLaptopBloodTrail-uxWVwJyY7CRC1KuJ",
+   "url": "https://www.twitch.tv/ohnepixel/clip/SourAggressiveLaptopBloodTrail-uxWVwJyY7CRC1KuJ",
+   "title": "honest-truth",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 1993,
+   "vph": 41.8,
+   "duration": 19.8,
+   "created_at": "2026-11-23T23:59:16Z",
+   "label": "Honest-truth",
+   "start": 252.4
+  },
+  {
+   "id": "MistyFastChickpeaBatChest-1l50Cnz_nbghKxmh",
+   "url": "https://www.twitch.tv/kaicenat/clip/MistyFastChickpeaBatChest-1l50Cnz_nbghKxmh",
+   "title": "lol",
    "streamer": "KaiCenat",
    "login": "kaicenat",
-   "views": 162,
-   "vph": 3.4,
+   "views": 230,
+   "vph": 39.0,
+   "duration": 19.4,
+   "created_at": "2026-11-24T20:37:40Z",
+   "label": "GTA 6",
+   "start": 272.3
+  },
+  {
+   "id": "SneakyZanyReindeerGrammarKing-kpyL3xCv90okawFH",
+   "url": "https://www.twitch.tv/caseoh_/clip/SneakyZanyReindeerGrammarKing-kpyL3xCv90okawFH",
+   "title": "wheelie crash",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 592,
+   "vph": 37.3,
+   "duration": 60,
+   "created_at": "2026-11-24T15:00:32Z",
+   "label": "Wheelie crash",
+   "start": 291.7
+  },
+  {
+   "id": "ToughCuriousKeyboardBCWarrior-3bjqWEg3UnDs1kBI",
+   "url": "https://www.twitch.tv/ohnepixel/clip/ToughCuriousKeyboardBCWarrior-3bjqWEg3UnDs1kBI",
+   "title": "ohnepixel is hammered",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 288,
+   "vph": 25.7,
+   "duration": 8.1,
+   "created_at": "2026-11-24T17:32:00Z",
+   "label": "Ohnepixel is hammered",
+   "start": 351.8
+  },
+  {
+   "id": "CleverNimbleDiamondOMGScoots-KRf5KQhUyi2Z_QyH",
+   "url": "https://www.twitch.tv/ohnepixel/clip/CleverNimbleDiamondOMGScoots-KRf5KQhUyi2Z_QyH",
+   "title": "photo for later",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 160,
+   "vph": 16.3,
+   "duration": 30,
+   "created_at": "2026-11-24T18:17:53Z",
+   "label": "Photo for later",
+   "start": 360.0
+  },
+  {
+   "id": "GiftedBlindingAsteriskCeilingCat-Po7aiOcF0X0ZcoYP",
+   "url": "https://www.twitch.tv/theburntpeanut/clip/GiftedBlindingAsteriskCeilingCat-Po7aiOcF0X0ZcoYP",
+   "title": "junk",
+   "streamer": "TheBurntPeanut",
+   "login": "theburntpeanut",
+   "views": 281,
+   "vph": 7.1,
+   "duration": 30,
+   "created_at": "2026-11-24T03:34:02Z",
+   "label": "Junk",
+   "start": 390.1
+  },
+  {
+   "id": "CrypticObedientPieDAESuppy-TaJGC_awofOur14G",
+   "url": "https://www.twitch.tv/jerma985/clip/CrypticObedientPieDAESuppy-TaJGC_awofOur14G",
+   "title": "AHH",
+   "streamer": "Jerma985",
+   "login": "jerma985",
+   "views": 253,
+   "vph": 5.7,
+   "duration": 13.5,
+   "created_at": "2026-11-24T01:33:25Z",
+   "label": "AHH",
+   "start": 420.2
+  },
+  {
+   "id": "ColdJollyPoxOSkomodo-uUzhkg3k06Ssttuy",
+   "url": "https://www.twitch.tv/kaicenat/clip/ColdJollyPoxOSkomodo-uUzhkg3k06Ssttuy",
+   "title": "dont call police",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 269,
+   "vph": 5.1,
+   "duration": 30,
+   "created_at": "2026-11-23T21:49:36Z",
+   "label": "Dont call police",
+   "start": 433.8
+  },
+  {
+   "id": "PuzzledDarlingPlumageDoggo-4Oro7ttneYFwEw0-",
+   "url": "https://www.twitch.tv/jerma985/clip/PuzzledDarlingPlumageDoggo-4Oro7ttneYFwEw0-",
+   "title": "mini golf weirdo ruins everything",
+   "streamer": "Jerma985",
+   "login": "jerma985",
+   "views": 263,
+   "vph": 5.0,
+   "duration": 29.9,
+   "created_at": "2026-11-23T21:58:16Z",
+   "label": "Mini golf weirdo ruins everything",
+   "start": 463.9
+  },
+  {
+   "id": "HotFrailMeatloafDancingBanana-urOungVg8YUI71cR",
+   "url": "https://www.twitch.tv/jerma985/clip/HotFrailMeatloafDancingBanana-urOungVg8YUI71cR",
+   "title": "jerma finds GLORP STATION",
+   "streamer": "Jerma985",
+   "login": "jerma985",
+   "views": 215,
+   "vph": 4.8,
    "duration": 23,
-   "created_at": "2026-11-23T15:40:20Z",
-   "label": "Kai hits a cyclist picking a song",
-   "start": 120.7
+   "created_at": "2026-11-24T01:26:44Z",
+   "label": "Jerma finds GLORP STATION",
+   "start": 493.9
+  },
+  {
+   "id": "ImportantFuriousGuanacoPhilosoraptor--NwLWyhtTWxMEVuJ",
+   "url": "https://www.twitch.tv/jynxzi/clip/ImportantFuriousGuanacoPhilosoraptor--NwLWyhtTWxMEVuJ",
+   "title": "GET OUT",
+   "streamer": "Jynxzi",
+   "login": "jynxzi",
+   "views": 233,
+   "vph": 4.8,
+   "duration": 30,
+   "created_at": "2026-11-23T23:44:38Z",
+   "label": "GET OUT",
+   "start": 517.0
+  },
+  {
+   "id": "AggressiveFancyArmadilloKeepo-m2AC5oysDzwSKIWr",
+   "url": "https://www.twitch.tv/ishowspeed/clip/AggressiveFancyArmadilloKeepo-m2AC5oysDzwSKIWr",
+   "title": "\u2026\u2026",
+   "streamer": "IShowSpeed",
+   "login": "ishowspeed",
+   "views": 246,
+   "vph": 4.6,
+   "duration": 60,
+   "created_at": "2026-11-23T21:41:05Z",
+   "label": "GTA 6",
+   "start": 547.1
+  },
+  {
+   "id": "BrainyEnticingSeahorseVoteYea-5-OrwtjzBPDlzHWf",
+   "url": "https://www.twitch.tv/kaicenat/clip/BrainyEnticingSeahorseVoteYea-5-OrwtjzBPDlzHWf",
+   "title": "lost his money",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 193,
+   "vph": 4.5,
+   "duration": 32.4,
+   "created_at": "2026-11-24T02:02:08Z",
+   "label": "Lost his money",
+   "start": 607.2
+  },
+  {
+   "id": "BraveSwissLeopardNotATK-uMyD5Dwj2i5uSxSO",
+   "url": "https://www.twitch.tv/theburntpeanut/clip/BraveSwissLeopardNotATK-uMyD5Dwj2i5uSxSO",
+   "title": "Gonna get sued. Sorry.",
+   "streamer": "TheBurntPeanut",
+   "login": "theburntpeanut",
+   "views": 200,
+   "vph": 4.5,
+   "duration": 14.7,
+   "created_at": "2026-11-24T01:18:51Z",
+   "label": "Gonna get sued. Sorry",
+   "start": 639.7
+  },
+  {
+   "id": "OnerousBluePeppermintShazBotstix-RZzd2ou1uSE_E7r7",
+   "url": "https://www.twitch.tv/theburntpeanut/clip/OnerousBluePeppermintShazBotstix-RZzd2ou1uSE_E7r7",
+   "title": "HOLY HELL!!",
+   "streamer": "TheBurntPeanut",
+   "login": "theburntpeanut",
+   "views": 169,
+   "vph": 4.2,
+   "duration": 26,
+   "created_at": "2026-11-24T03:15:15Z",
+   "label": "HOLY HELL",
+   "start": 654.5
+  },
+  {
+   "id": "SmilingSilkyTigerGOWSkull-Q8cmIQd604Uco4Em",
+   "url": "https://www.twitch.tv/jerma985/clip/SmilingSilkyTigerGOWSkull-Q8cmIQd604Uco4Em",
+   "title": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+   "streamer": "Jerma985",
+   "login": "jerma985",
+   "views": 191,
+   "vph": 3.6,
+   "duration": 60,
+   "created_at": "2026-11-23T21:44:19Z",
+   "label": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+   "start": 680.6
+  },
+  {
+   "id": "CarelessRichCrocodileTwitchRPG-RpCys0H9vinom80_",
+   "url": "https://www.twitch.tv/kaicenat/clip/CarelessRichCrocodileTwitchRPG-RpCys0H9vinom80_",
+   "title": "gg",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 174,
+   "vph": 3.5,
+   "duration": 30,
+   "created_at": "2026-11-23T23:10:58Z",
+   "label": "Gg",
+   "start": 740.7
+  },
+  {
+   "id": "BitterStylishLemurSSSsss-bthG6IGi-VdPRf1u",
+   "url": "https://www.twitch.tv/kaicenat/clip/BitterStylishLemurSSSsss-bthG6IGi-VdPRf1u",
+   "title": "ron and marlon?",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 311,
+   "vph": 100.9,
+   "duration": 40.4,
+   "created_at": "2026-11-24T22:27:30Z",
+   "label": "Ron and marlon?",
+   "start": 770.8
   }
  ],
  "thumbnails": [
@@ -62,34 +309,34 @@
    "file": "episode/2026-11-24/thumb_A.jpg",
    "base": "episode/2026-11-24/base_A.jpg",
    "spot": [
-    0.48,
-    0.7
+    0.317,
+    0.47
    ],
-   "mark": "none",
-   "text": "SENT FLYING",
-   "from_clip": "HealthyRelentlessGullDoggo-YOHf9n4kX9uhQbgM"
+   "mark": "arrow",
+   "text": "NO WAY",
+   "from_clip": "LitigiousNaiveHorseradishPeteZaroll-8_k23aP-Jtri0HQd"
   },
   {
    "file": "episode/2026-11-24/thumb_B.jpg",
    "base": "episode/2026-11-24/base_B.jpg",
    "spot": [
-    0.45,
-    0.5
+    0.567,
+    0.759
    ],
-   "mark": "none",
-   "text": "HELI DOWN",
-   "from_clip": "PeppySpoopyCoyoteUncleNox-bwFBqWOHypOnUTnQ"
+   "mark": "arrow",
+   "text": "INSANE",
+   "from_clip": "BitterStylishLemurSSSsss-bthG6IGi-VdPRf1u"
   },
   {
    "file": "episode/2026-11-24/thumb_C.jpg",
    "base": "episode/2026-11-24/base_C.jpg",
    "spot": [
-    0.5,
-    0.6
+    0.548,
+    0.644
    ],
-   "mark": "none",
-   "text": "CAMP RAID",
-   "from_clip": "CuteDoubtfulTeaDendiFace-Fbbl3Ga2fZ06p37b"
+   "mark": "circle",
+   "text": "#1",
+   "from_clip": "PrettiestFastHamJebaited-dmfYeM9YNFLNsFxB"
   }
  ],
  "screened_out": [
@@ -98,21 +345,9 @@
    "streamer": "ohnePixel",
    "title": "bodysuits",
    "why": "nudity (BUTTOCKS_EXPOSED)"
-  },
-  {
-   "id": "EasySnappyCobraTF2John-uaCLH3DHCkapzYKe",
-   "streamer": "ohnePixel",
-   "title": "\ud83d\udd34[DROPS] GTA 6 FULL PLAYTHROUGH...\ud83d\udd34",
-   "why": "nudity (FEMALE_BREAST_EXPOSED)"
-  },
-  {
-   "id": "SlipperyDeafVampirePeteZarollTie-LT0fGymarhUPUEMW",
-   "streamer": "caseoh_",
-   "title": "oh my gawd",
-   "why": "nudity (BUTTOCKS_EXPOSED)"
   }
  ],
- "default_title": "GTA 6 Best Clips of the Day #11",
+ "default_title": "GTA 6 Best Clips of the Day #12",
  "release": "ep-2026-11-24",
- "built_at": "2026-11-24T15:15:50Z"
+ "built_at": "2026-11-24T23:11:47Z"
 }

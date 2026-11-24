@@ -953,5 +953,30 @@
   "id": "SpineyTallBisonDxCat-R5ZCikcUxXVhXlnL",
   "reason": "blood visible on characters around 3s during execution cutscene",
   "at": "2026-11-24T17:41:53Z"
+ },
+ {
+  "id": "PuzzledApatheticPuffinBleedPurple-8pIesdaJeK2hwDfy",
+  "reason": "story cutscene, blood on character shirt, Kai only a tiny corner cam (not main focus)",
+  "at": "2026-11-24T17:45:54Z"
+ },
+ {
+  "id": "TenaciousHelplessCormorantCurseLit-h-_RRjrzqSO3vUP8",
+  "reason": "rating 4: quiet story phone cutscene, no payoff, title doesn't match",
+  "at": "2026-11-24T17:46:03Z"
+ },
+ {
+  "id": "AstuteLovelyRatSpicyBoy-NWlWeyT5uRwbo65F",
+  "reason": "rating 4: mostly radio menu, Kai only a tiny corner cam",
+  "at": "2026-11-24T17:46:10Z"
+ },
+ {
+  "id": "AbrasiveIncredulousFungusBleedPurple-2chv_JZEu1mWNWKI",
+  "reason": "strip club / sexual content",
+  "at": "2026-11-24T17:46:18Z"
+ },
+ {
+  "id": "UnusualCuriousRingDansGame-ahGxuNE7WeVPiNYX",
+  "reason": "rating 4: low energy, mostly map menu, complaint with no payoff",
+  "at": "2026-11-24T17:46:29Z"
  }
 ]

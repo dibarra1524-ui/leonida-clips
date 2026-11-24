@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 56. Scored (20h+ old): 46. Exploration: 25%.
+Posts: 56. Scored (20h+ old): 48. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -8,135 +8,135 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 | option | evidence | lift |
 |---|---|---|
-| low | 6.7 | +0.01 |
-| high | 17.9 | -0.02 |
-| mid | 6.4 | -0.08 |
+| low | 6.5 | +0.01 |
+| high | 19.3 | -0.02 |
+| mid | 6.2 | -0.08 |
 
 ## gene:cap_pos
 
 | option | evidence | lift |
 |---|---|---|
-| mid | 18.0 | +0.04 |
-| low | 14.0 | -0.10 |
+| mid | 17.4 | +0.04 |
+| low | 15.5 | -0.09 |
 
 ## gene:cap_size
 
 | option | evidence | lift |
 |---|---|---|
-| 72 | 9.1 | +0.06 |
-| 84 | 11.1 | -0.03 |
-| 96 | 11.7 | -0.07 |
+| 72 | 8.8 | +0.06 |
+| 84 | 11.7 | -0.03 |
+| 96 | 12.3 | -0.06 |
 
 ## gene:ending
 
 | option | evidence | lift |
 |---|---|---|
-| runon | 9.7 | -0.01 |
-| hard | 5.1 | -0.06 |
+| runon | 10.3 | -0.02 |
+| hard | 6.0 | -0.04 |
 
 ## gene:hook_case
 
 | option | evidence | lift |
 |---|---|---|
-| title | 23.0 | -0.00 |
-| upper | 9.0 | -0.05 |
+| title | 23.2 | -0.01 |
+| upper | 9.7 | -0.04 |
 
 ## gene:hook_style
 
 | option | evidence | lift |
 |---|---|---|
-| question | 7.1 | +0.02 |
-| reaction | 10.8 | +0.01 |
-| streamer | 5.8 | -0.04 |
-| stakes | 8.2 | -0.06 |
+| question | 6.9 | +0.02 |
+| reaction | 10.5 | +0.01 |
+| streamer | 5.6 | -0.03 |
+| stakes | 9.9 | -0.06 |
 
 ## gene:max_len
 
 | option | evidence | lift |
 |---|---|---|
-| 20 | 12.1 | +0.02 |
-| 45 | 5.7 | -0.03 |
-| 60 | 7.5 | -0.03 |
-| 30 | 6.7 | -0.04 |
+| 20 | 11.7 | +0.02 |
+| 60 | 8.2 | -0.02 |
+| 45 | 5.5 | -0.03 |
+| 30 | 7.4 | -0.05 |
 
 ## gene:opener
 
 | option | evidence | lift |
 |---|---|---|
-| cold | 8.0 | +0.02 |
-| normal | 6.9 | -0.08 |
+| cold | 8.7 | +0.02 |
+| normal | 7.6 | -0.08 |
 
 ## gene:punch
 
 | option | evidence | lift |
 |---|---|---|
-| off | 2.7 | -0.01 |
-| on | 5.7 | -0.07 |
+| off | 3.6 | -0.03 |
+| on | 6.5 | -0.05 |
 
 ## gene:trim
 
 | option | evidence | lift |
 |---|---|---|
-| smart | 16.6 | -0.00 |
-| none | 15.4 | -0.04 |
+| smart | 18.0 | -0.01 |
+| none | 14.8 | -0.04 |
 
 ## hour
 
 | option | evidence | lift |
 |---|---|---|
-| 18 | 7.8 | +0.08 |
-| 12 | 3.2 | -0.01 |
-| 09 | 8.9 | -0.03 |
-| 00 | 1.2 | -0.04 |
+| 18 | 7.5 | +0.08 |
+| 12 | 3.1 | -0.00 |
+| 09 | 8.6 | -0.03 |
+| 00 | 1.1 | -0.04 |
 | 06 | 1.1 | -0.04 |
-| 15 | 5.4 | -0.05 |
-| 21 | 4.3 | -0.06 |
+| 15 | 7.2 | -0.05 |
+| 21 | 4.2 | -0.06 |
 
 ## layout
 
 | option | evidence | lift |
 |---|---|---|
 | full | 0.5 | +0.12 |
-| cam | 31.5 | -0.03 |
+| cam | 32.4 | -0.03 |
 
 ## len
 
 | option | evidence | lift |
 |---|---|---|
-| <20 | 6.4 | +0.02 |
-| 50+ | 1.2 | -0.01 |
-| 20-35 | 21.9 | -0.02 |
-| 35-50 | 2.4 | -0.08 |
+| <20 | 7.2 | +0.03 |
+| 50+ | 1.1 | -0.01 |
+| 20-35 | 22.2 | -0.02 |
+| 35-50 | 2.3 | -0.08 |
 
 ## streamer
 
 | option | evidence | lift |
 |---|---|---|
 | lirik | 0.5 | +0.12 |
-| yourragegaming | 4.5 | +0.07 |
-| diegoloveless | 1.7 | +0.07 |
-| kaicenat | 3.1 | +0.00 |
+| yourragegaming | 5.4 | +0.07 |
+| diegoloveless | 2.7 | +0.03 |
+| kaicenat | 3.0 | +0.01 |
 | caseoh_ | 1.0 | -0.00 |
-| ohnepixel | 1.1 | -0.00 |
+| ohnepixel | 1.0 | -0.00 |
 | xqc | 1.4 | -0.02 |
-| silky | 2.3 | -0.03 |
-| asianjeff | 3.5 | -0.04 |
-| lacy | 5.4 | -0.04 |
-| darealboeshi | 3.5 | -0.04 |
-| bobby_vanriper | 4.0 | -0.13 |
+| silky | 2.2 | -0.03 |
+| asianjeff | 3.4 | -0.04 |
+| lacy | 5.3 | -0.04 |
+| darealboeshi | 3.3 | -0.04 |
+| bobby_vanriper | 3.9 | -0.13 |
 
 ## topic
 
 | option | evidence | lift |
 |---|---|---|
-| rage | 1.6 | +0.14 |
+| rage | 1.5 | +0.14 |
 | money | 0.6 | +0.02 |
-| npc | 10.3 | -0.00 |
-| police | 3.6 | -0.01 |
-| car | 8.5 | -0.04 |
-| funny | 10.8 | -0.06 |
-| weapon | 5.2 | -0.07 |
-| map | 2.7 | -0.09 |
+| npc | 11.0 | +0.00 |
+| police | 3.5 | -0.01 |
+| car | 9.2 | -0.04 |
+| funny | 11.5 | -0.05 |
+| weapon | 5.0 | -0.07 |
+| map | 2.6 | -0.09 |
 | glitch | 1.7 | -0.10 |
 
 ## Trending right now (from the last fetch)

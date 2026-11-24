@@ -1946,6 +1946,34 @@
    },
    "hook": "Silky could not hold back tears",
    "duration": 5.52
+  },
+  {
+   "id": "AcceptableTrustworthySparrowEagleEye-Jo6bN_x3rGVWQETy",
+   "media_id": "18403244752166161",
+   "posted_at": "2026-11-24T19:01:11Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "low",
+    "hook_style": "stakes",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "hard",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "35-50",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "topic:funny": 1,
+    "topic:npc": 1,
+    "hour": "12"
+   },
+   "hook": "Boeshi vs the whole street, watch",
+   "duration": 39.21
   }
  ]
 }

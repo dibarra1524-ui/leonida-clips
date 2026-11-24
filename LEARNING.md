@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 54. Scored (20h+ old): 46. Exploration: 25%.
+Posts: 55. Scored (20h+ old): 46. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -141,19 +141,19 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 ## Trending right now (from the last fetch)
 
-Topics: npc 1.00, car 0.49, funny 0.34, money 0.32, map 0.20, weapon 0.17, police 0.10
+Topics: npc 1.00, car 0.57, money 0.54, police 0.46, funny 0.40, map 0.20, glitch 0.10, rage 0.04
 
-Streamers: caseoh_ 1.00, xqc 0.56, theburntpeanut 0.42, cohhcarnage 0.23, ohnepixel 0.21, lirik 0.17, avoidingthepuddle 0.14, promised_consort_abearbis 0.11
+Streamers: ohnepixel 1.00, kaicenat 0.63, caseoh_ 0.57, lirik 0.52, jynxzi 0.34, ishowspeed 0.27, avoidingthepuddle 0.25, cohhcarnage 0.23
 
 Hook ideas from trending Shorts titles:
 
-- Whatever Car You Steal, I’ll Pay For!
+- 🔴PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE!
+- 🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!
+- Grand Theft Auto VI: Official Cover Art Reveal
 - GTA 6 - Stealing a Jet From the Military Base
 - GTA 6 (Grand Theft Auto VI) - Official Trailer
+- Grand Theft Auto VI: An Extended Look | Now Playing | Netflix
 - GTA 6 – CRAZY 5-Star Police Chase & Rampage at Vice Ocean Beach!
 - The GTA 6 backlash is getting out of hand..
 - GTA 6 User Reviews Are Finally Out..
-- GTA 6 WTF and Funny Moments! #3
-- GTA 6: 25 Things You NEED TO KNOW
-- Grand Theft Auto 6 Gameplay and Impressions...
-- What Happens If You Get 6 Stars in GTA 6
+- GTA 6 just broke the entire internet..

@@ -1821,6 +1821,32 @@
    },
    "hook": "Can Boeshi survive this airboat brawl?",
    "duration": 20.0
+  },
+  {
+   "id": "BusyBrightDelicataTakeNRG-18Y8Tol31QN1KnrR",
+   "media_id": "18028899026869853",
+   "posted_at": "2026-11-24T05:44:03Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 72,
+    "cap_pos": "low",
+    "hook_style": "question",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "runon",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:weapon": 1,
+    "hour": "21"
+   },
+   "hook": "Who taught YourRAGE's girl to fight?",
+   "duration": 26.75
   }
  ]
 }

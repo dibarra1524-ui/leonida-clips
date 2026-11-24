@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
  "episode": 11,
- "length_s": 234,
+ "length_s": 144,
  "target_s": 900,
  "clips": [
   {
@@ -18,19 +18,6 @@
    "start": 0.0
   },
   {
-   "id": "RudeBlueStapleResidentSleeper-hN6aHqGrcSgwB2Dl",
-   "url": "https://www.twitch.tv/tminnzy/clip/RudeBlueStapleResidentSleeper-hN6aHqGrcSgwB2Dl",
-   "title": "bro",
-   "streamer": "Tminnzy",
-   "login": "tminnzy",
-   "views": 49706,
-   "vph": 1008.3,
-   "duration": 30,
-   "created_at": "2026-11-23T15:01:45Z",
-   "label": "Tminnzy jumps out of the plane",
-   "start": 30.5
-  },
-  {
    "id": "CuteDoubtfulTeaDendiFace-Fbbl3Ga2fZ06p37b",
    "url": "https://www.twitch.tv/caseoh_/clip/CuteDoubtfulTeaDendiFace-Fbbl3Ga2fZ06p37b",
    "title": "beyond belief",
@@ -41,20 +28,7 @@
    "duration": 60,
    "created_at": "2026-11-24T14:00:19Z",
    "label": "CaseOh shoots up a backwoods camp",
-   "start": 60.6
-  },
-  {
-   "id": "WrongTolerantKangarooDBstyle-9doWn2icz0aOnvU0",
-   "url": "https://www.twitch.tv/jerma985/clip/WrongTolerantKangarooDBstyle-9doWn2icz0aOnvU0",
-   "title": "Patrick Star Screaming",
-   "streamer": "Jerma985",
-   "login": "jerma985",
-   "views": 474,
-   "vph": 13.8,
-   "duration": 29.9,
-   "created_at": "2026-11-23T21:43:27Z",
-   "label": "Jerma torches two ATV riders",
-   "start": 120.7
+   "start": 30.5
   },
   {
    "id": "PeppySpoopyCoyoteUncleNox-bwFBqWOHypOnUTnQ",
@@ -66,8 +40,8 @@
    "vph": 4.2,
    "duration": 30,
    "created_at": "2026-11-23T16:14:08Z",
-   "label": "Speed's boat chase under helicopter fire",
-   "start": 150.7
+   "label": "Speed downs a chopper from a boat",
+   "start": 90.6
   },
   {
    "id": "AstuteLovelyRatSpicyBoy-NWlWeyT5uRwbo65F",
@@ -80,20 +54,7 @@
    "duration": 23,
    "created_at": "2026-11-23T15:40:20Z",
    "label": "Kai hits a cyclist picking a song",
-   "start": 180.8
-  },
-  {
-   "id": "SparklingDeliciousElephantDuDudu-7ZtEIG3eWcRoA8BV",
-   "url": "https://www.twitch.tv/jynxzi/clip/SparklingDeliciousElephantDuDudu-7ZtEIG3eWcRoA8BV",
-   "title": "jynxzi checks on nickeh30",
-   "streamer": "Jynxzi",
-   "login": "jynxzi",
-   "views": 2213,
-   "vph": 88.1,
-   "duration": 30,
-   "created_at": "2026-11-24T02:06:02Z",
-   "label": "Nick shoots down a helicopter",
-   "start": 203.9
+   "start": 120.7
   }
  ],
  "thumbnails": [
@@ -101,34 +62,34 @@
    "file": "episode/2026-11-24/thumb_A.jpg",
    "base": "episode/2026-11-24/base_A.jpg",
    "spot": [
-    0.48,
-    0.7
+    0.575,
+    0.507
    ],
-   "mark": "none",
-   "text": "SENT FLYING",
-   "from_clip": "HealthyRelentlessGullDoggo-YOHf9n4kX9uhQbgM"
+   "mark": "arrow",
+   "text": "NO WAY",
+   "from_clip": "CuteDoubtfulTeaDendiFace-Fbbl3Ga2fZ06p37b"
   },
   {
    "file": "episode/2026-11-24/thumb_B.jpg",
    "base": "episode/2026-11-24/base_B.jpg",
    "spot": [
-    0.6,
-    0.5
+    0.346,
+    0.352
    ],
-   "mark": "none",
-   "text": "ON FIRE?!",
-   "from_clip": "WrongTolerantKangarooDBstyle-9doWn2icz0aOnvU0"
+   "mark": "arrow",
+   "text": "FAILS",
+   "from_clip": "HealthyRelentlessGullDoggo-YOHf9n4kX9uhQbgM"
   },
   {
    "file": "episode/2026-11-24/thumb_C.jpg",
    "base": "episode/2026-11-24/base_C.jpg",
    "spot": [
-    0.5,
-    0.4
+    0.265,
+    0.185
    ],
-   "mark": "none",
-   "text": "HELI DOWN",
-   "from_clip": "SparklingDeliciousElephantDuDudu-7ZtEIG3eWcRoA8BV"
+   "mark": "circle",
+   "text": "SENT FLYING",
+   "from_clip": "PeppySpoopyCoyoteUncleNox-bwFBqWOHypOnUTnQ"
   }
  ],
  "screened_out": [
@@ -153,5 +114,5 @@
  ],
  "default_title": "GTA 6 Best Clips of the Day #11",
  "release": "ep-2026-11-24",
- "built_at": "2026-11-24T15:06:41Z"
+ "built_at": "2026-11-24T15:15:50Z"
 }

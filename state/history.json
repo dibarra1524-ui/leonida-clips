@@ -1743,6 +1743,32 @@
     "age_h": 3.0
    },
    "score": 2.504
+  },
+  {
+   "id": "PrettyPerfectHippoPRChase-6pvY1mnEz4JjZam_",
+   "media_id": "18115785950143579",
+   "posted_at": "2026-11-24T02:43:28Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "none",
+    "cap_size": 96,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "runon",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "mid",
+    "topic:npc": 1,
+    "hour": "18"
+   },
+   "hook": "Boeshi is too proud of this",
+   "duration": 30.0
   }
  ]
 }

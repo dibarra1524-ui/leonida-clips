@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 58. Scored (20h+ old): 50. Exploration: 25%.
+Posts: 59. Scored (20h+ old): 50. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -141,9 +141,9 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 ## Trending right now (from the last fetch)
 
-Topics: npc 1.00, car 0.57, money 0.54, police 0.46, funny 0.40, map 0.20, glitch 0.10, rage 0.04
+Topics: money 1.00, car 0.99, funny 0.85, police 0.56, map 0.10, npc 0.10, glitch 0.10
 
-Streamers: ohnepixel 1.00, kaicenat 0.63, caseoh_ 0.57, lirik 0.52, jynxzi 0.34, ishowspeed 0.27, avoidingthepuddle 0.25, cohhcarnage 0.23
+Streamers: caseoh_ 1.00, hasanabi 0.93, jynxzi 0.77, kaicenat 0.51, ludwig 0.33, hutchmf 0.32, shroud 0.32, ohnepixel 0.25
 
 Hook ideas from trending Shorts titles:
 
@@ -154,6 +154,6 @@ Hook ideas from trending Shorts titles:
 - GTA 6 (Grand Theft Auto VI) - Official Trailer
 - Grand Theft Auto VI: An Extended Look | Now Playing | Netflix
 - GTA 6 – CRAZY 5-Star Police Chase & Rampage at Vice Ocean Beach!
-- The GTA 6 backlash is getting out of hand..
+- 🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 1)
+- Do GTA 6 NPCs Actually Have Lives?
 - GTA 6 User Reviews Are Finally Out..
-- GTA 6 just broke the entire internet..

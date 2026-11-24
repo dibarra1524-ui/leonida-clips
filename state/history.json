@@ -2124,6 +2124,32 @@
     "age_h": 2.9
    },
    "score": 2.499
+  },
+  {
+   "id": "GiftedApatheticChickpeaDancingBanana-0ljDwel9zpheZA6u",
+   "media_id": "18391420033227172",
+   "posted_at": "2026-11-24T23:59:55Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "smart",
+    "cap_size": 72,
+    "cap_pos": "mid",
+    "hook_style": "streamer",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "runon",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "bobby_vanriper",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "mid",
+    "topic:glitch": 1,
+    "hour": "15"
+   },
+   "hook": "Bobby VanRiper steals Jason's fries",
+   "duration": 20.25
   }
  ]
 }

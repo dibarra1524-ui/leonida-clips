@@ -1,0 +1,15 @@
+{
+ "verdict": "yes",
+ "title": "IShowSpeed Shot Down a GTA 6 Helicopter From a Boat",
+ "thumbnail": "episode/2026-11-24/thumb_B.jpg",
+ "faults_fixed": [
+  "Tminnzy plane clip had story-mission dialogue (drug plug) -> dropped",
+  "Nick/Jynxzi rooftop clip possibly a cutscene/romantic scene -> dropped",
+  "Jerma ATV clip: motorbike passenger possibly topless -> dropped",
+  "thumb B HUD fragment + ATV/motorbike mismatch -> thumbnails rebuilt from clean crops (car flip, heli down, camp raid)",
+  "auto thumbnails had facecams and 'COPS?!' with no cops -> replaced",
+  "labels over top-left facecams (CaseOh) -> new _right label option",
+  "15 clips dropped in round 0 (cutscenes, dead air, pause menus, sexual titles/content, likely repeat of yesterday's ohnePixel crash)"
+ ],
+ "rounds": 2
+}

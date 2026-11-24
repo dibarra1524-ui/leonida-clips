@@ -1,0 +1,37 @@
+{
+ "id": "DarlingGiftedCheeseWoofer-AYlHEKGmN_awQ6yz",
+ "streamer": "ohnePixel",
+ "login": "ohnepixel",
+ "title": "ohne is a dick",
+ "views": 3380,
+ "created_at": "2026-11-23T17:21:07Z",
+ "duration": 24.3,
+ "clip_url": "https://www.twitch.tv/ohnepixel/clip/DarlingGiftedCheeseWoofer-AYlHEKGmN_awQ6yz",
+ "platform": "twitch",
+ "credit": "twitch.tv/ohnepixel",
+ "layout": "cam",
+ "transcript": "Whoa, whoa, whoa sure was in the bird this bag. There's no prongs just hey, yo My darling. It is too much Isn't that What the fuck",
+ "score": 161.5,
+ "campaign": null,
+ "genes": {
+  "max_len": 20,
+  "trim": "none",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "question",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 21.21,
+ "action": 0.745,
+ "action_parts": {
+  "audio": 0.98,
+  "motion": 0.84,
+  "talk": 0.41,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-24T04:47:57Z",
+ "hot": false
+}

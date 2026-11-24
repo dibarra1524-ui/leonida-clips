@@ -1,0 +1,37 @@
+{
+ "id": "BlueBlitheMarjoramWoofer-ZSasg_aIiI5hO6pA",
+ "streamer": "caseoh_",
+ "login": "caseoh_",
+ "title": "nice scooter",
+ "views": 4383,
+ "created_at": "2026-11-23T13:59:35Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/caseoh_/clip/BlueBlitheMarjoramWoofer-ZSasg_aIiI5hO6pA",
+ "platform": "twitch",
+ "credit": "twitch.tv/caseoh_",
+ "layout": "cam",
+ "transcript": "You can't elisa with the five, thank you. Nice shoot, already!",
+ "score": 218.0,
+ "campaign": null,
+ "genes": {
+  "max_len": 20,
+  "trim": "none",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "upper",
+  "opener": "normal",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 20.0,
+ "action": 0.391,
+ "action_parts": {
+  "audio": 0.18,
+  "motion": 1.0,
+  "talk": 0.19,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-24T04:47:57Z",
+ "hot": false
+}

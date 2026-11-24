@@ -12,3 +12,4 @@ Daily episodes and weekly research notes. Newest at the bottom.
 - 2026-11-21 episode #5 "Lacy Got Sent Flying in GTA 6" https://youtu.be/oFHQY_Jby6g (5 clips, 3:40, thumbnail thumb_A.jpg)
 - 2026-11-22 episode #7 "Jynxzi Plowed Through a GTA 6 Police Roadblock" https://youtu.be/AaLCI9ao5cs (7 clips, 3:57, thumbnail thumb_A.jpg)
 - 2026-11-23 episode #9 "IShowSpeed Found an Alien in GTA 6" https://youtu.be/VjRNakK0534 (3 clips, 1:12, thumbnail thumb_A.jpg)
+- 2026-11-24 episode #11 "IShowSpeed Shot Down a GTA 6 Helicopter From a Boat" https://youtu.be/TMEUFoBRnrs (4 clips, 2:24, thumbnail thumb_B.jpg)

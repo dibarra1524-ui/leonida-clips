@@ -2433,6 +2433,32 @@
    },
    "hook": "LACY can't believe this cutscene",
    "duration": 11.95
+  },
+  {
+   "id": "COMBO-darealboeshi-11252055",
+   "media_id": "18119254910015940",
+   "posted_at": "2026-11-25T20:57:27Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 96,
+    "cap_pos": "mid",
+    "hook_style": "streamer",
+    "hook_case": "upper",
+    "opener": "cold",
+    "ending": "hard",
+    "punch": "off",
+    "format": "combo"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "hour": "12"
+   },
+   "hook": "Boeshi's 2 wildest GTA 6 moments",
+   "duration": 28.0
   }
  ]
 }

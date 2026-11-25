@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 67. Scored (20h+ old): 60. Exploration: 25%.
+Posts: 68. Scored (20h+ old): 60. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 
@@ -141,19 +141,19 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 ## Trending right now (from the last fetch)
 
-Topics: funny 1.00, car 0.48, map 0.24, police 0.10, glitch 0.10
+Topics: map 1.00, npc 1.00, funny 0.97, police 0.25, car 0.10
 
-Streamers: ohnepixel 1.00, lilypichu 0.92, kaicenat 0.84, caseoh_ 0.76, cohhcarnage 0.51, nickmercs 0.21, kyedae 0.17, zerkaa 0.14
+Streamers: lilypichu 1.00, lirik 0.45, jerma985 0.38, shroud 0.26, nickeh30 0.25, nickmercs 0.23, elajjaz 0.22, missmikkaa 0.20
 
 Hook ideas from trending Shorts titles:
 
+- 🔴PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE!
 - 🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!
 - Grand Theft Auto VI: Official Cover Art Reveal
 - GTA 6 - Stealing a Jet From the Military Base
 - GTA 6 (Grand Theft Auto VI) - Official Trailer
-- Grand Theft Auto VI: An Extended Look | Now Playing | Netflix
 - GTA 6 – CRAZY 5-Star Police Chase & Rampage at Vice Ocean Beach!
+- Grand Theft Auto VI: An Extended Look | Now Playing | Netflix
+- 🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 1)
 - iShowSpeed Finds A HULK-LIKE MONSTER In GTA 6 😱
 - GTA 6 User Reviews Are Finally Out..
-- GTA 6 WTF and Funny Moments! #2
-- GTA 6 just broke the entire internet..

@@ -2356,6 +2356,31 @@
     "age_h": 11.9
    },
    "score": 2.297
+  },
+  {
+   "id": "CloudyHungrySkunkDancingBanana--ctR5SIp02nBTel0",
+   "media_id": "18487295185114716",
+   "posted_at": "2026-11-25T17:44:53Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "none",
+    "cap_size": 72,
+    "cap_pos": "mid",
+    "hook_style": "stakes",
+    "hook_case": "title",
+    "opener": "normal",
+    "ending": "hard",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "lacy",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "mid",
+    "hour": "09"
+   },
+   "hook": "Wait till LACY defends the house",
+   "duration": 30.02
   }
  ]
 }

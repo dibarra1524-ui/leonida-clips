@@ -1,20 +1,20 @@
 {
  "date": "2026-11-25",
  "episode": 13,
- "length_s": 616,
+ "length_s": 235,
  "target_s": 900,
  "clips": [
   {
-   "id": "UgliestBombasticLyrebirdGrammarKing-dnKxm2XupKOuVp3Z",
-   "url": "https://www.twitch.tv/ohnepixel/clip/UgliestBombasticLyrebirdGrammarKing-dnKxm2XupKOuVp3Z",
-   "title": "s1mple",
-   "streamer": "ohnePixel",
-   "login": "ohnepixel",
-   "views": 2312,
-   "vph": 43.8,
-   "duration": 39.2,
-   "created_at": "2026-11-24T13:33:34Z",
-   "label": "S1mple",
+   "id": "LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra",
+   "url": "https://www.twitch.tv/jynxzi/clip/LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra",
+   "title": "NAH JYNXZI",
+   "streamer": "Jynxzi",
+   "login": "jynxzi",
+   "views": 1227,
+   "vph": 42.3,
+   "duration": 11.4,
+   "created_at": "2026-11-25T00:15:51Z",
+   "label": "Jynxzi smashes into a horse paddock",
    "start": 0.0
   },
   {
@@ -27,21 +27,8 @@
    "vph": 35.9,
    "duration": 22.9,
    "created_at": "2026-11-25T06:49:56Z",
-   "label": "Did Lucia Get In?",
-   "start": 39.3
-  },
-  {
-   "id": "ScrumptiousScrumptiousTermiteOneHand-Xwoh07RAjNVlEb9H",
-   "url": "https://www.twitch.tv/ohnepixel/clip/ScrumptiousScrumptiousTermiteOneHand-Xwoh07RAjNVlEb9H",
-   "title": "addicted",
-   "streamer": "ohnePixel",
-   "login": "ohnepixel",
-   "views": 283,
-   "vph": 25.0,
-   "duration": 60,
-   "created_at": "2026-11-25T09:15:24Z",
-   "label": "Addicted",
-   "start": 62.2
+   "label": "Peanut taxis a jet from the cops",
+   "start": 11.4
   },
   {
    "id": "GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR",
@@ -53,60 +40,8 @@
    "vph": 21.2,
    "duration": 20,
    "created_at": "2026-11-25T02:34:27Z",
-   "label": "Parachute WASTED",
-   "start": 122.2
-  },
-  {
-   "id": "AdventurousDeafEmuDansGame-Z7ILCuiIPMCuEbX8",
-   "url": "https://www.twitch.tv/ohnepixel/clip/AdventurousDeafEmuDansGame-Z7ILCuiIPMCuEbX8",
-   "title": "mac-10-for-sale",
-   "streamer": "ohnePixel",
-   "login": "ohnepixel",
-   "views": 958,
-   "vph": 18.8,
-   "duration": 60,
-   "created_at": "2026-11-24T14:22:56Z",
-   "label": "Mac-10-for-sale",
-   "start": 142.3
-  },
-  {
-   "id": "FitBlitheDonkeyBrokeBack-lrhv-en2MLsbUAQc",
-   "url": "https://www.twitch.tv/ohnepixel/clip/FitBlitheDonkeyBrokeBack-lrhv-en2MLsbUAQc",
-   "title": "locked in",
-   "streamer": "ohnePixel",
-   "login": "ohnepixel",
-   "views": 564,
-   "vph": 17.1,
-   "duration": 38.5,
-   "created_at": "2026-11-24T22:23:55Z",
-   "label": "Locked in",
-   "start": 202.4
-  },
-  {
-   "id": "CheerfulConsiderateWaterCopyThis-Jkd9AEO0Xbre29I-",
-   "url": "https://www.twitch.tv/ohnepixel/clip/CheerfulConsiderateWaterCopyThis-Jkd9AEO0Xbre29I-",
-   "title": "nickeh30",
-   "streamer": "ohnePixel",
-   "login": "ohnepixel",
-   "views": 696,
-   "vph": 13.3,
-   "duration": 43.7,
-   "created_at": "2026-11-24T13:48:59Z",
-   "label": "Nickeh30",
-   "start": 241.0
-  },
-  {
-   "id": "IronicProtectiveSowCharlieBitMe-CGMz8mw2mmrwF9-d",
-   "url": "https://www.twitch.tv/jynxzi/clip/IronicProtectiveSowCharlieBitMe-CGMz8mw2mmrwF9-d",
-   "title": "baaaaaaaah",
-   "streamer": "Jynxzi",
-   "login": "jynxzi",
-   "views": 519,
-   "vph": 12.6,
-   "duration": 18.8,
-   "created_at": "2026-11-24T18:40:06Z",
-   "label": "Baaaaaaaah",
-   "start": 284.8
+   "label": "Hasan's rooftop parachute jump fails",
+   "start": 34.3
   },
   {
    "id": "PowerfulLitigiousPancakeLitFam-Iqa8P1Bfy2yGQvNw",
@@ -118,8 +53,8 @@
    "vph": 9.0,
    "duration": 31,
    "created_at": "2026-11-24T18:19:33Z",
-   "label": "Shut up",
-   "start": 303.6
+   "label": "Kai gets heckled at a car meet",
+   "start": 54.4
   },
   {
    "id": "FairHelpfulPistachioAllenHuhu-5JAr3GB-5If6Whey",
@@ -131,8 +66,8 @@
    "vph": 8.5,
    "duration": 29,
    "created_at": "2026-11-24T18:18:59Z",
-   "label": "Speed steals a car in GTA VI",
-   "start": 334.7
+   "label": "Speed steals a red pickup",
+   "start": 85.5
   },
   {
    "id": "GentleSmokyGrasshopperKeepo-QQuktfF4QaMrTIOf",
@@ -144,47 +79,8 @@
    "vph": 7.0,
    "duration": 30,
    "created_at": "2026-11-24T20:56:45Z",
-   "label": "GTA 6",
-   "start": 363.8
-  },
-  {
-   "id": "BelovedAntediluvianPineappleRuleFive-vr7KvkcSDNXz3Wmq",
-   "url": "https://www.twitch.tv/theburntpeanut/clip/BelovedAntediluvianPineappleRuleFive-vr7KvkcSDNXz3Wmq",
-   "title": "Hutch Try this",
-   "streamer": "TheBurntPeanut",
-   "login": "theburntpeanut",
-   "views": 262,
-   "vph": 6.8,
-   "duration": 30,
-   "created_at": "2026-11-24T19:50:36Z",
-   "label": "Hutch Try this",
-   "start": 393.9
-  },
-  {
-   "id": "CulturedFlirtyPepperEleGiggle-UVrnRpC87ubTj_qS",
-   "url": "https://www.twitch.tv/kaicenat/clip/CulturedFlirtyPepperEleGiggle-UVrnRpC87ubTj_qS",
-   "title": "\ud83d\ude02",
-   "streamer": "KaiCenat",
-   "login": "kaicenat",
-   "views": 257,
-   "vph": 6.1,
-   "duration": 30,
-   "created_at": "2026-11-24T18:07:01Z",
-   "label": "GTA 6",
-   "start": 424.0
-  },
-  {
-   "id": "VainHilariousWallabyCclamChamp-iX7auG-nIhQ_TD4D",
-   "url": "https://www.twitch.tv/kaicenat/clip/VainHilariousWallabyCclamChamp-iX7auG-nIhQ_TD4D",
-   "title": "kkkkkkk",
-   "streamer": "KaiCenat",
-   "login": "kaicenat",
-   "views": 287,
-   "vph": 5.8,
-   "duration": 30,
-   "created_at": "2026-11-24T15:06:28Z",
-   "label": "Kkkkkkk",
-   "start": 454.1
+   "label": "Jynxzi T-bones a car downtown",
+   "start": 114.6
   },
   {
    "id": "MildSmoggyAnteaterKappa-3WP2E55Pb1Nr6KEb",
@@ -196,8 +92,8 @@
    "vph": 4.7,
    "duration": 30,
    "created_at": "2026-11-24T19:04:38Z",
-   "label": "Take yo ass on",
-   "start": 484.2
+   "label": "Speed's late-night ATM stickup",
+   "start": 144.7
   },
   {
    "id": "ExquisiteProudSharkBuddhaBar-x3xz_e92ptmLgPNe",
@@ -209,34 +105,8 @@
    "vph": 4.3,
    "duration": 60,
    "created_at": "2026-11-24T15:04:27Z",
-   "label": "Done lost mind",
-   "start": 514.3
-  },
-  {
-   "id": "ViscousAgileRingTTours-zmuuN2CL9U1d0S8d",
-   "url": "https://www.twitch.tv/ishowspeed/clip/ViscousAgileRingTTours-zmuuN2CL9U1d0S8d",
-   "title": "singing",
-   "streamer": "IShowSpeed",
-   "login": "ishowspeed",
-   "views": 167,
-   "vph": 3.9,
-   "duration": 30,
-   "created_at": "2026-11-24T17:56:39Z",
-   "label": "Singing",
-   "start": 574.4
-  },
-  {
-   "id": "LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra",
-   "url": "https://www.twitch.tv/jynxzi/clip/LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra",
-   "title": "NAH JYNXZI",
-   "streamer": "Jynxzi",
-   "login": "jynxzi",
-   "views": 1227,
-   "vph": 42.3,
-   "duration": 11.4,
-   "created_at": "2026-11-25T00:15:51Z",
-   "label": "NAH JYNXZI",
-   "start": 604.5
+   "label": "CaseOh goes on a carjacking spree",
+   "start": 174.8
   }
  ],
  "thumbnails": [
@@ -244,38 +114,38 @@
    "file": "episode/2026-11-25/thumb_A.jpg",
    "base": "episode/2026-11-25/base_A.jpg",
    "spot": [
-    0.479,
-    0.526
+    0.358,
+    0.37
    ],
    "mark": "arrow",
    "text": "NO WAY",
-   "from_clip": "UgliestBombasticLyrebirdGrammarKing-dnKxm2XupKOuVp3Z"
+   "from_clip": "LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra"
   },
   {
    "file": "episode/2026-11-25/thumb_B.jpg",
    "base": "episode/2026-11-25/base_B.jpg",
    "spot": [
-    0.358,
-    0.37
+    0.502,
+    0.811
    ],
    "mark": "arrow",
-   "text": "SENT FLYING",
-   "from_clip": "LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra"
+   "text": "FAILS",
+   "from_clip": "GloriousShortRamenANELE-1Bn-506RuvLm-UJb"
   },
   {
    "file": "episode/2026-11-25/thumb_C.jpg",
    "base": "episode/2026-11-25/base_C.jpg",
    "spot": [
-    0.502,
-    0.811
+    0.617,
+    0.485
    ],
    "mark": "circle",
-   "text": "INSANE",
-   "from_clip": "GloriousShortRamenANELE-1Bn-506RuvLm-UJb"
+   "text": "TOP 10",
+   "from_clip": "GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR"
   }
  ],
  "screened_out": [],
  "default_title": "GTA 6 Best Clips of the Day #13",
  "release": "ep-2026-11-25",
- "built_at": "2026-11-25T14:54:56Z"
+ "built_at": "2026-11-25T15:04:27Z"
 }

@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
  "episode": 13,
- "length_s": 235,
+ "length_s": 181,
  "target_s": 900,
  "clips": [
   {
@@ -18,19 +18,6 @@
    "start": 0.0
   },
   {
-   "id": "GloriousShortRamenANELE-1Bn-506RuvLm-UJb",
-   "url": "https://www.twitch.tv/theburntpeanut/clip/GloriousShortRamenANELE-1Bn-506RuvLm-UJb",
-   "title": "Did Lucia Get In?",
-   "streamer": "TheBurntPeanut",
-   "login": "theburntpeanut",
-   "views": 566,
-   "vph": 35.9,
-   "duration": 22.9,
-   "created_at": "2026-11-25T06:49:56Z",
-   "label": "Peanut taxis a jet from the cops",
-   "start": 11.4
-  },
-  {
    "id": "GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR",
    "url": "https://www.twitch.tv/hasanabi/clip/GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR",
    "title": "Parachute WASTED",
@@ -41,20 +28,7 @@
    "duration": 20,
    "created_at": "2026-11-25T02:34:27Z",
    "label": "Hasan's rooftop parachute jump fails",
-   "start": 34.3
-  },
-  {
-   "id": "PowerfulLitigiousPancakeLitFam-Iqa8P1Bfy2yGQvNw",
-   "url": "https://www.twitch.tv/kaicenat/clip/PowerfulLitigiousPancakeLitFam-Iqa8P1Bfy2yGQvNw",
-   "title": "shut up \ud83d\ude2d",
-   "streamer": "KaiCenat",
-   "login": "kaicenat",
-   "views": 378,
-   "vph": 9.0,
-   "duration": 31,
-   "created_at": "2026-11-24T18:19:33Z",
-   "label": "Kai gets heckled at a car meet",
-   "start": 54.4
+   "start": 11.4
   },
   {
    "id": "FairHelpfulPistachioAllenHuhu-5JAr3GB-5If6Whey",
@@ -67,7 +41,7 @@
    "duration": 29,
    "created_at": "2026-11-24T18:18:59Z",
    "label": "Speed steals a red pickup",
-   "start": 85.5
+   "start": 31.5
   },
   {
    "id": "GentleSmokyGrasshopperKeepo-QQuktfF4QaMrTIOf",
@@ -80,7 +54,7 @@
    "duration": 30,
    "created_at": "2026-11-24T20:56:45Z",
    "label": "Jynxzi T-bones a car downtown",
-   "start": 114.6
+   "start": 60.6
   },
   {
    "id": "MildSmoggyAnteaterKappa-3WP2E55Pb1Nr6KEb",
@@ -93,7 +67,7 @@
    "duration": 30,
    "created_at": "2026-11-24T19:04:38Z",
    "label": "Speed's late-night ATM stickup",
-   "start": 144.7
+   "start": 90.7
   },
   {
    "id": "ExquisiteProudSharkBuddhaBar-x3xz_e92ptmLgPNe",
@@ -106,7 +80,7 @@
    "duration": 60,
    "created_at": "2026-11-24T15:04:27Z",
    "label": "CaseOh goes on a carjacking spree",
-   "start": 174.8
+   "start": 120.8
   }
  ],
  "thumbnails": [
@@ -125,27 +99,27 @@
    "file": "episode/2026-11-25/thumb_B.jpg",
    "base": "episode/2026-11-25/base_B.jpg",
    "spot": [
-    0.502,
-    0.811
+    0.617,
+    0.485
    ],
    "mark": "arrow",
-   "text": "FAILS",
-   "from_clip": "GloriousShortRamenANELE-1Bn-506RuvLm-UJb"
+   "text": "COPS?!",
+   "from_clip": "GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR"
   },
   {
    "file": "episode/2026-11-25/thumb_C.jpg",
    "base": "episode/2026-11-25/base_C.jpg",
    "spot": [
-    0.617,
-    0.485
+    0.25,
+    0.522
    ],
    "mark": "circle",
-   "text": "TOP 10",
-   "from_clip": "GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR"
+   "text": "BEST CLIPS",
+   "from_clip": "FairHelpfulPistachioAllenHuhu-5JAr3GB-5If6Whey"
   }
  ],
  "screened_out": [],
  "default_title": "GTA 6 Best Clips of the Day #13",
  "release": "ep-2026-11-25",
- "built_at": "2026-11-25T15:04:27Z"
+ "built_at": "2026-11-25T15:13:42Z"
 }

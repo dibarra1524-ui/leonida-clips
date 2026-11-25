@@ -1,1 +1,16 @@
-{"verdict": "yes", "title": "Hasan Jumped Off a Roof in GTA 6... It Went Wrong", "thumbnail": "episode/2026-11-25/thumb_B.jpg", "faults_fixed": ["dropped 10 non-GTA/menu/nude-shower/cutscene/dead-air clips (ohnePixel x5, Jynxzi quiz, Peanut gym, Kai x2, Speed snake)", "round 1: dropped Kai car-meet clip (anime livery could not be cleared)", "round 1: dropped dark Peanut jet clip (label not readable/supported)", "round 1: twitch handle box over bottom-left facecams moved to top (new _handle_top option)", "thumbnails re-cut by hand from clean frames (no facecams/HUD/handles), generic text replaced"], "rounds": 2}
+{
+ "verdict": "yes",
+ "title": "Hasan Jumped Off a Roof in GTA 6... It Went Wrong",
+ "thumbnail": "episode/2026-11-25/thumb_B.jpg",
+ "faults_fixed": [
+  "dropped 10 non-GTA/menu/nude-shower/cutscene/dead-air clips (ohnePixel x5, Jynxzi quiz, Peanut gym, Kai x2, Speed snake)",
+  "round 1: dropped Kai car-meet clip (anime livery could not be cleared)",
+  "round 1: dropped dark Peanut jet clip (label not readable/supported)",
+  "round 1: twitch handle box over bottom-left facecams moved to top (new _handle_top option)",
+  "thumbnails re-cut by hand from clean frames (no facecams/HUD/handles), generic text replaced"
+ ],
+ "rounds": 2,
+ "youtube_id": "YU0rhHDlSt4",
+ "uploaded_at": "2026-11-25T15:18:47Z",
+ "thumbnail_status": "set"
+}

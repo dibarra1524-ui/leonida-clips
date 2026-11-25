@@ -2176,6 +2176,35 @@
    },
    "hook": "Kai Cenat did not see that coming",
    "duration": 9.71
+  },
+  {
+   "id": "DarkEvilBobaDogFace-BhjKcxyU2NCkrSiR",
+   "media_id": "18122870374766301",
+   "posted_at": "2026-11-25T02:46:27Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "none",
+    "cap_size": 96,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "upper",
+    "opener": "normal",
+    "ending": "hard",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "kaicenat",
+    "len": "35-50",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "topic:funny": 1,
+    "topic:police": 1,
+    "topic:weapon": 1,
+    "hour": "18"
+   },
+   "hook": "Kai Cenat loses it mid chase",
+   "duration": 45.0
   }
  ]
 }

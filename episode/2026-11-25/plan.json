@@ -1,86 +1,138 @@
 {
  "date": "2026-11-25",
- "episode": 13,
- "length_s": 181,
+ "episode": 14,
+ "length_s": 395,
  "target_s": 900,
  "clips": [
   {
-   "id": "LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra",
-   "url": "https://www.twitch.tv/jynxzi/clip/LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra",
-   "title": "NAH JYNXZI",
-   "streamer": "Jynxzi",
-   "login": "jynxzi",
-   "views": 1227,
-   "vph": 42.3,
-   "duration": 11.4,
-   "created_at": "2026-11-25T00:15:51Z",
-   "label": "Jynxzi smashes into a horse paddock",
+   "id": "HardVictoriousPeafowlTwitchRPG-j8Q8j8GsgrudaSJH",
+   "url": "https://www.twitch.tv/tminnzy/clip/HardVictoriousPeafowlTwitchRPG-j8Q8j8GsgrudaSJH",
+   "title": "I STOLE THEIR LAMBO AND TOLD THEM TO BUY ANOTHER ONE \ud83e\udd23\ud83c\udfce\ufe0f",
+   "streamer": "Tminnzy",
+   "login": "tminnzy",
+   "views": 7809,
+   "vph": 354.9,
+   "duration": 29.8,
+   "created_at": "2026-11-25T11:19:41Z",
+   "label": "I STOLE THEIR LAMBO AND TOLD THEM TO BUY ANOTHER",
    "start": 0.0
   },
   {
-   "id": "GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR",
-   "url": "https://www.twitch.tv/hasanabi/clip/GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR",
-   "title": "Parachute WASTED",
-   "streamer": "HasanAbi",
-   "login": "hasanabi",
-   "views": 512,
-   "vph": 21.2,
-   "duration": 20,
-   "created_at": "2026-11-25T02:34:27Z",
-   "label": "Hasan's rooftop parachute jump fails",
-   "start": 11.4
+   "id": "CuteBillowingNewtFutureMan-tke0qzRbN2y_lJpx",
+   "url": "https://www.twitch.tv/ohnepixel/clip/CuteBillowingNewtFutureMan-tke0qzRbN2y_lJpx",
+   "title": "paid actor",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 470,
+   "vph": 30.2,
+   "duration": 31.8,
+   "created_at": "2026-11-25T14:38:05Z",
+   "label": "Paid actor",
+   "start": 29.9
   },
   {
-   "id": "FairHelpfulPistachioAllenHuhu-5JAr3GB-5If6Whey",
-   "url": "https://www.twitch.tv/ishowspeed/clip/FairHelpfulPistachioAllenHuhu-5JAr3GB-5If6Whey",
-   "title": "Speed steals a car in GTA VI",
-   "streamer": "IShowSpeed",
-   "login": "ishowspeed",
-   "views": 356,
-   "vph": 8.5,
-   "duration": 29,
-   "created_at": "2026-11-24T18:18:59Z",
-   "label": "Speed steals a red pickup",
-   "start": 31.5
+   "id": "CloudySoftAnacondaKreygasm-5ADDipgBhFJMEqU6",
+   "url": "https://www.twitch.tv/ohnepixel/clip/CloudySoftAnacondaKreygasm-5ADDipgBhFJMEqU6",
+   "title": "This Is Where u Do the....",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 208,
+   "vph": 28.2,
+   "duration": 27.6,
+   "created_at": "2026-11-25T19:11:12Z",
+   "label": "This Is Where u Do the",
+   "start": 61.8
   },
   {
-   "id": "GentleSmokyGrasshopperKeepo-QQuktfF4QaMrTIOf",
-   "url": "https://www.twitch.tv/jynxzi/clip/GentleSmokyGrasshopperKeepo-QQuktfF4QaMrTIOf",
-   "title": "lol",
-   "streamer": "Jynxzi",
-   "login": "jynxzi",
-   "views": 254,
-   "vph": 7.0,
-   "duration": 30,
-   "created_at": "2026-11-24T20:56:45Z",
-   "label": "Jynxzi T-bones a car downtown",
-   "start": 60.6
-  },
-  {
-   "id": "MildSmoggyAnteaterKappa-3WP2E55Pb1Nr6KEb",
-   "url": "https://www.twitch.tv/ishowspeed/clip/MildSmoggyAnteaterKappa-3WP2E55Pb1Nr6KEb",
-   "title": "Take yo ass on",
-   "streamer": "IShowSpeed",
-   "login": "ishowspeed",
-   "views": 190,
-   "vph": 4.7,
-   "duration": 30,
-   "created_at": "2026-11-24T19:04:38Z",
-   "label": "Speed's late-night ATM stickup",
-   "start": 90.7
-  },
-  {
-   "id": "ExquisiteProudSharkBuddhaBar-x3xz_e92ptmLgPNe",
-   "url": "https://www.twitch.tv/caseoh_/clip/ExquisiteProudSharkBuddhaBar-x3xz_e92ptmLgPNe",
-   "title": "done lost mind",
+   "id": "AbstemiousPrettyFiddleheadsNinjaGrumpy--kvlqhtuGMfbKcOE",
+   "url": "https://www.twitch.tv/caseoh_/clip/AbstemiousPrettyFiddleheadsNinjaGrumpy--kvlqhtuGMfbKcOE",
+   "title": "just get job",
    "streamer": "caseoh_",
    "login": "caseoh_",
-   "views": 212,
-   "vph": 4.3,
+   "views": 219,
+   "vph": 14.8,
    "duration": 60,
-   "created_at": "2026-11-24T15:04:27Z",
-   "label": "CaseOh goes on a carjacking spree",
-   "start": 120.8
+   "created_at": "2026-11-25T15:01:49Z",
+   "label": "Just get job",
+   "start": 89.5
+  },
+  {
+   "id": "DeterminedSullenSalsifyTheRinger-eK-6VgJIVSraRB9T",
+   "url": "https://www.twitch.tv/caseoh_/clip/DeterminedSullenSalsifyTheRinger-eK-6VgJIVSraRB9T",
+   "title": "out the car",
+   "streamer": "caseoh_",
+   "login": "caseoh_",
+   "views": 190,
+   "vph": 12.8,
+   "duration": 60,
+   "created_at": "2026-11-25T15:00:11Z",
+   "label": "Out the car",
+   "start": 149.6
+  },
+  {
+   "id": "StrongCourageousBubbleteaBCWarrior-CrFjNT7DUToHg7yl",
+   "url": "https://www.twitch.tv/ohnepixel/clip/StrongCourageousBubbleteaBCWarrior-CrFjNT7DUToHg7yl",
+   "title": "eyetracker",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 597,
+   "vph": 11.9,
+   "duration": 30,
+   "created_at": "2026-11-24T22:17:00Z",
+   "label": "Eyetracker",
+   "start": 209.7
+  },
+  {
+   "id": "TalentedObliqueCaribouEagleEye-S7_KNFf7to3ihHwJ",
+   "url": "https://www.twitch.tv/theburntpeanut/clip/TalentedObliqueCaribouEagleEye-S7_KNFf7to3ihHwJ",
+   "title": "WE DID IT WEE D....",
+   "streamer": "TheBurntPeanut",
+   "login": "theburntpeanut",
+   "views": 242,
+   "vph": 6.6,
+   "duration": 30,
+   "created_at": "2026-11-25T04:19:01Z",
+   "label": "WE DID IT WEE D",
+   "start": 239.8
+  },
+  {
+   "id": "SleepySmoothCockroachNerfRedBlaster-DKTJUZo_XZFiTRkH",
+   "url": "https://www.twitch.tv/theburntpeanut/clip/SleepySmoothCockroachNerfRedBlaster-DKTJUZo_XZFiTRkH",
+   "title": "Oopsie",
+   "streamer": "TheBurntPeanut",
+   "login": "theburntpeanut",
+   "views": 177,
+   "vph": 4.4,
+   "duration": 55.4,
+   "created_at": "2026-11-25T02:33:13Z",
+   "label": "Oopsie",
+   "start": 269.9
+  },
+  {
+   "id": "UglyGleamingQueleaBibleThump--INh4fpyg_yLVsz3",
+   "url": "https://www.twitch.tv/hasanabi/clip/UglyGleamingQueleaBibleThump--INh4fpyg_yLVsz3",
+   "title": "can I pet them?",
+   "streamer": "HasanAbi",
+   "login": "hasanabi",
+   "views": 169,
+   "vph": 3.4,
+   "duration": 30,
+   "created_at": "2026-11-24T22:49:08Z",
+   "label": "Can I pet them?",
+   "start": 325.4
+  },
+  {
+   "id": "BlatantWimpySoymilkPrimeMe-8lBVgEuJ9jryDXOd",
+   "url": "https://www.twitch.tv/tminnzy/clip/BlatantWimpySoymilkPrimeMe-8lBVgEuJ9jryDXOd",
+   "title": "I TRIED TO HELP AN OLD LADY AND SHE KIDNAPPED ME?! \ud83d\udc75\ud83c\udffc\ud83e\udee8",
+   "streamer": "Tminnzy",
+   "login": "tminnzy",
+   "views": 9570,
+   "vph": 308.8,
+   "duration": 39.5,
+   "created_at": "2026-11-25T06:59:03Z",
+   "label": "I TRIED TO HELP AN OLD LADY AND SHE KIDNAPPED ME",
+   "start": 355.5
   }
  ],
  "thumbnails": [
@@ -89,37 +141,44 @@
    "base": "episode/2026-11-25/base_A.jpg",
    "spot": [
     0.5,
-    0.3
+    0.5
    ],
-   "mark": "none",
-   "text": "NOT THE HORSE",
-   "from_clip": "LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra"
+   "mark": "arrow",
+   "text": "NO WAY",
+   "from_clip": "HardVictoriousPeafowlTwitchRPG-j8Q8j8GsgrudaSJH"
   },
   {
    "file": "episode/2026-11-25/thumb_B.jpg",
    "base": "episode/2026-11-25/base_B.jpg",
    "spot": [
-    0.5,
-    0.3
+    0.356,
+    0.456
    ],
-   "mark": "none",
-   "text": "HE JUMPED",
-   "from_clip": "GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR"
+   "mark": "arrow",
+   "text": "INSANE",
+   "from_clip": "BlatantWimpySoymilkPrimeMe-8lBVgEuJ9jryDXOd"
   },
   {
    "file": "episode/2026-11-25/thumb_C.jpg",
    "base": "episode/2026-11-25/base_C.jpg",
    "spot": [
     0.5,
-    0.7
+    0.5
    ],
-   "mark": "none",
-   "text": "TRUCK STOLEN",
-   "from_clip": "FairHelpfulPistachioAllenHuhu-5JAr3GB-5If6Whey"
+   "mark": "circle",
+   "text": "COPS?!",
+   "from_clip": "CuteBillowingNewtFutureMan-tke0qzRbN2y_lJpx"
   }
  ],
- "screened_out": [],
- "default_title": "GTA 6 Best Clips of the Day #13",
+ "screened_out": [
+  {
+   "id": "VainDeafSwanFailFish-zLBHycm6Ca4NVnoE",
+   "streamer": "ohnePixel",
+   "title": "gta-6-losing-cops-driving-backwards-car",
+   "why": "nudity (BUTTOCKS_EXPOSED)"
+  }
+ ],
+ "default_title": "GTA 6 Best Clips of the Day #14",
  "release": "ep-2026-11-25",
- "built_at": "2026-11-25T15:13:42Z"
+ "built_at": "2026-11-25T22:31:49Z"
 }

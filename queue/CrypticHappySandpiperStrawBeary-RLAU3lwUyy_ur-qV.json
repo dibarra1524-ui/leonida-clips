@@ -1,0 +1,55 @@
+{
+ "id": "CrypticHappySandpiperStrawBeary-RLAU3lwUyy_ur-qV",
+ "streamer": "Lacy",
+ "login": "lacy",
+ "title": "clip 2",
+ "views": 86,
+ "created_at": "2026-11-23T21:04:47Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/lacy/clip/CrypticHappySandpiperStrawBeary-RLAU3lwUyy_ur-qV",
+ "platform": "twitch",
+ "credit": "twitch.tv/lacy",
+ "layout": "cam",
+ "transcript": "Oh no! Let's do some what? Lucy on my heart! What the fuck am I telling you this? You scared! I got it right there! I thought I switched to Jason and go see Maggie!",
+ "score": 1.3,
+ "campaign": {
+  "id": "reach-lacy-gta",
+  "name": "$12,500 LACY GTA VI Marathon Pool (Reach)",
+  "mention": "LACY",
+  "hashtag": "#LACY",
+  "rules": "Lacy must be the main focus; caption/overlay must say LACY; caption must have #LACY; no logos; never negative about Lacy; English audience; submit link within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a?group=1",
+  "min_total_views": 750000,
+  "ends": "when the marathon ends",
+  "cta": "Watch LACY live: twitch.tv/lacy",
+  "pay": "pool $12.5K split by views, needs 750K total views",
+  "alt": {
+   "id": "reach-lacy-30day",
+   "name": "$25,000 Lacy 30 Day Campaign (Reach, TikTok/IG/YT)",
+   "submit_at": "https://contentrewards.com/c/campaigns/dc7183a8-7779-4b54-99a8-b7ac8c8452ec",
+   "pay": "pool $25K split by views, needs 1M total views, 500 views per clip, ends Dec 21",
+   "rules": "mention Lacy in caption/overlay, #Lacy hashtag, Lacy must be the primary focus"
+  }
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "smart",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "stakes",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 48.0,
+ "action": 0.741,
+ "action_parts": {
+  "audio": 0.89,
+  "motion": 0.56,
+  "talk": 0.7,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-25T02:24:47Z",
+ "hot": false
+}

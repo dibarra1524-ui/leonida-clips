@@ -2232,6 +2232,32 @@
    },
    "hook": "Wait for YourRAGE's bike ride",
    "duration": 21.21
+  },
+  {
+   "id": "StrangeGentlePonyBudStar-qattR303Vz2M05y_",
+   "media_id": "18119796839017192",
+   "posted_at": "2026-11-25T05:43:29Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "none",
+    "cap_size": 96,
+    "cap_pos": "mid",
+    "hook_style": "streamer",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "hard",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:police": 1,
+    "hour": "21"
+   },
+   "hook": "Boeshi's boat dies at sea",
+   "duration": 31.2
   }
  ]
 }

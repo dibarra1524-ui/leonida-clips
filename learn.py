@@ -29,7 +29,7 @@ GENES = {
     'cap_pos':    ['low', 'mid'],                # captions low on the gameplay or right under the seam
     'hook_style': ['streamer', 'reaction', 'stakes', 'question'],
     'hook_case':  ['upper', 'title'],
-    'opener':     ['normal', 'cold'],            # cold = flash the payoff (~1.2 s) first, then play from the start
+    'opener':     ['cold'],                      # (normal retired 11/25: open on the peak by default) cold = flash the payoff (~1.2 s) first, then play from the start
     'ending':     ['runon', 'hard'],             # hard = cut 0.5 s after the last big moment, no tail
     'punch':      ['off', 'on'],                 # on = 1.15x punch-in zoom on the gameplay for 0.6 s at the loudest moment
 }

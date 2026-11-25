@@ -206,7 +206,7 @@ def main():
             c['dropped'] = str(e)[:200]
             continue
         c['start'] = round(t, 1)
-        chapters.append('%d:%02d %s - %s' % (int(t) // 60, int(t) % 60, c['label'], c['streamer']))
+        chapters.append((t, '%s - %s' % (c['label'], c['streamer'])))
         subprocess.run(['ffmpeg', '-y', '-v', 'error', '-ss', str(min(2.5, dur(s) / 2)), '-i', s, '-frames:v', '1',
                         '-vf', 'scale=640:-2', '%s/frames/%02d.jpg' % (d, i)])
         t += dur(s)
@@ -217,10 +217,12 @@ def main():
     os.makedirs('out', exist_ok=True)
     subprocess.run(['ffmpeg', '-y', '-v', 'error', '-f', 'concat', '-safe', '0', '-i', lst, '-c', 'copy',
                     '-movflags', '+faststart', 'out/episode.mp4'], check=True)
-    if chapters and not chapters[0].startswith('0:00'):
-        chapters[0] = '0:00' + chapters[0][4:]
+    # YouTube chapter rules (0:00 first, 3+ entries, 10 s+ each), else the block silently does not render
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'tools', 'yt'))
+    import chapters as ytch
+    chapters = ytch.lines(chapters, t)
     credits = sorted({c['login'] for c in clips})
-    desc = ('The best GTA 6 moments from the last 24 hours.\n\n' + '\n'.join(chapters) +
+    desc = ('The best GTA 6 moments from the last 24 hours.\n\n' + ('\n'.join(chapters) + '\n' if chapters else '') +
             '\n\nCredits - go follow them:\n' + '\n'.join('https://twitch.tv/' + l for l in credits) +
             '\n\nClips:\n' + '\n'.join(c['url'] for c in clips) +
             '\n\nAll clips belong to the streamers credited above. Want a clip removed? Comment and it comes down.\n'

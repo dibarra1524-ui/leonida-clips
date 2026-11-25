@@ -23,6 +23,13 @@ Your job: labels, title, thumbnail, then **the gauntlet rule** - nothing posts u
    Write 5 titles in the winning patterns (short, curiosity, a name if a big streamer is in it, under 60 chars).
    Re-letter any thumbnail if the text is weak: `python episode/thumbs.py redo <date> B "TEXT" [arrow|circle|none] [x y]`
    (2-3 big words, x/y = where the action is, 0-1).
+   **Package check** (title + thumbnail together, from youtube-agent-skill): for each title run
+   `python3 tools/yt/title.py --title "TITLE" --thumb "THUMB TEXT"` with the thumbnail text you plan to pair it with.
+   Fix any title with `length` (over 60 chars), `duplicate` (the thumbnail repeats the title's words - the thumbnail
+   must say what the title does not), `shouting` or `front-load`; keep the subject inside the first ~40 characters
+   (the mobile cut). Give the gauntlet agent the 5 titles with their scores. A `no-number` note is only a hint.
+   Chapters in description.txt are built and checked automatically (0:00 first, 3+, 10 s+ each); if the
+   description has no chapter lines, that is because the clips could not meet YouTube's rules.
 4. **Gauntlet.** Spawn a FRESH agent (Agent tool, general-purpose) that has not seen your notes. Give it only:
    the frame paths, the 3 thumbnail paths, the 5 titles, 4 outlier thumbnails from `research/thumbs/` with their titles,
    and the rules in `RULES.md`. Ask it to: pick the best title and thumbnail, then answer **yes or no** for the

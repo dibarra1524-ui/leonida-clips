@@ -2258,6 +2258,32 @@
    },
    "hook": "Boeshi's boat dies at sea",
    "duration": 31.2
+  },
+  {
+   "id": "DelightfulSillyEggplantBrokeBack-aOVighrnSenJSU25",
+   "media_id": "17980445519932426",
+   "posted_at": "2026-11-25T05:45:22Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "low",
+    "hook_style": "streamer",
+    "hook_case": "upper",
+    "opener": "normal",
+    "ending": "runon",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "35-50",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "hour": "21"
+   },
+   "hook": "YourRAGE argues his heart meter away",
+   "duration": 39.25
   }
  ]
 }

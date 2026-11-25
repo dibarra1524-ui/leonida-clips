@@ -2459,6 +2459,31 @@
    },
    "hook": "Boeshi's 2 wildest GTA 6 moments",
    "duration": 28.0
+  },
+  {
+   "id": "ConcernedAltruisticStingrayHotPokket-wQeb5ZDQb3l5fw92",
+   "media_id": "18117805450853854",
+   "posted_at": "2026-11-25T22:45:53Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 72,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "upper",
+    "opener": "cold",
+    "ending": "runon",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "kaicenat",
+    "len": "35-50",
+    "layout": "cam",
+    "action": "high",
+    "hour": "15"
+   },
+   "hook": "Kai Cenat could not believe this",
+   "duration": 45.7
   }
  ]
 }

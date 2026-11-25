@@ -1,6 +1,6 @@
 # What Leonida Replay has learned
 
-Posts: 68. Scored (20h+ old): 60. Exploration: 25%.
+Posts: 69. Scored (20h+ old): 60. Exploration: 25%.
 
 Lift = how far posts with this option beat their neighbours (log-views + retention). Positive is good.
 

@@ -1,0 +1,47 @@
+{
+ "id": "PleasantTalentedCheesecakeFailFish-_aLSGBbSKgpvhDhs",
+ "streamer": "yourragegaming",
+ "login": "yourragegaming",
+ "title": "buddy",
+ "views": 33,
+ "created_at": "2026-11-25T10:16:13Z",
+ "duration": 29.9,
+ "clip_url": "https://www.twitch.tv/yourragegaming/clip/PleasantTalentedCheesecakeFailFish-_aLSGBbSKgpvhDhs",
+ "platform": "twitch",
+ "credit": "twitch.tv/yourragegaming",
+ "layout": "cam",
+ "transcript": "Why is he again? You're not him bro. I'm gonna fuck you up man. Stop being a little fucking bitch about this I'll be what I'm gonna fuck. Why is he us and my shit? Good hurry cuz he's one slippery motherfucker Of course his motherfuckers doing your same and it move",
+ "score": 1.6,
+ "campaign": {
+  "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
+  "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
+  "mention": "YourRAGE",
+  "hashtag": "#yourrage",
+  "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
+  "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
+  "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "question",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 29.96,
+ "action": 0.656,
+ "action_parts": {
+  "audio": 0.29,
+  "motion": 1.0,
+  "talk": 0.83,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-25T20:43:17Z",
+ "hot": false
+}

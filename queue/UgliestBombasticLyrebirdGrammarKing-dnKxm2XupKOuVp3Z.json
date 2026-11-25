@@ -1,0 +1,37 @@
+{
+ "id": "UgliestBombasticLyrebirdGrammarKing-dnKxm2XupKOuVp3Z",
+ "streamer": "ohnePixel",
+ "login": "ohnepixel",
+ "title": "s1mple",
+ "views": 2965,
+ "created_at": "2026-11-24T13:33:34Z",
+ "duration": 39.2,
+ "clip_url": "https://www.twitch.tv/ohnepixel/clip/UgliestBombasticLyrebirdGrammarKing-dnKxm2XupKOuVp3Z",
+ "platform": "twitch",
+ "credit": "twitch.tv/ohnepixel",
+ "layout": "cam",
+ "transcript": "Three rounds. Zasha Zasha Zasha probably won. I hope you three rounds against his old team Shilzer Well, he played twice didn't he? This is the day where you play twice",
+ "score": 43.9,
+ "campaign": null,
+ "genes": {
+  "max_len": 20,
+  "trim": "none",
+  "cap_size": 72,
+  "cap_pos": "low",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 21.21,
+ "action": 0.489,
+ "action_parts": {
+  "audio": 1.0,
+  "motion": 0.08,
+  "talk": 0.19,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-25T20:43:17Z",
+ "hot": false
+}

@@ -88,33 +88,33 @@
    "file": "episode/2026-11-25/thumb_A.jpg",
    "base": "episode/2026-11-25/base_A.jpg",
    "spot": [
-    0.358,
-    0.37
+    0.5,
+    0.3
    ],
-   "mark": "arrow",
-   "text": "NO WAY",
+   "mark": "none",
+   "text": "NOT THE HORSE",
    "from_clip": "LittleBombasticPangolinDoubleRainbow-85e1yrxtRC0l2Gra"
   },
   {
    "file": "episode/2026-11-25/thumb_B.jpg",
    "base": "episode/2026-11-25/base_B.jpg",
    "spot": [
-    0.617,
-    0.485
+    0.5,
+    0.3
    ],
-   "mark": "arrow",
-   "text": "COPS?!",
+   "mark": "none",
+   "text": "HE JUMPED",
    "from_clip": "GoldenPoisedKeyboardRedCoat-HO3GxS3GCBEqzXcR"
   },
   {
    "file": "episode/2026-11-25/thumb_C.jpg",
    "base": "episode/2026-11-25/base_C.jpg",
    "spot": [
-    0.25,
-    0.522
+    0.5,
+    0.7
    ],
-   "mark": "circle",
-   "text": "BEST CLIPS",
+   "mark": "none",
+   "text": "TRUCK STOLEN",
    "from_clip": "FairHelpfulPistachioAllenHuhu-5JAr3GB-5If6Whey"
   }
  ],

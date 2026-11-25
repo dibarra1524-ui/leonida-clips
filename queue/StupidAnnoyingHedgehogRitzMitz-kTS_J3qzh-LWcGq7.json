@@ -1,0 +1,47 @@
+{
+ "id": "StupidAnnoyingHedgehogRitzMitz-kTS_J3qzh-LWcGq7",
+ "streamer": "KaiCenat",
+ "login": "kaicenat",
+ "title": "Kai Escapes The Bank With 5 Stars On Him!",
+ "views": 63,
+ "created_at": "2026-11-24T20:49:26Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/kaicenat/clip/StupidAnnoyingHedgehogRitzMitz-kTS_J3qzh-LWcGq7",
+ "platform": "twitch",
+ "credit": "twitch.tv/kaicenat",
+ "layout": "full",
+ "transcript": "ZRIP, FAVE - I'm dead and dangerous I'm dead and you're calling air support I just think I'm just spotted on Fuck it, fuck it I'm not your guy, you're looking for me ZRIP, FAVE - I don't want that shit!",
+ "score": 1.2,
+ "campaign": {
+  "id": "clippedshipped-kai-gta6",
+  "name": "Kai Cenat $10,000 GTA 6 Pool (Clipped & Shipped)",
+  "mention": "Kai Cenat",
+  "hashtag": "#KaiCenat",
+  "rules": "Kai Cenat must be the primary focus in the actual edit; caption or overlay must name Kai Cenat; #KaiCenat required; never negative or hate-farm; no logos; no reposts/collab posts; marathon footage from Nov 18 on",
+  "submit_at": "https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86",
+  "pay": "pool $10K split by views; each clip needs 1K views; needs 750K total views",
+  "cta": "Watch Kai Cenat live: twitch.tv/kaicenat",
+  "ends": "when the marathon ends"
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "none",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "stakes",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 31.22,
+ "action": 0.593,
+ "action_parts": {
+  "audio": 0.39,
+  "motion": 1.0,
+  "talk": 0.54,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-25T23:09:58Z",
+ "hot": false
+}

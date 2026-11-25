@@ -2205,6 +2205,33 @@
    },
    "hook": "Kai Cenat loses it mid chase",
    "duration": 45.0
+  },
+  {
+   "id": "ExpensiveRichCroissantKreygasm-ELD7Q3zryx7pdEdC",
+   "media_id": "18176984368457387",
+   "posted_at": "2026-11-25T02:47:53Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "stakes",
+    "hook_case": "upper",
+    "opener": "cold",
+    "ending": "runon",
+    "punch": "on"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "mid",
+    "topic:car": 1,
+    "topic:funny": 1,
+    "hour": "18"
+   },
+   "hook": "Wait for YourRAGE's bike ride",
+   "duration": 21.21
   }
  ]
 }

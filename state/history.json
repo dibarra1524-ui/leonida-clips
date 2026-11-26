@@ -2612,6 +2612,35 @@
    },
    "hook": "Wait for YourRAGE's boat jump",
    "duration": 18.97
+  },
+  {
+   "id": "COMBO-darealboeshi-11261842",
+   "media_id": "18097790162172018",
+   "posted_at": "2026-11-26T18:46:09Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "none",
+    "cap_size": 72,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "hard",
+    "punch": "off",
+    "format": "combo"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "topic:glitch": 1,
+    "topic:npc": 1,
+    "hour": "09"
+   },
+   "hook": "Boeshi's 2 weirdest GTA 6 moments",
+   "duration": 28.0
   }
  ]
 }

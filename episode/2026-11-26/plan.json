@@ -62,34 +62,34 @@
    "file": "episode/2026-11-26/thumb_A.jpg",
    "base": "episode/2026-11-26/base_A.jpg",
    "spot": [
-    0.348,
-    0.585
+    0.5,
+    0.8
    ],
-   "mark": "arrow",
-   "text": "NO WAY",
-   "from_clip": "SillyPeppyShingleEleGiggle-OLVoOBfWxOFDj2OD"
+   "mark": "none",
+   "text": "5 STARS",
+   "from_clip": "SuperDepressedRadishPicoMause-i2gJogQpmtnB5tZD"
   },
   {
    "file": "episode/2026-11-26/thumb_B.jpg",
    "base": "episode/2026-11-26/base_B.jpg",
    "spot": [
-    0.608,
-    0.633
+    0.33,
+    0.6
    ],
-   "mark": "arrow",
-   "text": "FAILS",
-   "from_clip": "FrozenDiligentYakAsianGlow-EVMTvXrvN3Yp7YJ0"
+   "mark": "none",
+   "text": "BAD GETAWAY",
+   "from_clip": "SillyPeppyShingleEleGiggle-OLVoOBfWxOFDj2OD"
   },
   {
    "file": "episode/2026-11-26/thumb_C.jpg",
    "base": "episode/2026-11-26/base_C.jpg",
    "spot": [
-    0.533,
-    0.789
+    0.585,
+    0.645
    ],
    "mark": "circle",
-   "text": "TOP 10",
-   "from_clip": "SuperDepressedRadishPicoMause-i2gJogQpmtnB5tZD"
+   "text": "TOWER BOMB",
+   "from_clip": "FrozenDiligentYakAsianGlow-EVMTvXrvN3Yp7YJ0"
   }
  ],
  "screened_out": [],

@@ -1,0 +1,13 @@
+{
+ "verdict": "yes",
+ "title": "Fighter Jets Hunted TheBurntPeanut in GTA 6",
+ "thumbnail": "episode/2026-11-26/thumb_A.jpg",
+ "faults_fixed": [
+  "dropped 9 clips: non-GTA browsing/quiz (ohnePixel x4), Jerma van mission dialogue x2, Catch-the-thief mission, weak alley clip, extra Peanut drive (3-per-streamer)",
+  "round 1: dropped HUD-less Peanut lobby clip (looked like a cutscene)",
+  "round 1: Jerma handle boxes moved to top (_handle_top)",
+  "new _order option keeps same-streamer clips apart",
+  "thumbnails re-cut by hand: clean jet frame (no HUD/avatar), HUD edges cropped off B/C, generic/misleading text (TOP 10, NO WAY, COPS?!) replaced"
+ ],
+ "rounds": 2
+}

@@ -5,3 +5,4 @@
 - 2026-11-23 | source ArtisticKindWerewolfPJSalt-l8WOZIQTpW5_5uQx (DiegoLoveless) | hook: Windows down on the Leonida highway
 - 2026-11-24 | source BlueBlitheMarjoramWoofer-ZSasg_aIiI5hO6pA (caseoh_) | hook: Convertible weather in Vice City
 - 2026-11-25 | source SmoggyCleverMosquitoTBTacoRight-RVBfPSPbe5p5k44q (caseoh_) | hook: Taking the long way through Leonida
+- 2026-11-26 | source SneakyZanyReindeerGrammarKing-kpyL3xCv90okawFH (caseoh_) | hook: Riding the causeway into Vice City

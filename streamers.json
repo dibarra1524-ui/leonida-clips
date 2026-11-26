@@ -101,7 +101,12 @@
   {
    "login": "jerma985",
    "approved": true,
-   "cam": null
+   "cam": [
+    0,
+    0.5691,
+    0.193,
+    0.2033
+   ]
   },
   {
    "login": "lacy",

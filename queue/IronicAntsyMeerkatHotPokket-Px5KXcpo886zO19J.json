@@ -1,0 +1,37 @@
+{
+ "id": "IronicAntsyMeerkatHotPokket-Px5KXcpo886zO19J",
+ "streamer": "TheBurntPeanut",
+ "login": "theburntpeanut",
+ "title": "LMFAOOOOO",
+ "views": 308,
+ "created_at": "2026-11-26T05:56:33Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/theburntpeanut/clip/IronicAntsyMeerkatHotPokket-Px5KXcpo886zO19J",
+ "platform": "twitch",
+ "credit": "twitch.tv/theburntpeanut",
+ "layout": "full",
+ "transcript": "I'll keep it moving just back to the grind. Go you hear me? Yeah, I hear you. I hear you know hundred percent Hundred percent I apologize",
+ "score": 63.1,
+ "campaign": null,
+ "genes": {
+  "max_len": 20,
+  "trim": "none",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "streamer",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 21.21,
+ "action": 0.446,
+ "action_parts": {
+  "audio": 0.34,
+  "motion": 1.0,
+  "talk": 0.17,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-26T08:14:53Z",
+ "hot": false
+}

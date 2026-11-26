@@ -1,0 +1,37 @@
+{
+ "id": "GrotesqueHonestBaconLitFam-3VjkBrl4qO7sbRQ0",
+ "streamer": "Jerma985",
+ "login": "jerma985",
+ "title": "worst noise 2026",
+ "views": 238,
+ "created_at": "2026-11-26T02:12:47Z",
+ "duration": 12.3,
+ "clip_url": "https://www.twitch.tv/jerma985/clip/GrotesqueHonestBaconLitFam-3VjkBrl4qO7sbRQ0",
+ "platform": "twitch",
+ "credit": "twitch.tv/jerma985",
+ "layout": "cam",
+ "transcript": "Get in here and close the door. Get in here and close the door.",
+ "score": 20.7,
+ "campaign": null,
+ "genes": {
+  "max_len": 60,
+  "trim": "smart",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 9.97,
+ "action": 0.676,
+ "action_parts": {
+  "audio": 1.0,
+  "motion": 0.84,
+  "talk": 0.19,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-26T08:14:53Z",
+ "hot": false
+}

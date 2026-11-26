@@ -173,6 +173,9 @@ def main():
     clips = [c for c in clips if c['id'] not in drop]
     if labels.get('_first'):                     # the review run can pick a stronger opener
         clips.sort(key=lambda c: c['id'] != labels['_first'])
+    if labels.get('_order'):                     # full running order (keeps same-streamer clips apart)
+        pos = {k: i for i, k in enumerate(labels['_order'])}
+        clips.sort(key=lambda c: pos.get(c['id'], len(pos)))
     tmp = tempfile.mkdtemp()
     if not (a.relabel and plan):
         kept, total, screened = [], 0, []

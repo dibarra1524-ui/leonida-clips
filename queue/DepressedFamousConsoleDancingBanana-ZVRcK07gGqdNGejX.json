@@ -1,0 +1,47 @@
+{
+ "id": "DepressedFamousConsoleDancingBanana-ZVRcK07gGqdNGejX",
+ "streamer": "yourragegaming",
+ "login": "yourragegaming",
+ "title": "rage grtting sscred",
+ "views": 25,
+ "created_at": "2026-11-26T01:17:31Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/yourragegaming/clip/DepressedFamousConsoleDancingBanana-ZVRcK07gGqdNGejX",
+ "platform": "twitch",
+ "credit": "twitch.tv/yourragegaming",
+ "layout": "cam",
+ "transcript": "OH MY GOD! Gimme now! What the fuck?! I broke the fucking wall! What the fuck?! There's no fire! Jesus Christ!",
+ "score": 0.7,
+ "campaign": {
+  "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
+  "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
+  "mention": "YourRAGE",
+  "hashtag": "#yourrage",
+  "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
+  "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
+  "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 30,
+  "trim": "smart",
+  "cap_size": 72,
+  "cap_pos": "low",
+  "hook_style": "question",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "on"
+ },
+ "kept": 13.47,
+ "action": 0.713,
+ "action_parts": {
+  "audio": 0.2,
+  "motion": 1.0,
+  "talk": 0.81,
+  "bonus": 0.1
+ },
+ "queued_at": "2026-11-26T18:26:08Z",
+ "hot": false
+}

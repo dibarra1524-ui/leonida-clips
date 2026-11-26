@@ -1,0 +1,47 @@
+{
+ "id": "PoorTolerantPeafowlDAESuppy-Mn6tRYxCWa9pacUQ",
+ "streamer": "darealboeshi",
+ "login": "darealboeshi",
+ "title": "Streaming GTA 6 (gone right)",
+ "views": 25,
+ "created_at": "2026-11-26T08:23:39Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/darealboeshi/clip/PoorTolerantPeafowlDAESuppy-Mn6tRYxCWa9pacUQ",
+ "platform": "twitch",
+ "credit": "twitch.tv/darealboeshi",
+ "layout": "cam",
+ "transcript": "I have a haunted. What is happening? What is the ATV following me? Dude, I have a haunted ATV. I have a haunted ATV following me, bro. What the hell is happening? What is this ATV following me? Dude, what is going on? What is this ATV following? Is this a glitch? What is that?",
+ "score": 1.1,
+ "campaign": {
+  "id": "cliplaunch-boeshi-gta6",
+  "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+  "mention": "Boeshi",
+  "hashtag": "#Boeshi",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+  "pay": "cpm $1.00/1K, max $300/clip",
+  "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 45,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 24.47,
+ "action": 0.739,
+ "action_parts": {
+  "audio": 0.44,
+  "motion": 1.0,
+  "talk": 0.9,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-26T18:26:08Z",
+ "hot": false
+}

@@ -147,19 +147,19 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 ## Trending right now (from the last fetch)
 
-Topics: car 1.00, funny 0.20, map 0.10, npc 0.01
+Topics: car 1.00, funny 0.40, map 0.10, police 0.10
 
-Streamers: tminnzy 1.00, theburntpeanut 0.48, yourragegaming 0.08, ironmouse 0.07, maximilian_dood 0.07, supertf 0.05, ohnepixel 0.04, typicalgamer 0.03
+Streamers: ohnepixel 1.00, joe_bartolozzi 0.38, elajjaz 0.20, nickeh30 0.17, quin69 0.17, shroud 0.16, missmikkaa 0.14, jinnytty 0.12
 
 Hook ideas from trending Shorts titles:
 
-- 🔴PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE!
 - 🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!
 - Grand Theft Auto VI: Official Cover Art Reveal
 - GTA 6 - Stealing a Jet From the Military Base
-- GTA 6 (Grand Theft Auto VI) - Official Trailer
+- GTA 6 – CRAZY 5-Star Police Chase & Rampage at Vice Ocean Beach!
 - Grand Theft Auto VI: An Extended Look | Now Playing | Netflix
 - iShowSpeed Finds A HULK-LIKE MONSTER In GTA 6 😱
 - GTA 6 User Reviews Are Finally Out..
 - GTA 6 WTF and Funny Moments! #2
 - GTA 6 - Best Ending (True Ending)
+- GTA 6 WTF and Funny Moments! #3

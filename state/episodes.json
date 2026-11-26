@@ -325,7 +325,16 @@
   "RelatedFrailBananaTheThing-c31lAFK1QEFFlhXQ",
   "MoldyFrailWolverineCeilingCat-nyAwTKpBHqgJSDqW",
   "SavoryTiredChoughDxCat-s-C3tJy4ejsnewDX",
-  "IronicAntsyMeerkatHotPokket-Px5KXcpo886zO19J"
+  "IronicAntsyMeerkatHotPokket-Px5KXcpo886zO19J",
+  "BreakableWimpyStarlingFutureMan-8I8IqOwAd2RtZEY2",
+  "AnnoyingTallRaisinDAESuppy-Pyr1bqtNvKc2l_CS",
+  "AlertJoyousLocustDuDudu-WhPSSZkhvAKdLxX-",
+  "ObliviousHumbleWitchTinyFace-p28E_8obudrl68BO",
+  "AgitatedCorrectDuckDBstyle-bjuB1psjguFTGQgD",
+  "PowerfulQuaintPeafowlWutFace-o3KvjQ2j5QD34--P",
+  "VastDistinctAxeKeyboardCat-NwivcUO9uj5CnQTB",
+  "TrustworthyHedonisticVelociraptorAsianGlow-hri2gEc9JPgQsKvo",
+  "AcceptableEnthusiasticCrabDBstyle-N2tWEOiDGS1KLrTc"
  ],
  "episodes": [
   {
@@ -433,6 +442,12 @@
    "clips": 14,
    "youtube_id": "Wa5acWPb3Ec",
    "title": "Fighter Jets Hunted TheBurntPeanut in GTA 6"
+  },
+  {
+   "date": "2026-11-26",
+   "status": "built",
+   "length_s": 227,
+   "clips": 9
   }
  ]
 }

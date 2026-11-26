@@ -1,60 +1,125 @@
 {
  "date": "2026-11-26",
- "episode": 15,
- "length_s": 110,
+ "episode": 16,
+ "length_s": 227,
  "target_s": 900,
  "clips": [
   {
-   "id": "SillyPeppyShingleEleGiggle-OLVoOBfWxOFDj2OD",
-   "url": "https://www.twitch.tv/jerma985/clip/SillyPeppyShingleEleGiggle-OLVoOBfWxOFDj2OD",
-   "title": "holy f-",
-   "streamer": "Jerma985",
-   "login": "jerma985",
-   "views": 445,
-   "vph": 12.2,
-   "duration": 8.7,
-   "created_at": "2026-11-25T20:49:33Z",
-   "label": "Jerma's stolen car rams a cop car",
+   "id": "BreakableWimpyStarlingFutureMan-8I8IqOwAd2RtZEY2",
+   "url": "https://www.twitch.tv/ohnepixel/clip/BreakableWimpyStarlingFutureMan-8I8IqOwAd2RtZEY2",
+   "title": "Meow",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 439,
+   "vph": 117.5,
+   "duration": 20.3,
+   "created_at": "2026-11-26T21:16:36Z",
+   "label": "Meow",
    "start": 0.0
   },
   {
-   "id": "SuperDepressedRadishPicoMause-i2gJogQpmtnB5tZD",
-   "url": "https://www.twitch.tv/theburntpeanut/clip/SuperDepressedRadishPicoMause-i2gJogQpmtnB5tZD",
-   "title": "BOOM",
+   "id": "AnnoyingTallRaisinDAESuppy-Pyr1bqtNvKc2l_CS",
+   "url": "https://www.twitch.tv/ohnepixel/clip/AnnoyingTallRaisinDAESuppy-Pyr1bqtNvKc2l_CS",
+   "title": "???",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 235,
+   "vph": 7.4,
+   "duration": 29.7,
+   "created_at": "2026-11-26T06:27:07Z",
+   "label": "???",
+   "start": 20.4
+  },
+  {
+   "id": "AlertJoyousLocustDuDudu-WhPSSZkhvAKdLxX-",
+   "url": "https://www.twitch.tv/theburntpeanut/clip/AlertJoyousLocustDuDudu-WhPSSZkhvAKdLxX-",
+   "title": "lmao",
    "streamer": "TheBurntPeanut",
    "login": "theburntpeanut",
-   "views": 198,
-   "vph": 10.0,
-   "duration": 50.7,
-   "created_at": "2026-11-26T04:50:20Z",
-   "label": "Peanut's jet chased by fighter jets",
-   "start": 8.8
+   "views": 213,
+   "vph": 5.8,
+   "duration": 30,
+   "created_at": "2026-11-26T04:09:54Z",
+   "label": "GTA 6",
+   "start": 50.2
   },
   {
-   "id": "FrozenDiligentYakAsianGlow-EVMTvXrvN3Yp7YJ0",
-   "url": "https://www.twitch.tv/jerma985/clip/FrozenDiligentYakAsianGlow-EVMTvXrvN3Yp7YJ0",
-   "title": "Blown to SMITHEREENS",
+   "id": "ObliviousHumbleWitchTinyFace-p28E_8obudrl68BO",
+   "url": "https://www.twitch.tv/jerma985/clip/ObliviousHumbleWitchTinyFace-p28E_8obudrl68BO",
+   "title": "psychopath streamer",
    "streamer": "Jerma985",
    "login": "jerma985",
-   "views": 224,
-   "vph": 10.6,
-   "duration": 19.8,
-   "created_at": "2026-11-26T04:10:02Z",
-   "label": "Jerma detonates bombs on a tower",
-   "start": 59.6
+   "views": 165,
+   "vph": 3.7,
+   "duration": 29.9,
+   "created_at": "2026-11-26T00:33:37Z",
+   "label": "Psychopath streamer",
+   "start": 80.3
   },
   {
-   "id": "SavoryTiredChoughDxCat-s-C3tJy4ejsnewDX",
-   "url": "https://www.twitch.tv/jynxzi/clip/SavoryTiredChoughDxCat-s-C3tJy4ejsnewDX",
-   "title": "perfect parking",
-   "streamer": "Jynxzi",
-   "login": "jynxzi",
-   "views": 225,
-   "vph": 5.3,
+   "id": "AgitatedCorrectDuckDBstyle-bjuB1psjguFTGQgD",
+   "url": "https://www.twitch.tv/hasanabi/clip/AgitatedCorrectDuckDBstyle-bjuB1psjguFTGQgD",
+   "title": "Lucia breaks the 4th wall",
+   "streamer": "HasanAbi",
+   "login": "hasanabi",
+   "views": 150,
+   "vph": 3.7,
+   "duration": 32.7,
+   "created_at": "2026-11-26T02:17:19Z",
+   "label": "Lucia breaks the 4th wall",
+   "start": 110.3
+  },
+  {
+   "id": "PowerfulQuaintPeafowlWutFace-o3KvjQ2j5QD34--P",
+   "url": "https://www.twitch.tv/kaicenat/clip/PowerfulQuaintPeafowlWutFace-o3KvjQ2j5QD34--P",
+   "title": "KAI JUST SOLD \ud83d\udc80 | Kai vs Speed GTA 6",
+   "streamer": "KaiCenat",
+   "login": "kaicenat",
+   "views": 200,
+   "vph": 3.7,
    "duration": 30,
-   "created_at": "2026-11-25T18:07:16Z",
-   "label": "Jynxzi parks his truck in a building",
-   "start": 79.5
+   "created_at": "2026-11-25T20:13:50Z",
+   "label": "KAI JUST SOLD | Kai vs Speed GTA 6",
+   "start": 143.1
+  },
+  {
+   "id": "VastDistinctAxeKeyboardCat-NwivcUO9uj5CnQTB",
+   "url": "https://www.twitch.tv/jerma985/clip/VastDistinctAxeKeyboardCat-NwivcUO9uj5CnQTB",
+   "title": "gta 6 is changing jerma \ud83d\udc94",
+   "streamer": "Jerma985",
+   "login": "jerma985",
+   "views": 171,
+   "vph": 3.4,
+   "duration": 10.5,
+   "created_at": "2026-11-25T21:52:38Z",
+   "label": "Gta 6 is changing jerma",
+   "start": 173.2
+  },
+  {
+   "id": "TrustworthyHedonisticVelociraptorAsianGlow-hri2gEc9JPgQsKvo",
+   "url": "https://www.twitch.tv/jerma985/clip/TrustworthyHedonisticVelociraptorAsianGlow-hri2gEc9JPgQsKvo",
+   "title": "pondering the orb GTA6",
+   "streamer": "Jerma985",
+   "login": "jerma985",
+   "views": 178,
+   "vph": 3.3,
+   "duration": 30,
+   "created_at": "2026-11-25T20:20:23Z",
+   "label": "Pondering the orb GTA6",
+   "start": 183.7
+  },
+  {
+   "id": "AcceptableEnthusiasticCrabDBstyle-N2tWEOiDGS1KLrTc",
+   "url": "https://www.twitch.tv/ohnepixel/clip/AcceptableEnthusiasticCrabDBstyle-N2tWEOiDGS1KLrTc",
+   "title": "Ohne?",
+   "streamer": "ohnePixel",
+   "login": "ohnepixel",
+   "views": 253,
+   "vph": 53.2,
+   "duration": 12.7,
+   "created_at": "2026-11-26T20:36:34Z",
+   "label": "Ohne?",
+   "start": 213.8
   }
  ],
  "thumbnails": [
@@ -62,38 +127,51 @@
    "file": "episode/2026-11-26/thumb_A.jpg",
    "base": "episode/2026-11-26/base_A.jpg",
    "spot": [
-    0.5,
-    0.8
+    0.506,
+    0.185
    ],
-   "mark": "none",
-   "text": "5 STARS",
-   "from_clip": "SuperDepressedRadishPicoMause-i2gJogQpmtnB5tZD"
+   "mark": "arrow",
+   "text": "NO WAY",
+   "from_clip": "BreakableWimpyStarlingFutureMan-8I8IqOwAd2RtZEY2"
   },
   {
    "file": "episode/2026-11-26/thumb_B.jpg",
    "base": "episode/2026-11-26/base_B.jpg",
    "spot": [
-    0.33,
-    0.6
+    0.54,
+    0.552
    ],
-   "mark": "none",
-   "text": "BAD GETAWAY",
-   "from_clip": "SillyPeppyShingleEleGiggle-OLVoOBfWxOFDj2OD"
+   "mark": "arrow",
+   "text": "WHAT?!",
+   "from_clip": "AcceptableEnthusiasticCrabDBstyle-N2tWEOiDGS1KLrTc"
   },
   {
    "file": "episode/2026-11-26/thumb_C.jpg",
    "base": "episode/2026-11-26/base_C.jpg",
    "spot": [
-    0.585,
-    0.645
+    0.652,
+    0.693
    ],
    "mark": "circle",
-   "text": "TOWER BOMB",
-   "from_clip": "FrozenDiligentYakAsianGlow-EVMTvXrvN3Yp7YJ0"
+   "text": "BEST CLIPS",
+   "from_clip": "AnnoyingTallRaisinDAESuppy-Pyr1bqtNvKc2l_CS"
   }
  ],
- "screened_out": [],
- "default_title": "GTA 6 Best Clips of the Day #15",
+ "screened_out": [
+  {
+   "id": "SpunkyPlayfulSandwichDerp-jm59fy00oJ0LBAf6",
+   "streamer": "ohnePixel",
+   "title": "step ohne i'm stuck",
+   "why": "nudity (BUTTOCKS_EXPOSED)"
+  },
+  {
+   "id": "GentlePoorVanillaKlappa-I42u0R_w5nxhtLto",
+   "streamer": "ohnePixel",
+   "title": "shopping",
+   "why": "nudity (BUTTOCKS_EXPOSED)"
+  }
+ ],
+ "default_title": "GTA 6 Best Clips of the Day #16",
  "release": "ep-2026-11-26",
- "built_at": "2026-11-26T15:09:07Z"
+ "built_at": "2026-11-26T22:19:42Z"
 }

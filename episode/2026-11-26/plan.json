@@ -1,7 +1,7 @@
 {
  "date": "2026-11-26",
  "episode": 15,
- "length_s": 140,
+ "length_s": 110,
  "target_s": 900,
  "clips": [
   {
@@ -44,19 +44,6 @@
    "start": 59.6
   },
   {
-   "id": "IronicAntsyMeerkatHotPokket-Px5KXcpo886zO19J",
-   "url": "https://www.twitch.tv/theburntpeanut/clip/IronicAntsyMeerkatHotPokket-Px5KXcpo886zO19J",
-   "title": "LMFAOOOOO",
-   "streamer": "TheBurntPeanut",
-   "login": "theburntpeanut",
-   "views": 445,
-   "vph": 25.4,
-   "duration": 30,
-   "created_at": "2026-11-26T05:56:33Z",
-   "label": "Peanut starts a lobby brawl with cops",
-   "start": 79.5
-  },
-  {
    "id": "SavoryTiredChoughDxCat-s-C3tJy4ejsnewDX",
    "url": "https://www.twitch.tv/jynxzi/clip/SavoryTiredChoughDxCat-s-C3tJy4ejsnewDX",
    "title": "perfect parking",
@@ -67,7 +54,7 @@
    "duration": 30,
    "created_at": "2026-11-25T18:07:16Z",
    "label": "Jynxzi parks his truck in a building",
-   "start": 109.6
+   "start": 79.5
   }
  ],
  "thumbnails": [
@@ -75,38 +62,38 @@
    "file": "episode/2026-11-26/thumb_A.jpg",
    "base": "episode/2026-11-26/base_A.jpg",
    "spot": [
-    0.5,
-    0.8
+    0.348,
+    0.585
    ],
-   "mark": "none",
-   "text": "5 STARS",
-   "from_clip": "SuperDepressedRadishPicoMause-i2gJogQpmtnB5tZD"
+   "mark": "arrow",
+   "text": "NO WAY",
+   "from_clip": "SillyPeppyShingleEleGiggle-OLVoOBfWxOFDj2OD"
   },
   {
    "file": "episode/2026-11-26/thumb_B.jpg",
    "base": "episode/2026-11-26/base_B.jpg",
    "spot": [
-    0.33,
-    0.6
+    0.608,
+    0.633
    ],
-   "mark": "none",
-   "text": "BAD GETAWAY",
-   "from_clip": "SillyPeppyShingleEleGiggle-OLVoOBfWxOFDj2OD"
+   "mark": "arrow",
+   "text": "FAILS",
+   "from_clip": "FrozenDiligentYakAsianGlow-EVMTvXrvN3Yp7YJ0"
   },
   {
    "file": "episode/2026-11-26/thumb_C.jpg",
    "base": "episode/2026-11-26/base_C.jpg",
    "spot": [
-    0.585,
-    0.645
+    0.533,
+    0.789
    ],
    "mark": "circle",
-   "text": "TOWER BOMB",
-   "from_clip": "FrozenDiligentYakAsianGlow-EVMTvXrvN3Yp7YJ0"
+   "text": "TOP 10",
+   "from_clip": "SuperDepressedRadishPicoMause-i2gJogQpmtnB5tZD"
   }
  ],
  "screened_out": [],
  "default_title": "GTA 6 Best Clips of the Day #15",
  "release": "ep-2026-11-26",
- "built_at": "2026-11-26T15:01:31Z"
+ "built_at": "2026-11-26T15:09:07Z"
 }

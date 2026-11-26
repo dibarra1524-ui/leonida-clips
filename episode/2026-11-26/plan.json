@@ -75,33 +75,33 @@
    "file": "episode/2026-11-26/thumb_A.jpg",
    "base": "episode/2026-11-26/base_A.jpg",
    "spot": [
-    0.323,
-    0.233
+    0.5,
+    0.8
    ],
-   "mark": "arrow",
-   "text": "NO WAY",
-   "from_clip": "IronicAntsyMeerkatHotPokket-Px5KXcpo886zO19J"
+   "mark": "none",
+   "text": "5 STARS",
+   "from_clip": "SuperDepressedRadishPicoMause-i2gJogQpmtnB5tZD"
   },
   {
    "file": "episode/2026-11-26/thumb_B.jpg",
    "base": "episode/2026-11-26/base_B.jpg",
    "spot": [
-    0.348,
-    0.585
+    0.33,
+    0.6
    ],
-   "mark": "arrow",
-   "text": "TOP 10",
+   "mark": "none",
+   "text": "BAD GETAWAY",
    "from_clip": "SillyPeppyShingleEleGiggle-OLVoOBfWxOFDj2OD"
   },
   {
    "file": "episode/2026-11-26/thumb_C.jpg",
    "base": "episode/2026-11-26/base_C.jpg",
    "spot": [
-    0.608,
-    0.633
+    0.585,
+    0.645
    ],
    "mark": "circle",
-   "text": "COPS?!",
+   "text": "TOWER BOMB",
    "from_clip": "FrozenDiligentYakAsianGlow-EVMTvXrvN3Yp7YJ0"
   }
  ],

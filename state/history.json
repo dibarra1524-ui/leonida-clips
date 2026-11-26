@@ -2586,6 +2586,32 @@
     "age_h": 16.9
    },
    "score": 2.199
+  },
+  {
+   "id": "ApatheticVenomousScallionRaccAttack-iD4mtTThMI6cGfbY",
+   "media_id": "18109876178314743",
+   "posted_at": "2026-11-26T17:45:34Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "stakes",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "runon",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "<20",
+    "layout": "cam",
+    "action": "high",
+    "topic:weapon": 1,
+    "hour": "09"
+   },
+   "hook": "Wait for YourRAGE's boat jump",
+   "duration": 18.97
   }
  ]
 }

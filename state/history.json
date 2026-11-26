@@ -2544,6 +2544,36 @@
     "age_h": 2.0
    },
    "score": 2.452
+  },
+  {
+   "id": "COMBO-yourragegaming-11260045",
+   "media_id": "18096947738181513",
+   "posted_at": "2026-11-26T00:49:15Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 96,
+    "cap_pos": "mid",
+    "hook_style": "question",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "runon",
+    "punch": "on",
+    "format": "combo"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "35-50",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "topic:funny": 1,
+    "topic:npc": 1,
+    "topic:rage": 1,
+    "hour": "15"
+   },
+   "hook": "Ranking YourRAGE's wildest GTA 6 moments",
+   "duration": 42.0
   }
  ]
 }

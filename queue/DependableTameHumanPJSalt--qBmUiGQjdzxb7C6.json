@@ -1,0 +1,47 @@
+{
+ "id": "DependableTameHumanPJSalt--qBmUiGQjdzxb7C6",
+ "streamer": "darealboeshi",
+ "login": "darealboeshi",
+ "title": "boeshi loves the smell of diesel",
+ "views": 38,
+ "created_at": "2026-11-26T07:44:04Z",
+ "duration": 31,
+ "clip_url": "https://www.twitch.tv/darealboeshi/clip/DependableTameHumanPJSalt--qBmUiGQjdzxb7C6",
+ "platform": "twitch",
+ "credit": "twitch.tv/darealboeshi",
+ "layout": "cam",
+ "transcript": "Whenever I go to the guy pour it on the car smother me smother it in the gas You guys I love the smell of dizzle. I absolutely love the smell of dizzle whenever I go to the gas station I get I get very happy because the the smell of dizzle is a very Nice melt. Oh god. I got to go to the frickin bathroom We're gonna go back and move the air. Let's leave. Let's leave the area. Alright, I'm gonna go to the I'm gonna",
+ "score": 0.9,
+ "campaign": {
+  "id": "cliplaunch-boeshi-gta6",
+  "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+  "mention": "Boeshi",
+  "hashtag": "#Boeshi",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+  "pay": "cpm $1.00/1K, max $300/clip",
+  "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 30,
+  "trim": "smart",
+  "cap_size": 84,
+  "cap_pos": "low",
+  "hook_style": "stakes",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 31.2,
+ "action": 0.54,
+ "action_parts": {
+  "audio": 0.53,
+  "motion": 0.78,
+  "talk": 0.38,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-27T02:50:46Z",
+ "hot": false
+}

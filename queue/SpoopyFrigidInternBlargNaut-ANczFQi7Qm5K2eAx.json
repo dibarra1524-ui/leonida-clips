@@ -1,0 +1,47 @@
+{
+ "id": "SpoopyFrigidInternBlargNaut-ANczFQi7Qm5K2eAx",
+ "streamer": "yourragegaming",
+ "login": "yourragegaming",
+ "title": "wtf \ud83d\ude06\ud83d\ude06\ud83d\ude06",
+ "views": 27,
+ "created_at": "2026-11-26T10:42:27Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/yourragegaming/clip/SpoopyFrigidInternBlargNaut-ANczFQi7Qm5K2eAx",
+ "platform": "twitch",
+ "credit": "twitch.tv/yourragegaming",
+ "layout": "cam",
+ "transcript": "Bay May I got who's the mission? That's enough. Get out of there. Bay, I don't have a choice. They could motherfucking do both. I know you hear me. Bay! Cue Samantha. Stop! It's my turn. Mr. Hands. Hey! Hey! Cue Rod Bay! Wait, what the fuck? Run! Nothing happens. Oh, stop! Don't! Get out! Get out!",
+ "score": 1.0,
+ "campaign": {
+  "id": "be9b123e-ea47-4305-b6c5-af81f503b247",
+  "name": "YourRAGE $5,000 GTA 6 Pool Campaign (Reach)",
+  "mention": "YourRAGE",
+  "hashtag": "#yourrage",
+  "rules": "YourRAGE must be the main focus playing GTA 6; caption must include #yourrage; never negative about YourRAGE; submit within 30 min of posting",
+  "submit_at": "https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247",
+  "pay": "pool $5K split by views, needs 500K total views, 500 views per clip",
+  "cta": "Watch YourRAGE live: twitch.tv/yourragegaming",
+  "ends": "when the pool ends"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "none",
+  "cap_size": 96,
+  "cap_pos": "low",
+  "hook_style": "reaction",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "off"
+ },
+ "kept": 31.22,
+ "action": 0.992,
+ "action_parts": {
+  "audio": 0.87,
+  "motion": 1.0,
+  "talk": 0.84,
+  "bonus": 0.1
+ },
+ "queued_at": "2026-11-27T02:50:46Z",
+ "hot": false
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PhilanthropicBovineAppleRaccAttack-NMEUYaHdrE2gu0pJ",
+ "streamer": "Jerma985",
+ "login": "jerma985",
+ "title": "I'M NOT A C**K",
+ "views": 993,
+ "created_at": "2026-11-25T19:24:20Z",
+ "duration": 11.2,
+ "clip_url": "https://www.twitch.tv/jerma985/clip/PhilanthropicBovineAppleRaccAttack-NMEUYaHdrE2gu0pJ",
+ "platform": "twitch",
+ "credit": "twitch.tv/jerma985",
+ "layout": "cam",
+ "transcript": "i have no i am not okay you are a cuck for real i have no i am not a cuck i am not a cuck okay",
+ "score": 15.5,
+ "campaign": null,
+ "genes": {
+  "max_len": 30,
+  "trim": "none",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "off"
+ },
+ "kept": 12.42,
+ "action": 0.41,
+ "action_parts": {
+  "audio": 0.26,
+  "motion": 0.81,
+  "talk": 0.29,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-27T02:50:46Z",
+ "hot": false
+}

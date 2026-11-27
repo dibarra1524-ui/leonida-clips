@@ -36,33 +36,22 @@
    "file": "episode/2026-11-27/thumb_A.jpg",
    "base": "episode/2026-11-27/base_A.jpg",
    "spot": [
-    0.5,
-    0.5
+    0.31,
+    0.604
    ],
-   "mark": "none",
-   "text": "HELI SHOWED UP",
-   "from_clip": "SullenProductiveNikudonDogFace-WHn5zQpYZUaphvn8"
+   "mark": "arrow",
+   "text": "NO WAY",
+   "from_clip": "VictoriousSingleSangFreakinStinkin-I-p2E8b0FENVSCc6"
   },
   {
    "file": "episode/2026-11-27/thumb_B.jpg",
    "base": "episode/2026-11-27/base_B.jpg",
    "spot": [
-    0.5,
-    0.5
-   ],
-   "mark": "none",
-   "text": "THEY SENT SWAT",
-   "from_clip": "SullenProductiveNikudonDogFace-WHn5zQpYZUaphvn8"
-  },
-  {
-   "file": "episode/2026-11-27/thumb_C.jpg",
-   "base": "episode/2026-11-27/base_C.jpg",
-   "spot": [
-    0.45,
-    0.8
+    0.767,
+    0.237
    ],
    "mark": "arrow",
-   "text": "COPS ROPED DOWN",
+   "text": "FAILS",
    "from_clip": "SullenProductiveNikudonDogFace-WHn5zQpYZUaphvn8"
   }
  ],
@@ -76,5 +65,5 @@
  ],
  "default_title": "GTA 6 Best Clips of the Day #17",
  "release": "ep-2026-11-27",
- "built_at": "2026-11-27T14:56:58Z"
+ "built_at": "2026-11-27T15:03:42Z"
 }

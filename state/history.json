@@ -2747,6 +2747,34 @@
    },
    "hook": "YourRAGE was not ready for this",
    "duration": 23.13
+  },
+  {
+   "id": "COMBO-kaicenat-11272243",
+   "media_id": "18362924596223467",
+   "posted_at": "2026-11-27T22:47:32Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "mid",
+    "hook_style": "stakes",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "hard",
+    "punch": "on",
+    "format": "combo"
+   },
+   "traits": {
+    "streamer": "kaicenat",
+    "len": "35-50",
+    "layout": "cam",
+    "action": "mid",
+    "topic:car": 1,
+    "topic:money": 1,
+    "hour": "15"
+   },
+   "hook": "Ranking Kai Cenat's wildest GTA 6 moments",
+   "duration": 42.0
   }
  ]
 }

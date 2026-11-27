@@ -36,22 +36,33 @@
    "file": "episode/2026-11-27/thumb_A.jpg",
    "base": "episode/2026-11-27/base_A.jpg",
    "spot": [
-    0.31,
-    0.604
+    0.5,
+    0.5
    ],
-   "mark": "arrow",
-   "text": "NO WAY",
-   "from_clip": "VictoriousSingleSangFreakinStinkin-I-p2E8b0FENVSCc6"
+   "mark": "none",
+   "text": "HELI SHOWED UP",
+   "from_clip": "SullenProductiveNikudonDogFace-WHn5zQpYZUaphvn8"
   },
   {
    "file": "episode/2026-11-27/thumb_B.jpg",
    "base": "episode/2026-11-27/base_B.jpg",
    "spot": [
-    0.767,
-    0.237
+    0.5,
+    0.5
+   ],
+   "mark": "none",
+   "text": "THEY SENT SWAT",
+   "from_clip": "SullenProductiveNikudonDogFace-WHn5zQpYZUaphvn8"
+  },
+  {
+   "file": "episode/2026-11-27/thumb_C.jpg",
+   "base": "episode/2026-11-27/base_C.jpg",
+   "spot": [
+    0.45,
+    0.8
    ],
    "mark": "arrow",
-   "text": "BEST CLIPS",
+   "text": "COPS ROPED DOWN",
    "from_clip": "SullenProductiveNikudonDogFace-WHn5zQpYZUaphvn8"
   }
  ],

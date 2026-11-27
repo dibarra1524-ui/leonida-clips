@@ -1,0 +1,47 @@
+{
+ "id": "FineAltruisticCroissantPJSugar-UEp6f0WFQktT-FjO",
+ "streamer": "darealboeshi",
+ "login": "darealboeshi",
+ "title": "hahahaha",
+ "views": 35,
+ "created_at": "2026-11-26T10:10:51Z",
+ "duration": 26.3,
+ "clip_url": "https://www.twitch.tv/darealboeshi/clip/FineAltruisticCroissantPJSugar-UEp6f0WFQktT-FjO",
+ "platform": "twitch",
+ "credit": "twitch.tv/darealboeshi",
+ "layout": "cam",
+ "transcript": "Ha cobs had to both put an effort to continue going to relationships. All right You found it stand out vehicle some of this part may be unique destroyed and can be reapplied and modified Ha cobs don't even know it's me",
+ "score": 0.5,
+ "campaign": {
+  "id": "cliplaunch-boeshi-gta6",
+  "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+  "mention": "Boeshi",
+  "hashtag": "#Boeshi",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+  "pay": "cpm $1.00/1K, max $300/clip",
+  "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "smart",
+  "cap_size": 84,
+  "cap_pos": "low",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "off"
+ },
+ "kept": 27.55,
+ "action": 0.601,
+ "action_parts": {
+  "audio": 0.74,
+  "motion": 0.93,
+  "talk": 0.2,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-27T13:50:59Z",
+ "hot": false
+}

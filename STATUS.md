@@ -16,3 +16,4 @@ Daily episodes and weekly research notes. Newest at the bottom.
 - 2026-11-25 episode #13 "Hasan Jumped Off a Roof in GTA 6... It Went Wrong" https://youtu.be/YU0rhHDlSt4 (6 clips, 3:01, thumbnail thumb_B.jpg)
 - 2026-11-26 episode #15 "Fighter Jets Hunted TheBurntPeanut in GTA 6" https://youtu.be/Wa5acWPb3Ec (4 clips, 1:50, thumbnail thumb_A.jpg)
 - 2026-11-27 episode #17 "Jynxzi Started a Rooftop Brawl in GTA 6" https://youtu.be/wBizv6Vz7M4 (2 clips, 1:20, thumbnail thumb_C.jpg)
+2026-11-27 review: the 6:07 daily episode cron skipped; build requested by the review run at 14:47 UTC. Thin day: only 6 candidate clips, 4 dropped (2 ohnePixel PS5-menu dead air, Hasan story-mission dialogue, ohnePixel bathroom-following clip), so the episode is 2 clips / 1:20. Gauntlet NO (handle over facecam, 2 clips) -> fixed handle -> YES round 2.

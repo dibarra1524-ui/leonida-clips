@@ -2720,6 +2720,33 @@
    },
    "hook": "Ranking Boeshi's oddest GTA 6 moments",
    "duration": 28.0
+  },
+  {
+   "id": "ShakingAbrasiveParrotStrawBeary-fMxh7AlYdQd9ZV7J",
+   "media_id": "18027996623945348",
+   "posted_at": "2026-11-27T20:46:23Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "none",
+    "cap_size": 84,
+    "cap_pos": "low",
+    "hook_style": "reaction",
+    "hook_case": "upper",
+    "opener": "cold",
+    "ending": "hard",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "yourragegaming",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "topic:rage": 1,
+    "hour": "12"
+   },
+   "hook": "YourRAGE was not ready for this",
+   "duration": 23.13
   }
  ]
 }

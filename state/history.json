@@ -2665,6 +2665,33 @@
     "age_h": 22.9
    },
    "score": 2.217
+  },
+  {
+   "id": "ResourcefulPleasantCasetteBIRB-o4dpCMlGWX1vzPry",
+   "media_id": "18101104604402581",
+   "posted_at": "2026-11-27T17:48:02Z",
+   "genes": {
+    "max_len": 45,
+    "trim": "smart",
+    "cap_size": 72,
+    "cap_pos": "mid",
+    "hook_style": "reaction",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "runon",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "kaicenat",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:funny": 1,
+    "topic:police": 1,
+    "hour": "09"
+   },
+   "hook": "Kai Cenat could not believe this",
+   "duration": 31.22
   }
  ]
 }

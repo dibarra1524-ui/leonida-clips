@@ -1,1 +1,19 @@
-{"verdict": "yes", "title": "Jynxzi Started a Rooftop Brawl in GTA 6", "thumbnail": "episode/2026-11-27/thumb_C.jpg", "faults_fixed": ["dropped 2 ohnePixel PS5-menu dead-air clips", "dropped Hasan story-mission dialogue clip (Petra cutscene)", "dropped ohnePixel bathroom-following clip (suggestive)", "Jynxzi label moved top-right off Nick's facecam", "Jynxzi handle box moved off bottom-right facecam (_handle_top)", "label typos fixed (Jynzi, H\"ass\"an)", "thumbnails rebuilt from a clean heli/SWAT frame (no facecams, hit markers or ragdolls)", "Nickeh30 credited in description"], "rounds": 2}
+{
+ "verdict": "yes",
+ "title": "Jynxzi Started a Rooftop Brawl in GTA 6",
+ "thumbnail": "episode/2026-11-27/thumb_C.jpg",
+ "faults_fixed": [
+  "dropped 2 ohnePixel PS5-menu dead-air clips",
+  "dropped Hasan story-mission dialogue clip (Petra cutscene)",
+  "dropped ohnePixel bathroom-following clip (suggestive)",
+  "Jynxzi label moved top-right off Nick's facecam",
+  "Jynxzi handle box moved off bottom-right facecam (_handle_top)",
+  "label typos fixed (Jynzi, H\"ass\"an)",
+  "thumbnails rebuilt from a clean heli/SWAT frame (no facecams, hit markers or ragdolls)",
+  "Nickeh30 credited in description"
+ ],
+ "rounds": 2,
+ "youtube_id": "wBizv6Vz7M4",
+ "uploaded_at": "2026-11-27T15:07:28Z",
+ "thumbnail_status": "set"
+}

@@ -2692,6 +2692,34 @@
    },
    "hook": "Kai Cenat could not believe this",
    "duration": 31.22
+  },
+  {
+   "id": "COMBO-darealboeshi-11271845",
+   "media_id": "18010568825787856",
+   "posted_at": "2026-11-27T18:48:46Z",
+   "genes": {
+    "max_len": 30,
+    "trim": "smart",
+    "cap_size": 84,
+    "cap_pos": "low",
+    "hook_style": "stakes",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "hard",
+    "punch": "off",
+    "format": "combo"
+   },
+   "traits": {
+    "streamer": "darealboeshi",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "mid",
+    "topic:car": 1,
+    "topic:npc": 1,
+    "hour": "09"
+   },
+   "hook": "Ranking Boeshi's oddest GTA 6 moments",
+   "duration": 28.0
   }
  ]
 }

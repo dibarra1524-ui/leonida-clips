@@ -340,7 +340,14 @@
   "VictoriousSingleSangFreakinStinkin-I-p2E8b0FENVSCc6",
   "EnchantingTastyAirGuitarKlappa-1vq8lCSj1M6bb8BX",
   "SullenProductiveNikudonDogFace-WHn5zQpYZUaphvn8",
-  "ComfortableArborealBananaMoreCowbell-hoy5o_IVZ_uaPoZx"
+  "ComfortableArborealBananaMoreCowbell-hoy5o_IVZ_uaPoZx",
+  "FineGlutenFreePlumberRedCoat-AohGQY2Z95W_bCXV",
+  "AnimatedTriumphantMonkeyTwitchRPG-ChAhSNxiNA4_wa9D",
+  "TsundereSpeedyHareResidentSleeper-NVBoCCJtkUVbgTLV",
+  "RoughEasyBeefFailFish-K8vT0jB6nL8zlS90",
+  "VictoriousLongEelPermaSmug-SZvZviSSMq4eGGjX",
+  "GenerousFriendlyJayCopyThis-eed0mSuhGjHpLHWt",
+  "MuddyThankfulHamburgerWOOP-32I2qIowZGpSVcd8"
  ],
  "episodes": [
   {
@@ -462,6 +469,12 @@
    "clips": 6,
    "youtube_id": "wBizv6Vz7M4",
    "title": "Jynxzi Started a Rooftop Brawl in GTA 6"
+  },
+  {
+   "date": "2026-11-28",
+   "status": "built",
+   "length_s": 264,
+   "clips": 7
   }
  ]
 }

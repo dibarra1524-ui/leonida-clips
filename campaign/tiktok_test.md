@@ -5,3 +5,4 @@
 - 2026-11-25 | clip CulturedFlirtyPepperEleGiggle-UVrnRpC87ubTj_qS | KaiCenat | clippedshipped-kai-gta6 | hook: Kai Cenat's 4 Hour Million Challenge | sound: (David fills in) | views 24h: (filled later)
 - 2026-11-26 | clip CrackyFragileSowMikeHogu-b_havgFa_qWxlFJj | bobby_vanriper | clippingnation-bobby-gta6 | hook: Bobby VanRiper Unlocks A Lamborghini | sound: (David fills in) | views 24h: (filled later)
 - 2026-11-27 | clip ProductiveTriangularShrimpFeelsBadMan-5ywp020qG3oRSe_R | darealboeshi | cliplaunch-boeshi-gta6 | hook: Boeshi's Airboat Chase Goes Feral | sound: (David fills in) | views 24h: (filled later)
+- 2026-11-28 | clip SuperBombasticHamsterShazBotstix-aFAHE3oYldCg1Qws | bobby_vanriper | clippingnation-bobby-gta6 | hook: Bobby VanRiper Can't Catch Lucia | sound: (David fills in) | views 24h: (filled later)

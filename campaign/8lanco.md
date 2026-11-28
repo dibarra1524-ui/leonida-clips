@@ -7,3 +7,4 @@
 - 2026-11-25 | source SmoggyCleverMosquitoTBTacoRight-RVBfPSPbe5p5k44q (caseoh_) | hook: Taking the long way through Leonida
 - 2026-11-26 | source SneakyZanyReindeerGrammarKing-kpyL3xCv90okawFH (caseoh_) | hook: Riding the causeway into Vice City
 - 2026-11-27 | source HardVictoriousPeafowlTwitchRPG-j8Q8j8GsgrudaSJH (Tminnzy) | hook: Palm trees, open road, no destination
+- 2026-11-28 | source InspiringSpicyWrenChefFrank-Ygt2HZJp0RomeVtY (bobby_vanriper) | hook: Sunset cruise till the highway fights back

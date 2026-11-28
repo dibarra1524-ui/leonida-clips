@@ -1,0 +1,37 @@
+{
+ "id": "GoldenWildPepperoniTwitchRaid-dJPNN-6ZwFtouU7s",
+ "streamer": "ohnePixel",
+ "login": "ohnepixel",
+ "title": "gta 6 fastest hands standoff",
+ "views": 1602,
+ "created_at": "2026-11-26T21:32:51Z",
+ "duration": 23.2,
+ "clip_url": "https://www.twitch.tv/ohnepixel/clip/GoldenWildPepperoniTwitchRaid-dJPNN-6ZwFtouU7s",
+ "platform": "twitch",
+ "credit": "twitch.tv/ohnepixel",
+ "layout": "cam",
+ "transcript": "No, I can slow everything down and I can kill her trust me Watch this",
+ "score": 20.7,
+ "campaign": null,
+ "genes": {
+  "max_len": 20,
+  "trim": "smart",
+  "cap_size": 72,
+  "cap_pos": "mid",
+  "hook_style": "stakes",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "off"
+ },
+ "kept": 21.21,
+ "action": 0.583,
+ "action_parts": {
+  "audio": 1.0,
+  "motion": 0.6,
+  "talk": 0.09,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-28T07:44:28Z",
+ "hot": false
+}

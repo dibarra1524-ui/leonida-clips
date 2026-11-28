@@ -1,0 +1,37 @@
+{
+ "id": "TsundereSpeedyHareResidentSleeper-NVBoCCJtkUVbgTLV",
+ "streamer": "HasanAbi",
+ "login": "hasanabi",
+ "title": "Vibing a polar bear",
+ "views": 906,
+ "created_at": "2026-11-27T22:19:27Z",
+ "duration": 40.1,
+ "clip_url": "https://www.twitch.tv/hasanabi/clip/TsundereSpeedyHareResidentSleeper-NVBoCCJtkUVbgTLV",
+ "platform": "twitch",
+ "credit": "twitch.tv/hasanabi",
+ "layout": "cam",
+ "transcript": "It's a polar bear dog. You can't be releasing them things around human being Try to vibe with it. No, I even I know you can't buy with a white polar bear",
+ "score": 46.5,
+ "campaign": null,
+ "genes": {
+  "max_len": 45,
+  "trim": "none",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "streamer",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 41.33,
+ "action": 0.364,
+ "action_parts": {
+  "audio": 0.36,
+  "motion": 0.74,
+  "talk": 0.1,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-28T07:44:28Z",
+ "hot": false
+}

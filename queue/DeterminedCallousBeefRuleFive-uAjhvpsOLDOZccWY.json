@@ -1,0 +1,37 @@
+{
+ "id": "DeterminedCallousBeefRuleFive-uAjhvpsOLDOZccWY",
+ "streamer": "ohnePixel",
+ "login": "ohnepixel",
+ "title": "almost almost",
+ "views": 1443,
+ "created_at": "2026-11-27T09:58:26Z",
+ "duration": 20.8,
+ "clip_url": "https://www.twitch.tv/ohnepixel/clip/DeterminedCallousBeefRuleFive-uAjhvpsOLDOZccWY",
+ "platform": "twitch",
+ "credit": "twitch.tv/ohnepixel",
+ "layout": "cam",
+ "transcript": "Nine! Oh my god! Nine! Almost, almost! They all were so close. That was actually the closest one so far. Ohhh!",
+ "score": 31.0,
+ "campaign": null,
+ "genes": {
+  "max_len": 45,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "low",
+  "hook_style": "question",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 19.95,
+ "action": 0.836,
+ "action_parts": {
+  "audio": 1.0,
+  "motion": 0.71,
+  "talk": 0.74,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-28T07:44:28Z",
+ "hot": false
+}

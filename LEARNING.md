@@ -147,19 +147,19 @@ Lift = how far posts with this option beat their neighbours (log-views + retenti
 
 ## Trending right now (from the last fetch)
 
-Topics: car 1.00, funny 1.00, glitch 0.69, map 0.20
+Topics: car 1.00, npc 0.68, funny 0.37, money 0.10, weapon 0.10
 
-Streamers: ohnepixel 1.00, xalisa 0.83, ironmouse 0.59, cohhcarnage 0.54, banksatkin 0.46, joe_bartolozzi 0.29, loya 0.22, nickeh30 0.20
+Streamers: tminnzy 1.00, zackrawrr 0.67, hasanabi 0.40, shroud 0.17, nickeh30 0.15, dougdoug 0.09, quin69 0.08, morgpie 0.07
 
 Hook ideas from trending Shorts titles:
 
-- Grand Theft Auto VI Trailer 2
-- 🔴PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE!
-- 🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!
-- MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY #1
-- Grand Theft Auto VI: Out Now
-- Welcome to Vice City!  GTA 6 LIVE with Mythpat
-- CARRYMINATI PLAYS GTA VI
-- GTA 6 - Stealing a Jet From the Military Base
-- 🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 1)
-- GTA 6 (Grand Theft Auto 6) - Official Trailer 2
+- Grand Theft Auto VI: Official Cover Art Reveal
+- GTA 6 (Grand Theft Auto VI) - Official Trailer
+- GTA 6 (Grand Theft Auto 6) - Official Launch Trailer
+- Grand Theft Auto VI: An Extended Look | Now Playing | Netflix
+- GTA 6 #2
+- GTA 6 - Best Ending (True Ending)
+- iShowSpeed Finds A HULK-LIKE MONSTER In GTA 6 😱
+- GTA 6 WTF and Funny Moments! #2
+- 50 INSANE Details In GTA 6
+- GTA 6 WTF and Funny Moments! #3

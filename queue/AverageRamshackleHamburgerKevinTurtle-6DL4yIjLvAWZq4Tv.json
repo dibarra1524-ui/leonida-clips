@@ -1,0 +1,47 @@
+{
+ "id": "AverageRamshackleHamburgerKevinTurtle-6DL4yIjLvAWZq4Tv",
+ "streamer": "darealboeshi",
+ "login": "darealboeshi",
+ "title": "holdup",
+ "views": 41,
+ "created_at": "2026-11-27T14:16:58Z",
+ "duration": 59,
+ "clip_url": "https://www.twitch.tv/darealboeshi/clip/AverageRamshackleHamburgerKevinTurtle-6DL4yIjLvAWZq4Tv",
+ "platform": "twitch",
+ "credit": "twitch.tv/darealboeshi",
+ "layout": "cam",
+ "transcript": "Eleven dollars drop come here. I need a I need money. I need get my groceries. I'm not trying to go to back to my house Alright, I'm robbing you alright Eleven dollars come on, bro. I need more We're rather Break no Gotta hide we got up we got to hide There out what do you pull her out?",
+ "score": 0.7,
+ "campaign": {
+  "id": "cliplaunch-boeshi-gta6",
+  "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+  "mention": "Boeshi",
+  "hashtag": "#Boeshi",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+  "pay": "cpm $1.00/1K, max $300/clip",
+  "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 56.72,
+ "action": 0.699,
+ "action_parts": {
+  "audio": 0.88,
+  "motion": 0.86,
+  "talk": 0.38,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-28T16:53:22Z",
+ "hot": false
+}

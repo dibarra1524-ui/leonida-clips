@@ -1,0 +1,37 @@
+{
+ "id": "DaintyHomelyPrariedogTebowing-7Zq5KxyHJj9StXkZ",
+ "streamer": "HasanAbi",
+ "login": "hasanabi",
+ "title": "Austin cameo in GTA VI",
+ "views": 139,
+ "created_at": "2026-11-27T21:59:48Z",
+ "duration": 40.5,
+ "clip_url": "https://www.twitch.tv/hasanabi/clip/DaintyHomelyPrariedogTebowing-7Zq5KxyHJj9StXkZ",
+ "platform": "twitch",
+ "credit": "twitch.tv/hasanabi",
+ "layout": "cam",
+ "transcript": "Yeah! All right, come on baby. Let me show you how it's done. Yeah, I can't believe it. I'll drive",
+ "score": 3.5,
+ "campaign": null,
+ "genes": {
+  "max_len": 60,
+  "trim": "none",
+  "cap_size": 84,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 41.75,
+ "action": 0.433,
+ "action_parts": {
+  "audio": 0.53,
+  "motion": 0.63,
+  "talk": 0.18,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-28T16:53:22Z",
+ "hot": false
+}

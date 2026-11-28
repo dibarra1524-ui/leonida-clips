@@ -1,0 +1,47 @@
+{
+ "id": "EnthusiasticDoubtfulLemurPastaThat-znsos4bhjlxfhPNi",
+ "streamer": "KaiCenat",
+ "login": "kaicenat",
+ "title": "kai vs ishowspeed",
+ "views": 66,
+ "created_at": "2026-11-27T04:04:56Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/kaicenat/clip/EnthusiasticDoubtfulLemurPastaThat-znsos4bhjlxfhPNi",
+ "platform": "twitch",
+ "credit": "twitch.tv/kaicenat",
+ "layout": "cam",
+ "transcript": "How much did he gain? How much you got? How much did he gain? Wait, there's no way! Check it out with us? How much did he gain? How much did he gain?",
+ "score": 1.6,
+ "campaign": {
+  "id": "clippedshipped-kai-gta6",
+  "name": "Kai Cenat $10,000 GTA 6 Pool (Clipped & Shipped)",
+  "mention": "Kai Cenat",
+  "hashtag": "#KaiCenat",
+  "rules": "Kai Cenat must be the primary focus in the actual edit; caption or overlay must name Kai Cenat; #KaiCenat required; never negative or hate-farm; no logos; no reposts/collab posts; marathon footage from Nov 18 on",
+  "submit_at": "https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86",
+  "pay": "pool $10K split by views; each clip needs 1K views; needs 750K total views",
+  "cta": "Watch Kai Cenat live: twitch.tv/kaicenat",
+  "ends": "when the marathon ends"
+ },
+ "genes": {
+  "max_len": 20,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "reaction",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "hard",
+  "punch": "off"
+ },
+ "kept": 19.2,
+ "action": 0.611,
+ "action_parts": {
+  "audio": 0.39,
+  "motion": 1.0,
+  "talk": 0.59,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-28T00:43:22Z",
+ "hot": false
+}

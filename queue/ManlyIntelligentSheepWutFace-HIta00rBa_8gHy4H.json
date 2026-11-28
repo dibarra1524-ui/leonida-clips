@@ -1,0 +1,47 @@
+{
+ "id": "ManlyIntelligentSheepWutFace-HIta00rBa_8gHy4H",
+ "streamer": "darealboeshi",
+ "login": "darealboeshi",
+ "title": "Streaming GTA 6 (gone right)",
+ "views": 53,
+ "created_at": "2026-11-27T07:32:48Z",
+ "duration": 30,
+ "clip_url": "https://www.twitch.tv/darealboeshi/clip/ManlyIntelligentSheepWutFace-HIta00rBa_8gHy4H",
+ "platform": "twitch",
+ "credit": "twitch.tv/darealboeshi",
+ "layout": "cam",
+ "transcript": "buck 400 yes I mean it was it was nice hard honest work guys I'll tell you one thing hard and honest work is always better than easy and easy filthy work yeah there you go all right I'm gonna sell this car to I'm gonna sit now I'm a soldier stolen car to uh to uh Moses",
+ "score": 1.4,
+ "campaign": {
+  "id": "cliplaunch-boeshi-gta6",
+  "name": "Boeshi GTA 6 Clipping (ClipLaunch) $1/1K",
+  "mention": "Boeshi",
+  "hashtag": "#Boeshi",
+  "rules": "Must show the streamer playing GTA 6 as the main focus; accurate caption, no clickbait; push viewers to the streamer's Twitch; no reuploads of other clippers' edits; never post near-identical clips more than 5 times; no botting",
+  "submit_at": "https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69",
+  "pay": "cpm $1.00/1K, max $300/clip",
+  "cta": "Follow Boeshi live: twitch.tv/darealboeshi",
+  "ends": "when budget runs out"
+ },
+ "genes": {
+  "max_len": 60,
+  "trim": "none",
+  "cap_size": 96,
+  "cap_pos": "mid",
+  "hook_style": "streamer",
+  "hook_case": "upper",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "on"
+ },
+ "kept": 30.0,
+ "action": 0.669,
+ "action_parts": {
+  "audio": 0.87,
+  "motion": 0.92,
+  "talk": 0.26,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-28T00:43:22Z",
+ "hot": false
+}

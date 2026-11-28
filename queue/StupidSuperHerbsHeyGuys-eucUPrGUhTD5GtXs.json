@@ -1,0 +1,37 @@
+{
+ "id": "StupidSuperHerbsHeyGuys-eucUPrGUhTD5GtXs",
+ "streamer": "Tminnzy",
+ "login": "tminnzy",
+ "title": "mf is distracted \ud83d\ude2d\ud83d\ude2d",
+ "views": 20940,
+ "created_at": "2026-11-27T14:28:00Z",
+ "duration": 60,
+ "clip_url": "https://www.twitch.tv/tminnzy/clip/StupidSuperHerbsHeyGuys-eucUPrGUhTD5GtXs",
+ "platform": "twitch",
+ "credit": "twitch.tv/tminnzy",
+ "layout": "cam",
+ "transcript": "Or don't need to it's just so crazy, but you can learn from a little scrolling on Just like ingest everything about a person Everything you want to know or don't need to pay attention to the game They listen to or who they used to date or where they work out",
+ "score": 1542.9,
+ "campaign": null,
+ "genes": {
+  "max_len": 20,
+  "trim": "smart",
+  "cap_size": 96,
+  "cap_pos": "low",
+  "hook_style": "reaction",
+  "hook_case": "title",
+  "opener": "cold",
+  "ending": "runon",
+  "punch": "off"
+ },
+ "kept": 24.22,
+ "action": 0.51,
+ "action_parts": {
+  "audio": 0.67,
+  "motion": 0.4,
+  "talk": 0.41,
+  "bonus": 0
+ },
+ "queued_at": "2026-11-28T00:43:22Z",
+ "hot": false
+}

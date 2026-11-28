@@ -2823,6 +2823,31 @@
     "age_h": 18.9
    },
    "score": 2.232
+  },
+  {
+   "id": "UninterestedGracefulTroutBlargNaut-yiduC3LtXF0qxEmN",
+   "media_id": "17891323881485224",
+   "posted_at": "2026-11-28T17:47:23Z",
+   "genes": {
+    "max_len": 20,
+    "trim": "none",
+    "cap_size": 72,
+    "cap_pos": "low",
+    "hook_style": "reaction",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "hard",
+    "punch": "off"
+   },
+   "traits": {
+    "streamer": "kaicenat",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "low",
+    "hour": "09"
+   },
+   "hook": "Kai Cenat was not ready",
+   "duration": 21.21
   }
  ]
 }

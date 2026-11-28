@@ -66,3 +66,4 @@
 - 2026-11-27T18:48:46Z | cliplaunch-boeshi-gta6 | clip COMBO-darealboeshi-11271845 | instagram media 18010568825787856 | youtube short: pending (see shorts/COMBO-darealboeshi-11271845.json)
 - 2026-11-27T20:46:23Z | be9b123e-ea47-4305-b6c5-af81f503b247 | clip ShakingAbrasiveParrotStrawBeary-fMxh7AlYdQd9ZV7J | instagram media 18027996623945348 | youtube short: pending (see shorts/ShakingAbrasiveParrotStrawBeary-fMxh7AlYdQd9ZV7J.json)
 - 2026-11-27T22:47:32Z | clippedshipped-kai-gta6 | clip COMBO-kaicenat-11272243 | instagram media 18362924596223467 | youtube short: pending (see shorts/COMBO-kaicenat-11272243.json)
+- 2026-11-28T17:47Z | clippedshipped-kai-gta6 | clip UninterestedGracefulTroutBlargNaut-yiduC3LtXF0qxEmN | instagram media 17891323881485224 | youtube short: pending (see shorts/UninterestedGracefulTroutBlargNaut-yiduC3LtXF0qxEmN.json)

@@ -2848,6 +2848,35 @@
    },
    "hook": "Kai Cenat was not ready",
    "duration": 21.21
+  },
+  {
+   "id": "COMBO-bobby_vanriper-11281845",
+   "media_id": "18115203497170739",
+   "posted_at": "2026-11-28T18:49:20Z",
+   "genes": {
+    "max_len": 60,
+    "trim": "smart",
+    "cap_size": 96,
+    "cap_pos": "mid",
+    "hook_style": "streamer",
+    "hook_case": "title",
+    "opener": "cold",
+    "ending": "hard",
+    "punch": "off",
+    "format": "combo"
+   },
+   "traits": {
+    "streamer": "bobby_vanriper",
+    "len": "20-35",
+    "layout": "cam",
+    "action": "high",
+    "topic:car": 1,
+    "topic:funny": 1,
+    "topic:npc": 1,
+    "hour": "09"
+   },
+   "hook": "Bobby VanRiper's wildest GTA 6 moments",
+   "duration": 28.0
   }
  ]
 }
